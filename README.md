@@ -10,6 +10,12 @@
 *   [ ] List of Podcasts
 *   [ ] Starting Your Meetup Documentation
     *   [ ] Sponsorship
+    *   [ ] Potential Partnerships
+        *   [ ] Vuetify
+        *   [ ] VueJobs
+        *   [ ] Netlify
+        *   [ ] Vue Mastery
+        *   [ ] Vue Vixens
     *   [ ] Meetup Ideas
     *   [ ] Sample Templates for Talks
     *   [ ] Best Practices
@@ -21,7 +27,8 @@
     *   [ ] App to allow dynamic filtering
         *   [ ] Location
         *   [ ] Topic / Tags
-    *   [ ] Add to calendar
+    *   [ ] Add to user's calendar
+    *   [ ] Automatic fetching of events?
 *   [ ] Official Communication Channels
     *   [ ] Discord? Slack?
     *   [ ] Forums?
