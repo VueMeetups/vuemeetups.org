@@ -31,6 +31,3 @@
         *   [ ] Topic / Tags
     *   [ ] Add to user's calendar
     *   [ ] Automatic fetching of events?
-*   [ ] Official Communication Channels
-    *   [ ] Discord? Slack?
-    *   [ ] Forums?
