@@ -1,10 +1,12 @@
 <script>
 import PageHeader from './components/PageHeader'
+import PageSidebar from './components/PageSidebar'
 
 export default {
 	name: 'App',
 	components: {
-		PageHeader
+		PageHeader,
+		PageSidebar
 	}
 }
 </script>
@@ -12,18 +14,8 @@ export default {
 <template>
   <div id="app" class="app">
     <PageHeader />
+    <PageSidebar />
     <div id="main" class="fix-sidebar">
-      <div class="sidebar">
-        <div class="sidebar-inner">
-          <div class="list">
-            <ul class="menu-root">
-              <li><a href="#">Introduction</a></li>
-              <li><a href="#">Find a Meetup</a></li>        
-              <li><a href="#">Start Your Own Meetup</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
       <router-view/>
     </div>
   </div>
