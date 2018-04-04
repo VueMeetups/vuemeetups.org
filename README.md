@@ -22,6 +22,8 @@
     *   [ ] Different formats to consider
     *   [ ] Standard Code of Conduct
     *   [ ] FAQs
+    *   [ ] Starting Your Own YouTube Channel
+    *   [ ] A Website Template for Your Meetup
 *   [ ] Request Reimbursement Process
 *   [ ] Schedule of Meetups
     *   [ ] App to allow dynamic filtering
@@ -32,3 +34,7 @@
 *   [ ] Official Communication Channels
     *   [ ] Discord? Slack?
     *   [ ] Forums?
+
+## Questions
+
+1.  Should we have one Meetup.com account to minimize cost and manage all event creation going forward? (This is the CodePen model)
