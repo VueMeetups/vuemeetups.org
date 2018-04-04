@@ -34,7 +34,3 @@
 *   [ ] Official Communication Channels
     *   [ ] Discord? Slack?
     *   [ ] Forums?
-
-## Questions
-
-1.  Should we have one Meetup.com account to minimize cost and manage all event creation going forward? (This is the CodePen model)
