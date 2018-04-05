@@ -1,5 +1,11 @@
 # Vue Ambassadors
 
+## Getting Setup
+
+1.  Clone the repo
+2.  Run `yarn` or `npm install`
+3.  Run `yarn serve` or `npm run serve`
+
 ## Roadmap
 
 *   [ ] List of Official Meetups
