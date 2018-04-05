@@ -8,12 +8,6 @@
 
 ## Ideas to Consider
 
-*   [ ] List of Official Meetups
-    *   [ ] Submission process involving getting information on organization and organizers to keep information up to date
-    *   [ ] By becoming official, you get support with things like promotion, RSVP (?), swag (?), community support, etc.
-*   [ ] List of Upcoming / Past Conferences
-    *   [ ] Links to resources for those conferences
-*   [ ] List of Podcasts
 *   [ ] Starting Your Meetup Documentation
     *   [ ] Sponsorship
     *   [ ] Potential Partnerships
