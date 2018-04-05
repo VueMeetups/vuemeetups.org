@@ -83,10 +83,9 @@ export default {
           <h3>Starting Your Own Meetup</h3>
         </li>
         <li>
-          <a href="#" class="sidebar-link current">Introduction</a>
-          <ul class="menu-sub current">
-            <li>
-              <a class="sidebar-link current" href="#">Starting Your Own Meetup</a>
+          <router-link to="/introduction" class="sidebar-link">Introduction</router-link>
+        </li>
+         <li><a class="sidebar-link current" href="#">Essentials</a>
               <ul>
                 <li>
                   <a class="section-link" href="#">Step 1: Name Your Group</a>
@@ -105,8 +104,6 @@ export default {
                 </li>
               </ul>
             </li>
-          </ul>
-        </li>
         <li>
           <a href="#" class="sidebar-link">Resources</a>
           <ul class="menu-sub">
