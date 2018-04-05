@@ -1304,6 +1304,7 @@ ul.demo li {
 	max-width: 600px;
 	margin: 0 auto;
 	padding-left: 50px;
+	box-sizing: border-box;
 }
 .content.api > a:first-of-type > h2 {
 	margin-top: 0;
