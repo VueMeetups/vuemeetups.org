@@ -85,7 +85,7 @@ export default {
         <li>
           <router-link to="/introduction" class="sidebar-link">Introduction</router-link>
         </li>
-         <li><a class="sidebar-link current" href="#">Essentials</a>
+         <li><router-link class="sidebar-link current" to="/">Essentials</router-link>
               <ul>
                 <li>
                   <a class="section-link" href="#">Step 1: Name Your Group</a>
