@@ -1,6 +1,6 @@
 <script>
 export default {
-	name: 'PageSidebar'
+  name: 'PageSidebar'
 }
 </script>
 
@@ -85,7 +85,7 @@ export default {
         <li>
           <router-link to="/introduction" class="sidebar-link">Introduction</router-link>
         </li>
-         <li><router-link class="sidebar-link current" to="/">Essentials</router-link>
+         <li><router-link class="sidebar-link current" to="/essentials">Essentials</router-link>
               <ul>
                 <li>
                   <a class="section-link" href="#">Step 1: Name Your Group</a>
