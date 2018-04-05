@@ -6,7 +6,7 @@
 2.  Run `yarn` or `npm install`
 3.  Run `yarn serve` or `npm run serve`
 
-## Roadmap
+## Ideas to Consider
 
 *   [ ] List of Official Meetups
     *   [ ] Submission process involving getting information on organization and organizers to keep information up to date
