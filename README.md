@@ -1,6 +1,6 @@
-# Vue Ambassadors
+# Vue Meetups
 
-This repo contains a prototype of how we could centralize Vue.js community led efforts (like meetups) going forward. Please check out the the [Issues board](https://github.com/bencodezen/vue-ambassadors/issues) for discussions and tracking progress.
+This repo contains a prototype of how we could centralize Vue.js community led efforts (like meetups) going forward. Please check out the the [Issues board](https://github.com/bencodezen/vue-meetups/issues) for discussions and tracking progress.
 
 ## Getting Setup
 
@@ -10,26 +10,26 @@ This repo contains a prototype of how we could centralize Vue.js community led e
 
 ## Ideas to Consider
 
-*   [ ] Starting Your Meetup Documentation
-    *   [ ] Sponsorship
-    *   [ ] Potential Partnerships
-        *   [ ] Vuetify
-        *   [ ] VueJobs
-        *   [ ] Netlify
-        *   [ ] Vue Mastery
-        *   [ ] Vue Vixens
-    *   [ ] Meetup Ideas
-    *   [ ] Sample Templates for Talks
-    *   [ ] Best Practices
-    *   [ ] Different formats to consider
-    *   [ ] Standard Code of Conduct
-    *   [ ] FAQs
-    *   [ ] Starting Your Own YouTube Channel
-    *   [ ] A Website Template for Your Meetup
-*   [ ] Request Reimbursement Process
-*   [ ] Schedule of Meetups
-    *   [ ] App to allow dynamic filtering
-        *   [ ] Location
-        *   [ ] Topic / Tags
-    *   [ ] Add to user's calendar
-    *   [ ] Automatic fetching of events?
+* [ ] Starting Your Meetup Documentation
+  * [ ] Sponsorship
+  * [ ] Potential Partnerships
+    * [ ] Vuetify
+    * [ ] VueJobs
+    * [ ] Netlify
+    * [ ] Vue Mastery
+    * [ ] Vue Vixens
+  * [ ] Meetup Ideas
+  * [ ] Sample Templates for Talks
+  * [ ] Best Practices
+  * [ ] Different formats to consider
+  * [ ] Standard Code of Conduct
+  * [ ] FAQs
+  * [ ] Starting Your Own YouTube Channel
+  * [ ] A Website Template for Your Meetup
+* [ ] Request Reimbursement Process
+* [ ] Schedule of Meetups
+  * [ ] App to allow dynamic filtering
+    * [ ] Location
+    * [ ] Topic / Tags
+  * [ ] Add to user's calendar
+  * [ ] Automatic fetching of events?
