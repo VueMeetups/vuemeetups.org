@@ -1,28 +1,15 @@
 {
-  "name": "vue-ambassadors",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "serve": "vue-cli-service serve --open",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
-  },
-  "dependencies": {
-    "vue": "^2.5.13",
-    "vue-router": "^3.0.1"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.0-beta.6",
-    "@vue/cli-plugin-eslint": "^3.0.0-beta.6",
-    "@vue/cli-service": "^3.0.0-beta.6",
-    "@vue/eslint-config-prettier": "^3.0.0-beta.6",
-    "node-sass": "^4.7.2",
-    "sass-loader": "^6.0.6",
-    "vue-template-compiler": "^2.5.13"
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
-  ]
+	"name": "vuejs-meetups",
+	"version": "0.1.0-alpha",
+	"description": "Creating a central location for all Vue.js meetups info",
+	"main": ".prettierrc.js",
+	"scripts": {
+		"dev": "vuepress dev docs",
+		"build": "vuepress build docs"
+	},
+	"author": "Ben Hong <bencodezen@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"vuepress": "^0.8.4"
+	}
 }
