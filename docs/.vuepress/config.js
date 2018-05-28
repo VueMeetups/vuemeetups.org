@@ -9,6 +9,10 @@ module.exports = {
 				link: '/'
 			},
 			{
+				text: 'Find a Meetup',
+				link: '/find/'
+			},
+			{
 				text: 'Guide',
 				link: '/guide/'
 			}
