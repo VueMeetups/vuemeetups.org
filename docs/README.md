@@ -3,8 +3,8 @@ home: true
 actionText: Find a Meetup →
 actionLink: /find/
 features:
-- title: Find Meetups Here
-  details: No more digging for Meetup info and events, we will centralize everything here to make your life easier
+- title: Find Local Events Here
+  details: No more digging for group info and events, we will centralize everything here to make your life easier
 - title: Be a Community Leader
   details: Whether it's starting your own or joining an existing one, we are always looking for more community leaders
 - title: Get Support
