@@ -4,6 +4,7 @@ module.exports = {
 	head: [['link', { rel: 'icon', href: `/favicon.png` }]],
 	description: 'Guide for all current and future Vue.js meetup organizers.',
 	themeConfig: {
+		repo: 'bencodezen/vue-meetups',
 		nav: [
 			{
 				text: 'Home',
@@ -21,6 +22,9 @@ module.exports = {
 				text: 'Guide',
 				link: '/guide/'
 			}
-		]
+		],
+		docsDir: 'docs',
+		editLinks: true,
+		editLinkText: 'Help us improve this page!'
 	}
 }
