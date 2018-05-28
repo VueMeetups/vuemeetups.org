@@ -4,6 +4,10 @@ sidebar: auto
 
 # Essentials
 
+## Introduction
+
+VueMeetups is an effort to centralize all local community efforts for Vue.js and to help continue foster and nurture the amazing community we already have. And while we have "meetup" in our name and use it often, this effort is not limited to Meetup.com events. With that said, welcome and be sure to reach out if you have any questions or feedback!
+
 ## Starting Your Own Meetup
 
 That's exciting news! We are glad to see so many people who are enthusiastic about establishing local communities to help Vue enthusiasts and newcomers alike. Although it might seem complicated, starting your own Vue.js group can be done in **five simple steps**!
