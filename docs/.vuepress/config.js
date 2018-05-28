@@ -1,7 +1,16 @@
 module.exports = {
 	dest: './dist',
 	title: 'Vue.js Meetups',
-	head: [['link', { rel: 'icon', href: `/favicon.png` }]],
+	head: [
+		['link', { rel: 'icon', href: `/favicon.png` }],
+		[
+			'meta',
+			{
+				name: 'google-site-verification',
+				content: 'HAQiCIHcDWoDS-7guPKZJvq9HfPj6MSbLip7K8UQ1Rs'
+			}
+		]
+	],
 	description: 'Centralizing all Vue.js meetup efforts.',
 	themeConfig: {
 		repo: 'bencodezen/vue-meetups',
