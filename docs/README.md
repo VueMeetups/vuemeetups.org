@@ -1,6 +1,6 @@
 ---
 home: true
-actionText: Get Started
-actionLink: /
+actionText: Find a Meetup
+actionLink: /find/
 footer: MIT | Copyright © 2018 - Present
 ---
