@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /logo.png
 actionText: Find a Meetup →
 actionLink: /find/
 features:
