@@ -27,7 +27,19 @@ Here are some options:
 * YourCity + Vue
 * YourCity + VueJS
 
-You're more than welcome to be more creative, but try to keep it as simple as possible so people can easily find identify it! In addition, don't forget that your name will be critical in the branding step ahead!
+Some examples include:
+
+* VueDC
+* Vue.js Paris
+* Vue JS Singapore
+* Melbourne Vue.js Meetup
+* VueJS Amsterdam
+
+Check out what [other meetups](/find/) named themselves if you need more inspiration!
+
+::: tip
+You're more than welcome to be more creative, but keeping it as simple as possible will help people easily find and remember it!
+:::
 
 ### Grab All The Branding Things!
 
