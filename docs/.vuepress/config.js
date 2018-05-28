@@ -21,6 +21,10 @@ module.exports = {
 			{
 				text: 'Guide',
 				link: '/guide/'
+			},
+			{
+				text: 'Code of Conduct',
+				link: '/code-of-conduct/'
 			}
 		],
 		docsDir: 'docs',
