@@ -1,6 +1,7 @@
 module.exports = {
 	dest: './dist',
 	title: 'Vue.js Meetups',
+	head: [['link', { rel: 'icon', href: `/favicon.png` }]],
 	description: 'Guide for all current and future Vue.js meetup organizers.',
 	themeConfig: {
 		nav: [
