@@ -47,6 +47,7 @@ Now that you've decided on a name, it's time to grab all the branding thingsWhen
 
 * Google (for email and potential YouTube possibilities)
 * Twitter
+* Discord (for a dedicated chat channel for your community)
 
 Some other ones you that are nice to have, but not as critical:
 
@@ -83,3 +84,80 @@ And as far as food goes, here are some general guidelines:
 ### 5. Spread the Word!
 
 With your newly powers of social media, make sure to send out your event details on all the social media things! Hashtag #VueJS and #VueJSMeetups to maximize your visibility and we'll make sure to help spread the word!
+
+## Organizers' Handbook
+
+### Code of Conduct
+
+When it comes down to it, every Vue.js meetup needs to have a Code of Conduct. There's no reason not to have one. And for those thinking that it's really hard to write one. We have a [template](/code-of-conduct/#template) all ready to go.
+
+'Nuff said.
+
+### Planning a Meetup
+
+There are two primary things you have to consider as an organizer when planning a meetup.
+
+1.  Location
+2.  Agenda
+
+Everything else is just extra credit.
+
+#### Location
+
+This is the single most important item any organizer needs to secure with absolute certainty. The worst thing you can do as an organizer is have people voluntarily spend their free time to come to your event and find that the location has been changed.
+
+#### Agenda
+
+The biggest misconception about meetup events is that you always need a speaker. Nothing could be further from the truth. What you actually need is a group of people with an interest in Vue.js and a basic agenda so people know why they are coming.
+
+::: tip Coming Soon
+The following contains some basic ideas for the event, but VueMeetups will be providing more thorough guides on each format in the near future. So be sure to check back for updates!
+:::
+
+So when you are planning your next event, consider the following options:
+
+* **Workshops**: This can take many different formats, but the basic idea is to have someone lead the event and build something with the audience.
+* **CodeLabs**: This is where everyone gathers to work on Vue.js projects. People can help one another or pair with one another. And if they don't have a project, they can work on tutorials instead!
+* **Show & Tell**: While many people are terrified at being asked to speak on a certain topic, talking about a project or small demo they worked on is much easier. This was inspired by [CodePen](https://codepen.io/) meetups and has been a great avenue for giving people a taste of speaking.
+* **Lightning Talks**: If you can't get a single speaker, consider this format to reduce the pressure on potential speakers. The only risk to this format is that lightning talk speakers are more likely to back out at the last minute, so be prepared for that.
+
+#### Food and Drinks
+
+::: tip
+While this can increase attendance, this is **completely, absolutely, 100% optional**.
+:::
+
+Basic guidance for food and drinks is the following:
+
+1.  If you are only planning on serving snacks (i.e., chips, cookies, etc), use the phrase "snacks and drinks will be provided" instead of "food and drinks will be provided." You will disappoint people expecting dinner if you say the wrong phrase.
+
+2.  If you plan on serving alcohol, please be sensitive to those who do not drink alcohol and have alternatives.
+
+::: warning
+While some may say that alcohol would help to increase attendance, we caution against this advice since it is more likely to attract the wrong kind of attendees. In addition, having alcohol at an event makes it difficult for those who struggle with addiction to attend.
+:::
+
+### Best Practices
+
+#### Provide a basic schedule of your event
+
+When potential attendees are deciding whether to attend your event, simply having a start and end time will only be so helpful to them. So help them out with a simple outline of what they can expect from the evening.
+
+Here's an example from a lightning talk event:
+
+```
+6:30PM - 7:00PM: Food & Drinks
+7:00PM - 7:15PM: TypeScript Intro
+7:20PM - 7:35PM: TypeScript in VueJS
+7:40PM - 7:55PM: VueJS Browser Extension
+8:00PM - 8:20PM: Show & Tell
+8:20PM - 9:00PM: Discussion & Networking
+```
+
+#### Give people time to get to your event
+
+If your event is on a weekday, remember that people often don't get off of work till 5:30PM, so when you're scheduling your event, do not start it any earlier than 6:30PM if you want optimal attendance.
+
+#### Things happen, so help out your attendees in advance
+
+We highly recommend that you give attendees 30 minutes of flex time as things like traffic and late meetings inevitably happen. So when scheduling your agenda, let people know when the "doors will open" and when the official event starts.
