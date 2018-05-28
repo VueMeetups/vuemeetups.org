@@ -165,3 +165,24 @@ If your event is on a weekday, remember that people often don't get off of work 
 #### Things happen, so help out your attendees in advance
 
 We highly recommend that you give attendees 30 minutes of flex time as things like traffic and late meetings inevitably happen. So when scheduling your agenda, let people know when the "doors will open" and when the official event starts.
+
+## Speakers' Handbook
+
+Let's face it, speaking is terrifying. Don't you worry though, this whole section is dedicated to helping you take that first step.
+
+### Potential Speaker Topics
+
+It can be surprisingly difficult to come up with topics to talk about, so we have a list here to help inspire you.
+
+* Introduction to Vue.js
+* Managing Styles in Vue.js
+* Animation in Vue.js
+* State Management in Vue.js
+* Testing in Vue.js
+* Component Architecture in Vue.js
+
+### But It's Been Done Before
+
+One of the biggest misconceptions in the world of speaking (and writing) is that if someone has talked about X topic, this means that you can't talk (or write) about it. Nothing could be further from the truth. The only exception to this is if you plagarize their entire talk.
+
+At the end of the day, the odds are in your favor that you have a unique take on the topic that sets you apart. In addition, when itj comes to speaking at meetups, a majority of attendees often have not done the research you've done on X topic. So while the insecure side of you is afraid that they will be bored, you're going to do great.
