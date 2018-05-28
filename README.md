@@ -9,3 +9,7 @@ Please check out the the [Issues board](https://github.com/bencodezen/vue-meetup
 1.  Clone the repo
 2.  Run `yarn` or `npm install`
 3.  Run `yarn dev` or `npm run dev`
+
+## Deployment
+
+The site currently uses [Netlify](https://www.netlify.com) to automatically detect changes on the `master` branch and deploys automatically.
