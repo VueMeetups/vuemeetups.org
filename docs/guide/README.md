@@ -6,7 +6,7 @@ sidebar: auto
 
 ## Starting Your Own Meetup
 
-That's exciting news! We are glad to see so many people who are enthusiastic about establishing local communities to help Vue enthusiasts and newcomers alike!
+That's exciting news! We are glad to see so many people who are enthusiastic about establishing local communities to help Vue enthusiasts and newcomers alike. Although it might seem complicated, starting your own Vue.js group can be done in **five simple steps**!
 
 For those who want a quick pep talk before diving into the guide, check out the following [lightning talk for VueConf 2018](https://www.vuemastery.com/conferences/vueconf-2018/start-your-own-vuejs-meetup-ben-hong).
 
@@ -16,7 +16,7 @@ For those who want a quick pep talk before diving into the guide, check out the 
 Before diving headfirst into how you start your own meetup, be sure to check and make sure there isn't already one in your area! And if there is, we can help put you in contact with the organizers if you'd like to get more involved!
 :::
 
-### Name Your Group
+### 1. Name Your Group
 
 While naming things is often one of the most agonizing parts of starting any project, luckily it's pretty easy for creating a technology oriented meetup.
 
@@ -41,7 +41,7 @@ Check out what [other meetups](/find/) named themselves if you need more inspira
 You're more than welcome to be more creative, but keeping it as simple as possible will help people easily find and remember it!
 :::
 
-### Grab All The Branding Things!
+### 2. Grab All The Branding Things!
 
 Now that you've decided on a name, it's time to grab all the branding thingsWhen it comes to getting the word out about your group and the meetups, there's no substitute for having the proper social media tools. There are a few major ones you want to get to make your life easier:
 
@@ -54,7 +54,7 @@ Some other ones you that are nice to have, but not as critical:
 * Domain Name
 * Instagram
 
-### Getting a Venue and Set a Date!
+### 3. Getting a Venue and Set a Date!
 
 Contrary to popular opinion, you don't need a lineup of speakers in order to start a meetup. The most important thing you actually need is a venue.
 
@@ -66,7 +66,7 @@ Some common places that meetups can be held in include:
 * College classrooms
 * Local companies who are interested in hosting tech meetups
 
-### Meetup Logistics
+### 4. Meetup Logistics
 
 These are some things that you should consider when planning your meetup:
 
@@ -80,6 +80,6 @@ And as far as food goes, here are some general guidelines:
 * Since Meetup events are free, you should account for 30 to 40% of the RSVPs
 * Unless you are serving food that merits a meal (like pizza), please do not say "Free food and drinks will be served" because attendees will be expecting something much heartier than some chips and cookies
 
-### Spread the Word!
+### 5. Spread the Word!
 
 With your newly powers of social media, make sure to send out your event details on all the social media things! Hashtag #VueJS and #VueJSMeetups to maximize your visibility and we'll make sure to help spread the word!
