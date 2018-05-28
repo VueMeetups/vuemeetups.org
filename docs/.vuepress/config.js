@@ -13,6 +13,10 @@ module.exports = {
 				link: '/find/'
 			},
 			{
+				text: 'Events',
+				link: '/events/'
+			},
+			{
 				text: 'Guide',
 				link: '/guide/'
 			}
