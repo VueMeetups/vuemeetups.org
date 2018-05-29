@@ -7,7 +7,7 @@ sidebar: auto
 To add yours to the list, please [open an issue](https://github.com/bencodezen/vue-meetups/issues/new) or submit a PR to the [repo](https://github.com/bencodezen/vue-meetups).
 
 ::: tip FYI
-The list below consists of Meetups that we are currently aware of, but we have not yet verified if they are still active and cannot vouch for them yet.
+The list below consists of Meetups that we are currently aware of, but we have not yet verified if they are still active.
 
 In order to help preserve the integrity of the Vue.js community, this page will eventually only contain meetups that have been verified.
 :::
