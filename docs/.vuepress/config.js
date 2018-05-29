@@ -15,6 +15,7 @@ module.exports = {
 	description: 'Centralizing all Vue.js meetup efforts.',
 	themeConfig: {
 		repo: 'bencodezen/vue-meetups',
+		lastUpdated: 'Last Updated',
 		nav: [
 			{
 				text: 'Home',
