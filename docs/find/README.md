@@ -9,6 +9,8 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 ::: tip FYI
 The list below consists of Meetups that we are currently aware of, but we have not yet verified if they are still active.
 
+Many thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for the [initial list](https://github.com/VueMeetups/meetup-help).
+
 In order to help preserve the integrity of the Vue.js community, this page will eventually only contain meetups that have been verified.
 :::
 
