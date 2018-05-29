@@ -11,6 +11,7 @@ module.exports = {
 			}
 		]
 	],
+	ga: 'UA-119995356-1',
 	description: 'Centralizing all Vue.js meetup efforts.',
 	themeConfig: {
 		repo: 'bencodezen/vue-meetups',
