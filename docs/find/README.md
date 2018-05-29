@@ -39,6 +39,10 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 * Vienna - [Vue.js Vienna](https://meetup.com/Vue-js-Vienna)
 
+### Czechia
+
+* Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
+
 ### France
 
 * Paris - [Vue.js Paris](https://meetup.com/Vuejs-Paris)
