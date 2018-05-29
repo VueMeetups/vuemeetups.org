@@ -10,5 +10,5 @@ features:
   details: Whether it's starting your own or joining an existing one, we are always looking for more community leaders
 - title: Get Support
   details: Being a community doesn't mean you have to do everything alone, part of our purpose is to provide support and guidance when needed
-footer: MIT | Copyright © 2018 - Present
+footer: MIT Licensed | Copyright © 2018 - Present
 ---
