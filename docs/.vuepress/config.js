@@ -42,12 +42,12 @@ module.exports = {
 					{
 						text: "Speakers' Handbook",
 						link: '/resources/#speakers-handbook'
+					},
+					{
+						text: 'Code of Conduct',
+						link: '/code-of-conduct/'
 					}
 				]
-			},
-			{
-				text: 'Code of Conduct',
-				link: '/code-of-conduct/'
 			}
 		],
 		docsDir: 'docs',
