@@ -81,6 +81,10 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 * Ljubljana - [Vue.js Slovenia](https://meetup.com/vue-slovenia)
 
+### Spain
+
+* Madrid - [VueJS Madrid](https://www.meetup.com/VueJS-Madrid/)
+
 ### Sweden
 
 * Stockholm - [Stockholm Vue.js Meetup](https://meetup.com/Stockholm-Vue-js-Meetup)
