@@ -1,5 +1,5 @@
 {
-	"name": "vuejs-meetups",
+	"name": "vue-meetups",
 	"version": "0.9.1",
 	"description": "Creating a central location for all Vue.js meetups info",
 	"main": ".prettierrc.js",

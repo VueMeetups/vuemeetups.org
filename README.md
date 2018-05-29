@@ -1,4 +1,4 @@
-# Vue Meetups
+# VueMeetups.org
 
 This repo contains the site for [VueMeetups](https://www.vuemeetups.org) in an effort to centralize all Vue.js community efforts (like meetups).
 
