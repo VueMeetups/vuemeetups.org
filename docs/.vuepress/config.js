@@ -29,8 +29,21 @@ module.exports = {
 				link: '/events/'
 			},
 			{
-				text: 'Guide',
-				link: '/guide/'
+				text: 'Resources',
+				items: [
+					{
+						text: 'Getting Started',
+						link: '/resources/#getting-started'
+					},
+					{
+						text: "Organizers' Handbook",
+						link: '/resources/#organizers-handbook'
+					},
+					{
+						text: "Speakers' Handbook",
+						link: '/resources/#speakers-handbook'
+					}
+				]
 			},
 			{
 				text: 'Code of Conduct',
