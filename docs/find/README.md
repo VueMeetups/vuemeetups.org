@@ -101,6 +101,7 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 * London - [London VueJS Meetup](https://meetup.com/London-Vue-js-Meetup)
 * London - [London Vue User Group](https://meetup.com/london-vue-user-group)
+* Manchester - [VueJS Manchester Community](https://www.meetup.com/VueJS-Manchester/)
 
 ## North America
 
