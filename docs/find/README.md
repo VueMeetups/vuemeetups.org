@@ -113,30 +113,30 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 ### United States
 
 * California
-	* San Diego - [San Diego VueJS Meetup](https://meetup.com/San-Diego-VueJS-Meetup)
-	* San Francisco - [Vue.sf](https://meetup.com/vue-sf)
-	* San Francisco - [San Francisco Vue.js Meetup](https://meetup.com/VuejsSF)
+  * San Diego - [San Diego VueJS Meetup](https://meetup.com/San-Diego-VueJS-Meetup)
+  * San Francisco - [Vue.sf](https://meetup.com/vue-sf)
+  * San Francisco - [San Francisco Vue.js Meetup](https://meetup.com/VuejsSF)
 * Colorado
-	* Denver - [Denver Vue.js Meetup](https://meetup.com/Denver-Vue-js-Meetup)
+  * Denver - [Denver Vue.js Meetup](https://meetup.com/Denver-Vue-js-Meetup)
 * Florida
-	* Orlando - [Vue Orlando](https://www.meetup.com/VueOrlando/)
+  * Orlando - [Vue Orlando](https://www.meetup.com/VueOrlando/)
 * Georgia
-	* Atlanta - [Atlanta Vue.js Meetup](https://meetup.com/Atlanta-Vue-js-Meetup)
+  * Atlanta - [Atlanta Vue.js Meetup](https://meetup.com/Atlanta-Vue-js-Meetup)
 * Illinois
-	* Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
+  * Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
 * Indiana
-	* Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
+  * Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
 * New York
-	* New York City - [VueNYC](https://meetup.com/vueJsNYC)
+  * New York City - [VueNYC](https://meetup.com/vueJsNYC)
 * Oregon
-	* Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
-	* Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
+  * Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
+  * Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
 * Texas
-	* San Antonio - [VueSA](https://meetup.com/meetup-group-mltMsxBD)
+  * San Antonio - [VueSA](https://meetup.com/meetup-group-mltMsxBD)
 * Utah
-	* Salt Lake City - [Utah Vue.js Meetup](https://meetup.com/utah-vue)
+  * Salt Lake City - [Utah Vue.js Meetup](https://meetup.com/utah-vue)
 * Washington D.C.
-	* DC Metro Area - [Vue DC](https://meetup.com/Vue-DC)
+  * DC Metro Area - [Vue DC](https://meetup.com/Vue-DC)
 
 ## South America
 
