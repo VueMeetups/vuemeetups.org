@@ -105,6 +105,10 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 ## North America
 
+### Canada
+
+* Vancouver - [Vancity Vue.js](https://www.meetup.com/Vancity-Vue-js/)
+
 ### Mexico
 
 * Monterrey - [Vue.js](https://meetup.com/Vue-js)
