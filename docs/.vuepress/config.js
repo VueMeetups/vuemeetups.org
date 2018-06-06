@@ -53,6 +53,19 @@ module.exports = {
 						link: '/code-of-conduct/'
 					}
 				]
+			},
+			{
+				text: 'Contact',
+				items: [
+					{
+						text: 'Twitter',
+						link: 'https://www.twitter.com/vuemeetups'
+					},
+					{
+						text: 'Email',
+						link: 'mailto:hello@vuemeetups.org'
+					}
+				]
 			}
 		],
 		docsDir: 'docs',
