@@ -12,10 +12,19 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 
 ### 2018
 
-#### May
+#### June
 
-* May 31st 6:00PM EST - [VueDC CodeLabs: Inaugural Night](https://www.meetup.com/Vue-DC/events/250293065/)
+
+
+## Past
+
+### 2018
 
 #### June
 
-* June 7th @ 6:30 GMT+2 - [Vuejs vs React with Adidas | Vuex or not to Vuex?](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
+* June 5th @ 6:30PM - [Vue.Js Meetup Budapest #2](https://www.meetup.com/Vue-js-Budapest/events/250872579/)
+* June 7th @ 6:30PM GMT+2 - [Vuejs vs React with Adidas | Vuex or not to Vuex?](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
+
+#### May
+
+* May 31st 6:00PM EST - [VueDC CodeLabs: Inaugural Night](https://www.meetup.com/Vue-DC/events/250293065/)
