@@ -91,6 +91,7 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 ### Switzerland
 
+* Zürich - [\<vue-zurich\/\>](https://meetup.com/vue_zurich)
 * Zürich - [Vue.js Zurich](https://meetup.com/Vue-Zurich)
 
 ### Ukraine
