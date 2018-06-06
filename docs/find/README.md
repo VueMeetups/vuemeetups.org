@@ -20,7 +20,7 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 * Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
 
-### Malaysia
+### Singapore
 
 * Singapore - [Vue JS Singapore](https://meetup.com/Vue-JS-Singapore)
 
