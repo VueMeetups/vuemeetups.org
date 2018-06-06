@@ -14,7 +14,7 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 
 #### June
 
-
+* June 21st from 5:00PM to 7:30PM by [VueJS Amsterdam](https://www.meetup.com/VueJS-Amsterdam/) - [The unknown roads of Vue.js: Testing and WebAssembly](https://www.meetup.com/VueJS-Amsterdam/events/250577395/)
 
 ## Past
 
