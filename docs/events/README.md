@@ -18,6 +18,9 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 * June 21st from 5:00PM to 7:30PM by [VueJS Amsterdam](https://www.meetup.com/VueJS-Amsterdam/) - [The unknown roads of Vue.js: Testing and WebAssembly](https://www.meetup.com/VueJS-Amsterdam/events/250577395/)
 * June 28th from 6:00PM to 9:00PM by [VueDC](https://www.vuedc.io) - [VueDC CodeLabs: Round 2](https://www.meetup.com/Vue-DC/events/250293099/)
 
+#### July
+* July 4th from 6:30PM to 8:00PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 2](https://www.meetup.com/vue_zurich/events/249627326/)
+
 ## Past
 
 ### 2018
