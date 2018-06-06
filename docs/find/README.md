@@ -141,6 +141,7 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 ### Brazil
 
+* São Paulo - [Vue.js @ São Paulo](https://www.meetup.com/VueJS-SP/)
 * Belo Horizonte - [Vue.js @ Belo Horizonte](https://meetup.com/Vuejs-at-BH)
 * Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
 * Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
