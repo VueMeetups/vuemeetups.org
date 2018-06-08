@@ -14,6 +14,8 @@ Many thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for the lis
 In order to help preserve the integrity of the Vue.js community, this page will eventually only contain meetups that have been verified.
 :::
 
+And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to get connected with individuals around the world.
+
 ## Asia
 
 ### India
