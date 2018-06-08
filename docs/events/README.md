@@ -24,7 +24,9 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 * June 28th from 6:00PM to 9:00PM by [VueDC](https://www.vuedc.io) - [VueDC CodeLabs: Round 2](https://www.meetup.com/Vue-DC/events/250293099/)
 
 #### July
+
 * July 4th from 6:30PM to 8:00PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 2](https://www.meetup.com/vue_zurich/events/249627326/)
+* July 11th at 7:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/251534326/)
 
 ## Past
 
