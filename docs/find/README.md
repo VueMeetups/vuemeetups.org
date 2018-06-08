@@ -131,6 +131,8 @@ In order to help preserve the integrity of the Vue.js community, this page will 
   * Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
 * New York
   * New York City - [VueNYC](https://meetup.com/vueJsNYC)
+* North Carolina
+  * Charlotte - [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/)
 * Oregon
   * Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
   * Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
