@@ -136,6 +136,8 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 * Oregon
   * Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
   * Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
+* South Carolina
+  * Charleston - [Charleston Vue.js](https://www.meetup.com/Meetup-Vue-Charlotte/)
 * Texas
   * San Antonio - [VueSA](https://meetup.com/meetup-group-mltMsxBD)
 * Utah
