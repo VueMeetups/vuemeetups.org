@@ -140,6 +140,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   * Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
 * South Carolina
   * Charleston - [Charleston Vue.js](https://www.meetup.com/Meetup-Vue-Charlotte/)
+  * Myrtle Beach - [Myrtle Beach Vue.js Meetup](https://www.meetup.com/myrtle-beach-vue-javascript-meetup/)
 * Texas
   * San Antonio - [VueSA](https://meetup.com/meetup-group-mltMsxBD)
 * Utah
