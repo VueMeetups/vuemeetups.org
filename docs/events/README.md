@@ -19,6 +19,7 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 #### June
 
 * June 20th from 6:30PM to 8:30PM by [VueDC](https://www.vuedc.io) - [Testing in Vue.js](https://www.meetup.com/Vue-DC/events/250794404/)
+* June 20th from 8:00PM to 10:00PM by [GoCode in Sderot](https://www.meetup.com/GoCode-in-Sderot/) - [Vue.js Basics in Sderot](https://www.meetup.com/GoCode-in-Sderot/events/251750321/)
 * June 21st from 5:00PM to 7:30PM by [VueJS Amsterdam](https://www.meetup.com/VueJS-Amsterdam/) - [The unknown roads of Vue.js: Testing and WebAssembly](https://www.meetup.com/VueJS-Amsterdam/events/250577395/)
 * June 27th from 6:30PM to 9:00PM by [Vue.js Prague](https://www.meetup.com/vuejsprague/) - [Prague Vue.js Meetup #2](https://www.meetup.com/vuejsprague/events/xdfrtpyxjbkc/)
 * June 28th from 6:00PM to 9:00PM by [VueDC](https://www.vuedc.io) - [VueDC CodeLabs: Round 2](https://www.meetup.com/Vue-DC/events/250293099/)
