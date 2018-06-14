@@ -53,6 +53,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Germany
 
+* Aachen - [Aachen Vue.js](https://www.meetup.com/aachen-vue-js-meetup/)
 * Berlin - [Vue.js // Berlin](https://meetup.com/Vue-js-Berlin)
 * Hamburg - [Hamburg Vue.js Meetup](https://meetup.com/Hamburg-Vue-js-Meetup)
 * München - [Vue.js Munich](https://meetup.com/Vue-js-Munich)
