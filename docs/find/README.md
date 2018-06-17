@@ -49,6 +49,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### France
 
+* Nantes - [Vue.js Nantes](https://www.meetup.com/Vuejs-Nantes/)
 * Paris - [Vue.js Paris](https://meetup.com/Vuejs-Paris)
 
 ### Germany
