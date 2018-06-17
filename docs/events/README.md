@@ -28,6 +28,7 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 
 * July 4th from 6:30PM to 8:00PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 2](https://www.meetup.com/vue_zurich/events/249627326/)
 * July 10th from 6:00PM to 7:30PM by [Myrtle Beach Vue.js Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/251602475/)
+* July 10th at 7:00PM by [Vue.js Nantes](https://www.meetup.com/Vuejs-Nantes/) - [Vue.js Nantes - 1ère édition!](https://www.meetup.com/Vuejs-Nantes/events/cmtqspyxkbnb/)
 * July 11th at 7:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/251534326/)
 
 ## Past
