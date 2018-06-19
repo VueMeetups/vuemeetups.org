@@ -14,6 +14,8 @@ To add yours to the list, please [open an issue](https://github.com/bencodezen/v
 
 ## Upcoming
 
+For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [https://vuevixens.org/upcoming](https://vuevixens.org/upcoming)!
+
 ### 2018
 
 #### June
