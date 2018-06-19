@@ -62,6 +62,10 @@ module.exports = {
 						link: 'https://www.twitter.com/vuemeetups'
 					},
 					{
+						text: 'Discord',
+						link: 'https://vue-land.js.org/'
+					},
+					{
 						text: 'Email',
 						link: 'mailto:hello@vuemeetups.org'
 					}
