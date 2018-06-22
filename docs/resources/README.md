@@ -188,3 +188,13 @@ It can be surprisingly difficult to come up with topics to talk about, so we hav
 One of the biggest misconceptions in the world of speaking (and writing) is that if someone has talked about X topic, this means that you can't talk (or write) about it. Nothing could be further from the truth. The only exception to this is if you plagarize their entire talk.
 
 At the end of the day, the odds are in your favor that you have a unique take on the topic that sets you apart. In addition, when itj comes to speaking at meetups, a majority of attendees often have not done the research you've done on X topic. So while the insecure side of you is afraid that they will be bored, you're going to do great.
+
+### How to Encourage New People to Speak
+
+It's a common misconception that speakers need to take up the entire meetup or have entire talks planned out. This can make it people hesitant to volunteer.
+
+So here are some strategies to ease people's mind:
+
+1. **Speak with them.** If they know that they only have to do part of a talk, it make the idea much more approachable.
+
+2. **Help them craft a topic.** What people often don't understand is that they have a lot of topics they could talk about. Whether it's case studies, or personal projects, work with them to come up with a topic so they don't feel the burden of doing it all by themselves.
