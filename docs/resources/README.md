@@ -180,6 +180,8 @@ It can be surprisingly difficult to come up with topics to talk about, so we hav
 * State Management in Vue.js
 * Testing in Vue.js
 * Component Architecture in Vue.js
+* Server Side Rendering in the Vue.js Ecosystem
+* How to Use Vue.js with a CMS Like WordPress
 
 ### But It's Been Done Before
 
