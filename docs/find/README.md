@@ -125,6 +125,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### United States
 
 * California
+  * Los Angeles - [LA Vue](https://www.meetup.com/Vue-js-Los-Angeles)
   * San Diego - [San Diego VueJS Meetup](https://meetup.com/San-Diego-VueJS-Meetup)
   * San Francisco - [Vue.sf](https://meetup.com/vue-sf)
   * San Francisco - [San Francisco Vue.js Meetup](https://meetup.com/VuejsSF)
