@@ -22,6 +22,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 - July 10th from 6:00PM to 7:30PM by [Myrtle Beach Vue.js Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/251602475/)
 - July 10th at 7:00PM by [Vue.js Nantes](https://www.meetup.com/Vuejs-Nantes/) - [Vue.js Nantes - 1ère édition!](https://www.meetup.com/Vuejs-Nantes/events/cmtqspyxkbnb/)
+- July 11th at 6:30PM by [VueDC](https://www.meetup.com/Vue-DC) - [Vuex in Action](https://www.meetup.com/Vue-DC/events/252159814/)
 - July 11th at 7:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/251534326/)
 - July 17th at 5:00PM by [VueJS Amsterdam](https://www.meetup.com/VueJS-Amsterdam/) - [Learn and Share, Vue Together](https://www.meetup.com/VueJS-Amsterdam/events/251430162/)
 
