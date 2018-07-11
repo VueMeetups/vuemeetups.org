@@ -26,6 +26,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Singapore - [Vue JS Singapore](https://meetup.com/Vue-JS-Singapore)
 
+### Thailand
+
+- Thailand - [Vue.JS Thailand](https://www.facebook.com/groups/VuejsThailand/)
+
 ## Australia
 
 ### New South Wales
