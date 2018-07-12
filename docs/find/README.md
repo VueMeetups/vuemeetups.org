@@ -105,6 +105,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### Switzerland
 
 - Zürich - [\<vue-zurich\/\>](https://meetup.com/vue_zurich)
+- Basel - [Vue Basel](https://www.meetup.com/Vue-Basel)
 
 ### Ukraine
 
