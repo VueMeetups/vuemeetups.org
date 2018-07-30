@@ -85,6 +85,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Amsterdam - [VueJS Meetup Amsterdam](https://meetup.com/VueJSMeetupAmsterdam)
 - Amsterdam - [VueJS Amsterdam](https://meetup.com/VueJS-Amsterdam)
 
+### Poland
+
+- Poland - [Vue.js Poland Meetup](https://meetup.com/Vue-js-Poland)
+
 ### Russia
 
 - Moscow - [Moscow Vue.js Meetup](https://meetup.com/vue-js-moscow)
