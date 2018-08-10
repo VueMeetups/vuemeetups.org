@@ -125,6 +125,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Canada
 
+- Montreal - [Montreal Vue.js](https://www.meetup.com/Vue-js-Montreal/)
 - Toronto - [Vue Toronto](https://www.meetup.com/Vue-Toronto/)
 - Vancouver - [Vancity Vue.js](https://www.meetup.com/Vancity-Vue-js/)
 
