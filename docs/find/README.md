@@ -154,6 +154,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - New York City - [VueNYC](https://meetup.com/vueJsNYC)
 - North Carolina
   - Charlotte - [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/)
+  - Raleigh - [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/)
 - Oregon
   - Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
   - Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
