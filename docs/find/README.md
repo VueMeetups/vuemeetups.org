@@ -150,6 +150,8 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
 - Indiana
   - Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
+- Minnesota
+  - Twin Cities - [Mpls Vue.js Meetup](https://www.meetup.com/mpls-vue)
 - New York
   - New York City - [VueNYC](https://meetup.com/vueJsNYC)
 - North Carolina
