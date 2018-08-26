@@ -22,6 +22,10 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 - August 15th at 5:30PM by [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/) - [First Meetup!](https://www.meetup.com/Vue-Raleigh/events/253342316/)
 
+#### September
+
+- September 11th from 6:00PM to 7:30PM by [Myrtle Beach Vue JavaScript Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/254050889/)
+
 ## Past
 
 ### 2018
