@@ -12,9 +12,10 @@ Please check out the the [Issues board](https://github.com/bencodezen/vue-meetup
 
 ### Instructions
 
-1.  Clone the repo
-2.  Run `yarn` or `npm install`
-3.  Run `yarn dev` or `npm run dev`
+1.  Fork the repo
+2.  Clone the repo
+3.  Run `yarn` or `npm install`
+4.  Run `yarn dev` or `npm run dev`
 
 ## Contributing
 
