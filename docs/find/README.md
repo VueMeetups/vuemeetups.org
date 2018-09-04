@@ -76,6 +76,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Sderot - [GoCode in Sderot](https://www.meetup.com/GoCode-in-Sderot/)
 
+### Italy
+
+- Milano - [VueJS Milano](https://www.meetup.com/VueJS-Milano/)
+
 ### Norway
 
 - Oslo - [VueJS Oslo](https://meetup.com/VueJS-Oslo)
