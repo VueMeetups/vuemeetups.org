@@ -26,6 +26,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Singapore - [Vue JS Singapore](https://meetup.com/Vue-JS-Singapore)
 
+### Taiwan
+
+- Taiwan - [Vue.JS Taiwan](https://www.facebook.com/groups/vuejs.tw/)
+
 ### Thailand
 
 - Thailand - [Vue.JS Thailand](https://www.facebook.com/groups/VuejsThailand/)
@@ -154,6 +158,8 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
 - Indiana
   - Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
+- Michigan
+  - Detroit - [Vuetroit](https://www.meetup.com/Vuetroit/)
 - Minnesota
   - Twin Cities - [Mpls Vue.js Meetup](https://www.meetup.com/mpls-vue)
 - New York
