@@ -180,6 +180,12 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Washington D.C.
   - DC Metro Area - [Vue DC](https://meetup.com/Vue-DC)
 
+## Pacific
+
+### New Zealand
+
+- Wellington - [Wellington.vue](https://www.meetup.com/Wellington-vue/)
+
 ## South America
 
 ### Brazil
