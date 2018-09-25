@@ -18,6 +18,10 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 ### 2018
 
+#### October
+
+- October 9th: [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/)
+
 #### November
 
 - November 23rd: [Vuejs Roadtrip Berlin](https://www.eventbrite.co.uk/e/vuejs-roadtrip-berlin-tickets-43925232553)
