@@ -18,13 +18,23 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 ### 2018
 
-#### September
+#### November
 
-- September 11th from 6:00PM to 7:30PM by [Myrtle Beach Vue JavaScript Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/254050889/)
+- November 23rd: [Vuejs Roadtrip Berlin](https://www.eventbrite.co.uk/e/vuejs-roadtrip-berlin-tickets-43925232553)
+
+### 2019
+
+#### February
+
+- February 14th & 15th: [Vuejs Amsterdam](http://www.vuejs.amsterdam/)
 
 ## Past
 
-### 2018
+### 2018 - Archive
+
+#### September
+
+- September 11th from 6:00PM to 7:30PM by [Myrtle Beach Vue JavaScript Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/254050889/)
 
 #### August
 
