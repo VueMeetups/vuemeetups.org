@@ -197,6 +197,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Belo Horizonte - [Vue.js @ Belo Horizonte](https://meetup.com/Vuejs-at-BH)
 - Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
 - Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
+- Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
 
 ### Colombia
 
