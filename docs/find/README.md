@@ -202,3 +202,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### Colombia
 
 - Bogotá - [Bogotá Vue.js Meetup](https://meetup.com/Bogota-Vue-js-Meetup)
+
+### Uruguay
+
+- Montevideo - [Montevideo VueJS](https://www.meetup.com/Montevideo-Vue-JS-Meetup)
