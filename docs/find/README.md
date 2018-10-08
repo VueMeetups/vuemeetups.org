@@ -127,7 +127,6 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### United Kingdom
 
 - London - [London VueJS Meetup](https://meetup.com/London-Vue-js-Meetup)
-- London - [London Vue User Group](https://meetup.com/london-vue-user-group)
 - Manchester - [VueJS Manchester Community](https://www.meetup.com/VueJS-Manchester/)
 
 ## North America
