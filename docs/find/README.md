@@ -18,6 +18,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ## Asia
 
+### Hong Kong
+
+- Hong Kong - [Vue.js Hong Kong](https://www.facebook.com/groups/887185518120024/)
+
 ### India
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
