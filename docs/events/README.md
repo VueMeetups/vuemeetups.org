@@ -85,7 +85,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 #### October
 
 - October 1st at 5:30PM by [Stockholm Vue.js Meetup](https://www.meetup.com/Stockholm-Vue-js-Meetup/) - [Vue.js meetup #4!](https://www.meetup.com/Stockholm-Vue-js-Meetup/events/254045676/)
-- October 9th: [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/)
+- October 9th at 6:30PM by [Vue.js LA](https://www.meetup.com/VuejsLA/) [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/)
 - October 9th at 7:00PM by [Montevideo Vue.JS Meetup](https://www.meetup.com/Montevideo-Vue-JS-Meetup) - [Montevideo VueJS Meetup #1](https://www.meetup.com/Montevideo-Vue-JS-Meetup/events/255210278/)
 - October 9th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxnbmb/)
 
@@ -160,6 +160,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - June 7th at 6:30PM GMT+2 - [Vuejs vs React with Adidas | Vuex or not to Vuex?](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
 - June 7th at 7:00PM by [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/) - [VueLyon#3: Nuxt.js, le framework de Vue.js!](https://www.meetup.com/Vue-js-Lyon/events/248727480/)
 - June 12th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxjbqb/)
+- June 14th at 6:30PM by [Vue.js LA](https://www.meetup.com/VuejsLA/) [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/251401435/)
 - June 14th at 7:00PM by [Kyiv Vue.js Meetup](https://www.meetup.com/Kyiv-Vue-js-Meetup/) - [Kyiv Vue.js Meetup #5](https://www.meetup.com/Kyiv-Vue-js-Meetup/events/251442705/)
 - June 18th at 6:30PM by [Vue.js Indy](https://www.meetup.com/vuejsindy/) - [Monthly Meeting - Building Interfaces with Vue](https://www.meetup.com/vuejsindy/events/249029567/)
 - June 19th at 6:00PM by [Vue Sydney](https://www.meetup.com/vue-sydney/)- [Vue Sydney Meetup #6](https://www.meetup.com/vue-sydney/events/249412287/)
