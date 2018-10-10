@@ -170,6 +170,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 #### June
 
 - June 5th at 6:30PM by [Vue.js Budapest](https://www.meetups.com/Vue-js-Budapest/) - [Vue.Js Meetup Budapest #2](https://www.meetup.com/Vue-js-Budapest/events/250872579/)
+- June 6th at 5:00PM by [VueJS Oslo)(https://www.meetup.com/VueJS-Oslo/) - [Vue & Angular in the Cloud + VS Code Can Do That!](https://www.meetup.com/VueJS-Oslo/events/249315553/)
 - June 6th at 6:45PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/vxljrpyxjbjb/)
 - June 7th at 6:30PM GMT+2 - [Vuejs vs React with Adidas | Vuex or not to Vuex?](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
 - June 7th at 7:00PM by [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/) - [VueLyon#3: Nuxt.js, le framework de Vue.js!](https://www.meetup.com/Vue-js-Lyon/events/248727480/)
