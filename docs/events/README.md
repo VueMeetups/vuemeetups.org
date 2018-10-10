@@ -40,6 +40,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - November 7th at 7:00PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 4](https://www.meetup.com/vue_zurich/events/252460725/)
 - November 8th at 7:00PM by [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/) - [Vue Novembre](https://www.meetup.com/Vue-js-Lyon/events/255052432/)
 - November 12th at 7:00PM by [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/) - [Enjoy the Vue - Vue.js Dresden #3](https://www.meetup.com/Vue-js-Dresden/events/254849177/)
+- November 13th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxpbrb/)
 - November 14th to 16th by [Vue Toronto](https://www.meetup.com/Vue-Toronto/) - [VueConf TO](https://www.meetup.com/Vue-Toronto/events/252940880/)
 - November 15th at 7:00PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxpbtb/)
 - November 15th at 7:00PM by [Vue Basel](https://www.meetup.com/Vue-Basel/) - [i18n](https://www.meetup.com/Vue-Basel/events/255358822/)
@@ -49,6 +50,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 #### December
 
+- December 11th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxqbpb/)
 - December 13th at 6:30PM by [Vue.js Prague](https://www.meetup.com/vuejsprague/) - [Prague Vue.js Meetup #6 - with special guest Damian Dulisz](https://www.meetup.com/vuejsprague/events/255191797/)
 - December 19th at 8:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxqbzb/)
 - December 20th at 7:00PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxqbbc/)
@@ -58,9 +60,11 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 #### January
 
 - January 3rd at 6:30PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 5](https://www.meetup.com/vue_zurich/events/255051721/)
+- January 8th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzcblb/)
 
 #### February
 
+- February 12th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzdbqb/)
 - February 14th & 15th: [Vuejs Amsterdam](http://www.vuejs.amsterdam/)
 
 ## Past
@@ -72,6 +76,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - October 1st at 5:30PM by [Stockholm Vue.js Meetup](https://www.meetup.com/Stockholm-Vue-js-Meetup/) - [Vue.js meetup #4!](https://www.meetup.com/Stockholm-Vue-js-Meetup/events/254045676/)
 - October 9th: [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/)
 - October 9th at 7:00PM by [Montevideo Vue.JS Meetup](https://www.meetup.com/Montevideo-Vue-JS-Meetup) - [Montevideo VueJS Meetup #1](https://www.meetup.com/Montevideo-Vue-JS-Meetup/events/255210278/)
+- October 9th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxnbmb/)
 
 #### September
 
@@ -79,6 +84,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - September 5th at 7:00PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/tcttwpyxmbhb/)
 - September 5th at 6:30PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 3](https://www.meetup.com/vue_zurich/events/250908326/)
 - September 10th at 7:00PM by [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/) - [Here we go - Vue.js Dresden #1](https://www.meetup.com/Vue-js-Dresden/events/prvhcqyxlbkc/)
+- September 11th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxmbpb/)
 - September 17th at 8:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxmbzb/)
 - September 19th at 6:30PM by [VueDC](https://www.meetup.com/Vue-DC) - [VueDC CodeLabs: Round 5](https://www.meetup.com/Vue-DC/events/252160174/)
 - September 19th at 6:00PM by [VueDC](https://www.meetup.com/Vue-DC) - [Storybook and Storyshot Testing w/ Vue.js](https://www.meetup.com/Vue-DC/events/253825074/)
@@ -91,6 +97,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - August 1st at 7:00PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/tcttwpyxlbcb/)
 - August 1st at 7:00PM by [Vue.js Prague](https://www.meetup.com/vuejsprague/) - [Prague Vue.js Meetup #3](https://www.meetup.com/vuejsprague/events/252191081/)
 - August 9th at 6:30PM by [VueDC](https://www.meetup.com/Vue-DC) - [VueDC CodeLabs: Round 4](https://www.meetup.com/Vue-DC/events/252160094/)
+- August 14th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxlbsb/)
 - August 15th at 5:30PM by [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/) - [First Meetup!](https://www.meetup.com/Vue-Raleigh/events/253342316/)
 - August 16th at 8:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxlbtb/)
 - August 16th at 7:00PM by [Vue Basel](https://www.meetup.com/Vue-Basel/) - [Intro and Get-together](https://www.meetup.com/Vue-Basel/events/252700661/)
@@ -105,6 +112,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - July 5th at 6:30PM by [VueJS Manchester](https://www.meetup.com/VueJS-Manchester) - [Skype call with Chris Fritz & Animations and Transitions with Jason Yu](https://www.meetup.com/VueJS-Manchester/events/251882780/)
 - July 10th from 6:00PM to 7:30PM by [Myrtle Beach Vue.js Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/251602475/)
 - July 10th at 7:00PM by [Vue.js Nantes](https://www.meetup.com/Vuejs-Nantes/) - [Vue.js Nantes - 1ère édition!](https://www.meetup.com/Vuejs-Nantes/events/cmtqspyxkbnb/)
+- July 10th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxkbnb/)
 - July 11th at 6:30PM by [VueDC](https://www.meetup.com/Vue-DC) - [Vuex in Action](https://www.meetup.com/Vue-DC/events/252159814/)
 - July 11th at 7:00PM by [Vue.js São Paulo Meetup](https://www.meetup.com/VueJS-SP/) - [Vue.js SP - FrontendWeek](https://www.meetup.com/VueJS-SP/events/251006838/)
 - July 11th at 7:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/251534326/)
@@ -122,6 +130,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - June 6th at 6:45PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/vxljrpyxjbjb/)
 - June 7th at 6:30PM GMT+2 - [Vuejs vs React with Adidas | Vuex or not to Vuex?](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
 - June 7th at 7:00PM by [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/) - [VueLyon#3: Nuxt.js, le framework de Vue.js!](https://www.meetup.com/Vue-js-Lyon/events/248727480/)
+- June 12th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxjbqb/)
 - June 20th from 6:30PM to 8:30PM by [VueDC](https://www.vuedc.io) - [Testing in Vue.js](https://www.meetup.com/Vue-DC/events/250794404/)
 - June 20th from 8:00PM to 10:00PM by [GoCode in Sderot](https://www.meetup.com/GoCode-in-Sderot/) - [Vue.js Basics in Sderot](https://www.meetup.com/GoCode-in-Sderot/events/251750321/)
 - June 21st from 5:00PM to 7:30PM by [VueJS Amsterdam](https://www.meetup.com/VueJS-Amsterdam/) - [The unknown roads of Vue.js: Testing and WebAssembly](https://www.meetup.com/VueJS-Amsterdam/events/250577395/)
