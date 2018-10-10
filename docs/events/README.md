@@ -109,6 +109,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 - August 1st at 7:00PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/tcttwpyxlbcb/)
 - August 1st at 7:00PM by [Vue.js Prague](https://www.meetup.com/vuejsprague/) - [Prague Vue.js Meetup #3](https://www.meetup.com/vuejsprague/events/252191081/)
+- August 8st at 6:30PM by [Vue.js Munich](https://www.meetup.com/Vue-js-Munich/) - [Vue.js Meetup](https://www.meetup.com/Vue-js-Munich/events/253336909/)
 - August 9th at 6:30PM by [VueDC](https://www.meetup.com/Vue-DC) - [VueDC CodeLabs: Round 4](https://www.meetup.com/Vue-DC/events/252160094/)
 - August 14th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxlbsb/)
 - August 15th at 5:30PM by [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/) - [First Meetup!](https://www.meetup.com/Vue-Raleigh/events/253342316/)
