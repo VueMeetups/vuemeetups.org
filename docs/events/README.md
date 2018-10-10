@@ -69,6 +69,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 #### October
 
+- October 1st at 5:30PM by [Stockholm Vue.js Meetup](https://www.meetup.com/Stockholm-Vue-js-Meetup/) - [Vue.js meetup #4!](https://www.meetup.com/Stockholm-Vue-js-Meetup/events/254045676/)
 - October 9th: [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/)
 - October 9th at 7:00PM by [Montevideo Vue.JS Meetup](https://www.meetup.com/Montevideo-Vue-JS-Meetup) - [Montevideo VueJS Meetup #1](https://www.meetup.com/Montevideo-Vue-JS-Meetup/events/255210278/)
 
