@@ -31,7 +31,6 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - October 25th at 6:30PM by [Montreal Vue.js](https://www.meetup.com/Vue-js-Montreal) - [Vuejs Montréal - Première édition: Introduction à Vuejs 🎉](https://www.meetup.com/Vue-js-Montreal/events/255101915/)
 - October 29th at 6:00PM by [VueNYC](https://www.meetup.com/vueJsNYC) - [VueNYC #15: VyooOOOoOoOooOoo](https://www.meetup.com/vueJsNYC/events/254789916/)
 - October 30th at 6:00PM by [Vue.js São Paulo Meetup](https://www.meetup.com/VueJS-SP/) - [Open Breja + Vue.js = ❤](https://www.meetup.com/VueJS-SP/events/255327307/)
-https://www.meetup.com/VueJS-SP/events/255327307/
 - October 31st at 6:00PM by [VueJs Dublin](https://www.meetup.com/DublinVueJS/) - [Getting started with VueJS](https://www.meetup.com/DublinVueJS/events/255363364/)
 
 #### November
