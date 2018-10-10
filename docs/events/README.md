@@ -120,6 +120,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - September 18th at 6:00PM by [Vue.sf](https://www.meetup.com/vue-sf/) - [Abstract Components in Vue plus Lightning Talks](https://www.meetup.com/vue-sf/events/254419156/)
 - September 19th at 6:00PM by [VueDC](https://www.meetup.com/Vue-DC) - [Storybook and Storyshot Testing w/ Vue.js](https://www.meetup.com/Vue-DC/events/253825074/)
 - September 19th at 7:00PM by [Vue.js London Meetup](https://www.meetup.com/vuejs-london/) – [Conference Special](https://www.meetup.com/vuejs-london/events/254565800/)
+- September 21st at 6:00PM by [Vue Bangalore](https://www.meetup.com/vue-bangalore/) – [VueBLR #8 - State of the Vuenion](https://www.meetup.com/vue-bangalore/events/253680811/)
 - September 24th at 6:00PM by [VueNYC](https://www.meetup.com/vueJsNYC) - [VueNYC #14: End-vue-End Testing](https://www.meetup.com/vueJsNYC/events/254789852/)
 - September 24th at 6:00PM by [Atlanta Vue.js Meetup](https://www.meetup.com/Atlanta-Vue-js-Meetup/) - [Animations and Transitions in Vue.js](https://www.meetup.com/Atlanta-Vue-js-Meetup/events/253313302/)
 - September 27th at 6:00PM by [VueDC](https://www.meetup.com/Vue-DC) - [VueDC CodeLabs: Round 5](https://www.meetup.com/Vue-DC/events/252160174/)
