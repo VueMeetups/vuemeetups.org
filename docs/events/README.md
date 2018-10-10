@@ -137,6 +137,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - August 16th at 7:00PM by [Vue Basel](https://www.meetup.com/Vue-Basel/) - [Intro and Get-together](https://www.meetup.com/Vue-Basel/events/252700661/)
 - August 20th at 6:30PM by [Vue.js Indy](https://www.meetup.com/vuejsindy/) - [Monthly Meeting: General Discussion](https://www.meetup.com/vuejsindy/events/249029591/)
 - August 21st at 6:00PM by [Myrtle Beach Vue JavaScript Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/253591179/)
+- August 23rd at 6:00PM by [VueJS Meetup Amsterdam](https://www.meetup.com/VueJSMeetupAmsterdam/) - [Guillaume Chau - Vue.js and Vue CLI 3](https://www.meetup.com/VueJSMeetupAmsterdam/events/253128656/)
 - August 23rd at 6:00PM by [VueJs Dublin](https://www.meetup.com/DublinVueJS/) - [Getting up and running with VueJS](https://www.meetup.com/DublinVueJS/events/253589298/)
 - August 27th at 6:00PM by [Denver Vue.js Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/) - [Lightning Talk and Work Night](https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxlbkc/)
 - August 28th at 6:00PM by [VueNYC](https://www.meetup.com/vueJsNYC/) - [VueNYC #13: Vulpix or It Didn't Happen](https://www.meetup.com/vueJsNYC/events/251602765/)
@@ -170,6 +171,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 #### June
 
 - June 5th at 6:30PM by [Vue.js Budapest](https://www.meetups.com/Vue-js-Budapest/) - [Vue.Js Meetup Budapest #2](https://www.meetup.com/Vue-js-Budapest/events/250872579/)
+- June 5th at 6:30PM by [VueJS Meetup Amsterdam](https://www.meetup.com/VueJSMeetupAmsterdam/) - [Vue vs React with Adidas | To Vuex or not to Vuex](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
 - June 6th at 5:00PM by [VueJS Oslo)(https://www.meetup.com/VueJS-Oslo/) - [Vue & Angular in the Cloud + VS Code Can Do That!](https://www.meetup.com/VueJS-Oslo/events/249315553/)
 - June 6th at 6:45PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/vxljrpyxjbjb/)
 - June 7th at 6:30PM GMT+2 - [Vuejs vs React with Adidas | Vuex or not to Vuex?](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
