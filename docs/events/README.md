@@ -90,6 +90,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 - October 1st at 5:30PM by [Stockholm Vue.js Meetup](https://www.meetup.com/Stockholm-Vue-js-Meetup/) - [Vue.js meetup #4!](https://www.meetup.com/Stockholm-Vue-js-Meetup/events/254045676/)
 - October 4th at 7:00PM by [Vue.js Barcelona](https://www.meetup.com/VueJS-BCN/) - [Vue Now: Vue Native exists & playing with Socket.io](https://www.meetup.com/VueJS-BCN/events/254879959/)
+- October 4th at 7:30PM by [Vue.js Floripa (Florianopolis)](https://www.meetup.com/vuefloripa/) - [5º Vue.js Floripa](https://www.meetup.com/vuefloripa/events/254307320/)
 - October 9th at 6:30PM by [Vue.js LA](https://www.meetup.com/VuejsLA/) [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/)
 - October 9th at 6:30PM by [VueJS Ft Lauderdale](https://www.meetup.com/meetup-group-wemNbYEa/)- [Show & Tell Night](https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxnbmb/)
 - October 9th at 7:00PM by [Montevideo Vue.JS Meetup](https://www.meetup.com/Montevideo-Vue-JS-Meetup) - [Montevideo VueJS Meetup #1](https://www.meetup.com/Montevideo-Vue-JS-Meetup/events/255210278/)
@@ -169,6 +170,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - June 6th at 6:45PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/vxljrpyxjbjb/)
 - June 7th at 6:30PM GMT+2 - [Vuejs vs React with Adidas | Vuex or not to Vuex?](https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/)
 - June 7th at 7:00PM by [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/) - [VueLyon#3: Nuxt.js, le framework de Vue.js!](https://www.meetup.com/Vue-js-Lyon/events/248727480/)
+- June 7th at 7:30PM by [Vue.js Floripa (Florianopolis)](https://www.meetup.com/vuefloripa/) - [4º Vue.js Floripa](https://www.meetup.com/vuefloripa/events/250565194/)
 - June 12th at 6:30PM by [VueJS Ft Lauderdale](https://www.meetup.com/meetup-group-wemNbYEa/)- [Monthly Meetup](https://www.meetup.com/meetup-group-wemNbYEa/events/bvhfspyxjbqb/)
 - June 12th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxjbqb/)
 - June 14th at 6:30PM by [Vue.js LA](https://www.meetup.com/VuejsLA/) [Vue.js LA Monthly Meetup](https://www.meetup.com/VuejsLA/events/251401435/)
