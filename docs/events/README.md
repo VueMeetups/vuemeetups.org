@@ -35,6 +35,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 #### November
 
 - November 12th at 7:00PM by [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/) - [Enjoy the Vue - Vue.js Dresden #3](https://www.meetup.com/Vue-js-Dresden/events/254849177/)
+- November 14th to 16th by [Vue Toronto](https://www.meetup.com/Vue-Toronto/) - [VueConf TO](https://www.meetup.com/Vue-Toronto/events/252940880/)
 - November 15th at 7:00PM by [San Diego VueJS Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/) - [Vue.js Monthly Meetup](https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxpbtb/)
 - November 15th at 7:00PM by [Vue Basel](https://www.meetup.com/Vue-Basel/) - [i18n](https://www.meetup.com/Vue-Basel/events/255358822/)
 - November 21st at 8:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxpbcc/)
