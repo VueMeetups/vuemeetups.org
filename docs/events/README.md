@@ -99,6 +99,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - September 6th at 7:00PM by [Kyiv Vue.js Meetup](https://www.meetup.com/Kyiv-Vue-js-Meetup/) - [Kyiv Vue.js Meetup #7](https://www.meetup.com/Kyiv-Vue-js-Meetup/events/253971277/)
 - September 10th at 7:00PM by [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/) - [Here we go - Vue.js Dresden #1](https://www.meetup.com/Vue-js-Dresden/events/prvhcqyxlbkc/)
 - September 11th at 7:00PM by [Vue.js // Berlin](https://www.meetup.com/Vue-js-Berlin/)- [Vue.js // Berlin Meetup](https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxmbpb/)
+- September 12th at 5:30PM by [Cleveland VueJS](https://www.meetup.com/Cleveland-VueJS/)- [VueJS demonstration](https://www.meetup.com/Cleveland-VueJS/events/253812868/)
 - September 13th at 6:00PM by [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js/) - [Vue open source hack night](https://www.meetup.com/Chicago-Vue-js/events/254157605/)
 - September 17th at 6:00PM by [Denver Vue.js Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/) - [D3: Data Driven Visualizations in Vue](https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxmbgc/)
 - September 17th at 6:30PM by [Vue.js Indy](https://www.meetup.com/vuejsindy/) - [Learn about Vue.js](https://www.meetup.com/vuejsindy/events/249029606/)
