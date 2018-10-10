@@ -23,6 +23,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - October 10th at 8:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [To-do list: make a simple to-do list app](https://www.meetup.com/Meetup-Vue-Charlotte/events/254864409/)
 - October 15th at 6:00PM by [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js/) - [Reusable Vue.js Components: Slots, Scoped Slots, and Render Function](https://www.meetup.com/Chicago-Vue-js/events/255105052/)
 - October 16th at 6:00PM by [Myrtle Beach Vue JavaScript Meetup](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/) - [Vue JavaScript Workshop](https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/255265369/)
+- October 16th at 7:00PM by [Atlanta Vue.js Meetup](https://www.meetup.com/Atlanta-Vue-js-Meetup/) - [Connect.Tech Special Edition - Q&A with Vue Core Team Members Chris and Rahul](https://www.meetup.com/Atlanta-Vue-js-Meetup/events/254216938/)
 - October 17th at 8:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxnbwb/)
 - October 17th at 6:30PM by [VueDC](https://www.meetup.com/Vue-DC) - [An Overview of Vue CLI 3](https://www.meetup.com/Vue-DC/events/255073376/)
 - October 17th at 7:00PM by [Karlsruhe Vue.js User Group](https://www.meetup.com/Karlsruhe-Vue-js-User-Group/) - [Karlsruhe Vue.js User Group Meetup #2](https://www.meetup.com/Karlsruhe-Vue-js-User-Group/events/255347472/)
@@ -92,6 +93,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - September 19th at 6:30PM by [VueDC](https://www.meetup.com/Vue-DC) - [VueDC CodeLabs: Round 5](https://www.meetup.com/Vue-DC/events/252160174/)
 - September 19th at 6:00PM by [VueDC](https://www.meetup.com/Vue-DC) - [Storybook and Storyshot Testing w/ Vue.js](https://www.meetup.com/Vue-DC/events/253825074/)
 - September 24th at 6:00PM by [VueNYC](https://www.meetup.com/vueJsNYC) - [VueNYC #14: End-vue-End Testing](https://www.meetup.com/vueJsNYC/events/254789852/)
+- September 24th at 6:00PM by [Atlanta Vue.js Meetup](https://www.meetup.com/Atlanta-Vue-js-Meetup/) - [Animations and Transitions in Vue.js](https://www.meetup.com/Atlanta-Vue-js-Meetup/events/253313302/)
 - September 27th at 7:00PM by [Vue Basel](https://www.meetup.com/Vue-Basel/) - [Building a chat bot](https://www.meetup.com/Vue-Basel/events/254758397/)
 
 
@@ -122,6 +124,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - July 17th at 5:00PM by [VueJS Amsterdam](https://www.meetup.com/VueJS-Amsterdam/) - [Learn and Share, Vue Together](https://www.meetup.com/VueJS-Amsterdam/events/251430162/)
 - July 18th at 6:00PM by [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js/) - [A React Point of Vue](https://www.meetup.com/Chicago-Vue-js/events/249950921/)
 - July 19th at 6:00PM by [VueJs Dublin](https://www.meetup.com/DublinVueJS/) - [Why VueJS? Introduction & its place in the frontend universe](https://www.meetup.com/DublinVueJS/events/252273937/)
+- July 23th at 6:30PM by [Atlanta Vue.js Meetup](https://www.meetup.com/Atlanta-Vue-js-Meetup/) - [Zero -Configuration Data Layers & Vuex](https://www.meetup.com/Atlanta-Vue-js-Meetup/events/252092578/)
 - July 24th at 6:00PM by [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js/) - [Panel session with Evan You and Chris Fritz](https://www.meetup.com/Chicago-Vue-js/events/251305790/)
 - July 25th from 6:00PM to 9:00PM by [VueDC](https://www.vuedc.io) - [VueDC CodeLabs: Round 3](https://www.meetup.com/Vue-DC/events/252160032/)
 - July 26th at 7:00PM by [Kyiv Vue.js Meetup](https://www.meetup.com/Kyiv-Vue-js-Meetup/) - [Kyiv Vue.js Meetup #6](https://www.meetup.com/Kyiv-Vue-js-Meetup/events/252668120/)
