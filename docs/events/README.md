@@ -41,6 +41,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 #### November
 
+- November 5th at 6:30PM by [Vue.js London Meetup](https://www.meetup.com/vuejs-london/) – [Vue.js London #10](https://www.meetup.com/vuejs-london/events/255394428/)
 - November 7th at 7:00PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 4](https://www.meetup.com/vue_zurich/events/252460725/)
 - November 8th at 7:00PM by [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/) - [Vue Novembre](https://www.meetup.com/Vue-js-Lyon/events/255052432/)
 - November 12th at 7:00PM by [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/) - [Enjoy the Vue - Vue.js Dresden #3](https://www.meetup.com/Vue-js-Dresden/events/254849177/)
@@ -102,6 +103,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - September 17th at 6:30PM by [Vue.js Indy](https://www.meetup.com/vuejsindy/) - [Learn about Vue.js](https://www.meetup.com/vuejsindy/events/249029606/)
 - September 17th at 8:00PM by [Vue Charlotte](https://www.meetup.com/Meetup-Vue-Charlotte/) - [New to Vue? This One's For You](https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxmbzb/)
 - September 19th at 6:00PM by [VueDC](https://www.meetup.com/Vue-DC) - [Storybook and Storyshot Testing w/ Vue.js](https://www.meetup.com/Vue-DC/events/253825074/)
+- September 19th at 7:00PM by [Vue.js London Meetup](https://www.meetup.com/vuejs-london/) – [Conference Special](https://www.meetup.com/vuejs-london/events/254565800/)
 - September 24th at 6:00PM by [VueNYC](https://www.meetup.com/vueJsNYC) - [VueNYC #14: End-vue-End Testing](https://www.meetup.com/vueJsNYC/events/254789852/)
 - September 24th at 6:00PM by [Atlanta Vue.js Meetup](https://www.meetup.com/Atlanta-Vue-js-Meetup/) - [Animations and Transitions in Vue.js](https://www.meetup.com/Atlanta-Vue-js-Meetup/events/253313302/)
 - September 27th at 6:00PM by [VueDC](https://www.meetup.com/Vue-DC) - [VueDC CodeLabs: Round 5](https://www.meetup.com/Vue-DC/events/252160174/)
