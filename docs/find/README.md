@@ -55,6 +55,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Vienna - [Vue.js Vienna](https://meetup.com/Vue-js-Vienna)
 
+### Bulgaria
+
+- Sofia - [Vue.js Sofia](https://www.meetup.com/Sofia-Vue-js-Meetup/)
+
 ### Czechia
 
 - Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
