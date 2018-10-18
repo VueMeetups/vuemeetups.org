@@ -1200,6 +1200,16 @@
 			"eventLink": "https://www.meetup.com/Vue-js-Dresden/events/254579835/"
 		},
 		{
+			"date": "22nd",
+			"time": "at 7:30PM",
+			"startDate": "2018-10-22",
+			"endDate": "2018-10-22",
+			"organiser": "Vue.js Hong Kong",
+			"organiserLink":	"https://www.facebook.com/groups/887185518120024/",
+			"name": "Vue.js Hong Kong Meetup #4 - Nuxt.js",
+			"eventLink": "https://www.facebook.com/events/744632985886870/"
+		},
+		{
 			"date": "24th",
 			"time": "at 6:30PM",
 			"startDate": "2018-10-24",
