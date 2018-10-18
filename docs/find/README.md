@@ -55,6 +55,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Vienna - [Vue.js Vienna](https://meetup.com/Vue-js-Vienna)
 
+### Bulgaria
+
+- Sofia - [Vue.js Sofia](https://www.meetup.com/Sofia-Vue-js-Meetup/)
+
 ### Czechia
 
 - Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
@@ -68,6 +72,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Aachen - [Aachen Vue.js](https://www.meetup.com/aachen-vue-js-meetup/)
 - Berlin - [Vue.js // Berlin](https://meetup.com/Vue-js-Berlin)
+- Dresden - [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/)
 - Frankfurt - [Vue.js Frankfurt](https://meetup.com/vuejsfrankfurt)
 - Hamburg - [Hamburg Vue.js Meetup](https://meetup.com/Hamburg-Vue-js-Meetup)
 - München - [Vue.js Munich](https://meetup.com/Vue-js-Munich)
