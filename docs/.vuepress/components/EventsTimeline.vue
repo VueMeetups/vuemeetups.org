@@ -9,7 +9,9 @@
 				<h4>{{ month }}</h4>
 				<ul>
 					<li  v-for="event in events">
-					{{ month }} {{event.date }} {{ event.time }} <template v-if="event.organiser">by <a :href="event.organiserLink">{{ event.organiser }}</a></template> - <a :href="event.eventLink">{{ event.name }}</a>
+					{{ month }} {{event.date }} {{ event.time }}
+					<template v-if="event.organiser">by <a :href="event.organiserLink" target="_blank" rel="noopener noreferrer">{{ event.organiser }}</a></template>
+					- <a :href="event.eventLink" target="_blank" rel="noopener noreferrer">{{ event.name }}</a>
 					</li>
 				</ul>
 			</template>

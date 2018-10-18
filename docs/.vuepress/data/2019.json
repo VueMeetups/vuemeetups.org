@@ -2,10 +2,10 @@
   "January": [
 		{
 			"date": "3rd",
-			"time": "at 6:30PM ",
+			"time": "at 6:30PM",
 			"startDate": "2019-01-03",
 			"endDate": "2019-01-03",
-			"organiser": "\\<vue-zurich\/\\>",
+			"organiser": "<vue-zurich/>",
 			"organiserLink": "https://www.meetup.com/vue_zurich/",
 			"name": "№ 5",
 			"eventLink": "https://www.meetup.com/vue_zurich/events/255051721/"
