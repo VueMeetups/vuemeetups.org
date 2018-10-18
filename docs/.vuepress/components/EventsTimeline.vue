@@ -1,29 +1,38 @@
 <template>
 	<div>
 		<slot/>
-		<template v-for="(timeline, year) in events">
+		<div
+			v-for="(timeline, year) in events"
+			v-if="isDatePast(`${year}/12/31`)">
 			<h3>{{ year }}</h3>
-			<template
+			<div
 				v-for="(events, month) in timeline"
-				v-if="events.length">
+				v-if="events.length && isDatePast(`${year}/${month}/30`)">
 				<h4>{{ month }}</h4>
 				<ul>
-					<li  v-for="event in events">
-					{{ month }} {{event.date }} {{ event.time }}
-					<template v-if="event.organiser">by <a :href="event.organiserLink" target="_blank" rel="noopener noreferrer">{{ event.organiser }}</a></template>
-					- <a :href="event.eventLink" target="_blank" rel="noopener noreferrer">{{ event.name }}</a>
-					</li>
+					<event-item
+						v-for="(event, index) in events"
+						:key="index"
+						:past="past"
+						:month="month"
+						:event="event"
+					/>
 				</ul>
-			</template>
-		</template>
+			</div>
+		</div>
 	</div>
 </template>
 
 <script>
 import eventsTimeline from '../data';
+import EventItem from './EventItem';
 import { isPast } from '../utils';
 
 export default {
+	components: {
+		EventItem,
+	},
+
 	props: {
 		past: {
 			type: Boolean,
@@ -31,27 +40,15 @@ export default {
 		}
 	},
 
-	computed: {
-		events() {
-			const events = {};
+	data() {
+		return {
+			events: eventsTimeline,
+		};
+	},
 
-			Object.keys(eventsTimeline).forEach((year) => {
-				Object.keys(eventsTimeline[year]).forEach((month) => {
-					eventsTimeline[year][month].forEach((event) => {
-						if (isPast(event.endDate) === this.past) {
-							if (!events[year]) {
-								events[year] = {};
-							}
-							if (!events[year][month]) {
-								events[year][month] = [];
-							}
-							events[year][month].push(event);
-						}
-					});
-				});
-			});
-
-			return events;
+	methods: {
+		isDatePast(date) {
+			return isPast(date) === this.past;
 		}
 	}
 }
