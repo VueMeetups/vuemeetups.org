@@ -33,6 +33,7 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 - October 20th at 11:00AM by [VuePune](https://www.meetup.com/VuePune) - [VuePune #1: Introduction to Vue.js](https://www.meetup.com/VuePune/events/254917764/)
 - October 22nd at 6:00PM by [Denver Vue.js Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/) - [Denver Vue meetup!](https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxnbdc/)
 - October 22nd at 7:00PM by [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/) - [Meet Again - Vue.js Dresden #2](https://www.meetup.com/Vue-js-Dresden/events/254579835/)
+- October 22nd at 7:30PM by [Vue.js Hong Kong](https://www.facebook.com/groups/887185518120024/) - [Vue.js Hong Kong Meetup #4 - Nuxt.js](https://www.facebook.com/events/744632985886870/)
 - October 24th at 6:30PM by [VueJS Manchester](https://www.meetup.com/VueJS-Manchester) - [Workshop - Let's build a TO-DO list app](https://www.meetup.com/VueJS-Manchester/events/255247096/)
 - October 25th at 6:30PM by [Montreal Vue.js](https://www.meetup.com/Vue-js-Montreal) - [Vuejs Montréal - Première édition: Introduction à Vuejs 🎉](https://www.meetup.com/Vue-js-Montreal/events/255101915/)
 - October 29th at 6:00PM by [VueNYC](https://www.meetup.com/vueJsNYC) - [VueNYC #15: VyooOOOoOoOooOoo](https://www.meetup.com/vueJsNYC/events/254789916/)
