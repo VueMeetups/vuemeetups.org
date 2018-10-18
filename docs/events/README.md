@@ -12,7 +12,6 @@ Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sur
 
 To add yours to the list, please [open an issue](https://github.com/bencodezen/vue-meetups/issues/new) or submit a PR to the [repo](https://github.com/bencodezen/vue-meetups/edit/master/docs/events/README.md).
 
-
 <events-timeline>
 
 ## Upcoming
