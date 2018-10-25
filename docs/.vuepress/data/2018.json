@@ -6,7 +6,8 @@
 			"startDate": "2018-05-31",
 			"endDate": "2018-05-31",
 			"name": "VueDC CodeLabs: Inaugural Night",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/250293065/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/250293065/",
+			"type": "meetup"
 		}
 	],
 	"June": [
@@ -18,7 +19,8 @@
 			"organiser": "Vue.js Budapest",
 			"organiserLink": "https://www.meetups.com/Vue-js-Budapest/",
 			"name": "Vue.Js Meetup Budapest #2",
-			"eventLink": "https://www.meetup.com/Vue-js-Budapest/events/250872579/"
+			"eventLink": "https://www.meetup.com/Vue-js-Budapest/events/250872579/",
+			"type": "meetup"
 		},
 		{
 			"date": "5th",
@@ -28,7 +30,8 @@
 			"organiser": "VueJS Meetup Amsterdam",
 			"organiserLink": "https://www.meetup.com/VueJSMeetupAmsterdam/",
 			"name": "Vue vs React with Adidas | To Vuex or not to Vuex",
-			"eventLink": "https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/"
+			"eventLink": "https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/",
+			"type": "meetup"
 		},
 		{
 			"date": "6th",
@@ -38,7 +41,8 @@
 			"organiser": "VueJS Oslo",
 			"organiserLink": "https://www.meetup.com/VueJS-Oslo/",
 			"name": "Vue & Angular in the Cloud + VS Code Can Do That!",
-			"eventLink": "https://www.meetup.com/VueJS-Oslo/events/249315553/"
+			"eventLink": "https://www.meetup.com/VueJS-Oslo/events/249315553/",
+			"type": "meetup"
 		},
 		{
 			"date": "6th",
@@ -48,7 +52,8 @@
 			"organiser": "San Diego VueJS Meetup",
 			"organiserLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/",
 			"name": "Vue.js Monthly Meetup",
-			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/vxljrpyxjbjb/"
+			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/vxljrpyxjbjb/",
+			"type": "meetup"
 		},
 		{
 			"date": "6th",
@@ -58,7 +63,8 @@
 			"organiser": "Vue.js Paris",
 			"organiserLink": "https://www.meetup.com/Vuejs-Paris",
 			"name": "Vue.js Paris #15 - Atomic Design and Vue CLI UI",
-			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/251248251/"
+			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/251248251/",
+			"type": "meetup"
 		},
 		{
 			"date": "7th",
@@ -66,7 +72,8 @@
 			"startDate": "2018-06-07",
 			"endDate": "2018-06-07",
 			"name": "Vuejs vs React with Adidas | Vuex or not to Vuex?",
-			"eventLink": "https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/"
+			"eventLink": "https://www.meetup.com/VueJSMeetupAmsterdam/events/250767489/",
+			"type": "meetup"
 		},
 		{
 			"date": "7th",
@@ -76,7 +83,8 @@
 			"organiser": "Vue.js Lyon",
 			"organiserLink": "https://www.meetup.com/Vue-js-Lyon/",
 			"name": "VueLyon#3: Nuxt.js, le framework de Vue.js!",
-			"eventLink": "https://www.meetup.com/Vue-js-Lyon/events/248727480/"
+			"eventLink": "https://www.meetup.com/Vue-js-Lyon/events/248727480/",
+			"type": "meetup"
 		},
 		{
 			"date": "7th",
@@ -86,7 +94,8 @@
 			"organiser": "Vue.js Floripa (Florianopolis)",
 			"organiserLink": "https://www.meetup.com/vuefloripa/",
 			"name": "4º Vue.js Floripa",
-			"eventLink": "https://www.meetup.com/vuefloripa/events/250565194/"
+			"eventLink": "https://www.meetup.com/vuefloripa/events/250565194/",
+			"type": "meetup"
 		},
 		{
 			"date": "12th",
@@ -96,7 +105,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Monthly Meetup",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/bvhfspyxjbqb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/bvhfspyxjbqb/",
+			"type": "meetup"
 		},
 		{
 			"date": "12th",
@@ -106,7 +116,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxjbqb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxjbqb/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th",
@@ -116,7 +127,8 @@
 			"organiser": "Vue.js LA",
 			"organiserLink": "https://www.meetup.com/VuejsLA/",
 			"name": "Vue.js LA Monthly Meetup",
-			"eventLink": "https://www.meetup.com/VuejsLA/events/251401435/"
+			"eventLink": "https://www.meetup.com/VuejsLA/events/251401435/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th",
@@ -126,7 +138,8 @@
 			"organiser": "Vue.js Barcelona",
 			"organiserLink": "https://www.meetup.com/VueJS-BCN/",
 			"name": "Llega el Vuerano: RabbitMQ & migración a Vue",
-			"eventLink": "https://www.meetup.com/VueJS-BCN/events/251232478/"
+			"eventLink": "https://www.meetup.com/VueJS-BCN/events/251232478/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th",
@@ -136,7 +149,8 @@
 			"organiser": "Kyiv Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/",
 			"name": "Kyiv Vue.js Meetup #5",
-			"eventLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/events/251442705/"
+			"eventLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/events/251442705/",
+			"type": "meetup"
 		},
 		{
 			"date": "18th",
@@ -146,7 +160,8 @@
 			"organiser": "Vue.js Indy",
 			"organiserLink": "https://www.meetup.com/vuejsindy/",
 			"name": "Monthly Meeting - Building Interfaces with Vue",
-			"eventLink": "https://www.meetup.com/vuejsindy/events/249029567/"
+			"eventLink": "https://www.meetup.com/vuejsindy/events/249029567/",
+			"type": "meetup"
 		},
 		{
 			"date": "19th",
@@ -156,7 +171,8 @@
 			"organiser": "Vue Sydney",
 			"organiserLink": "https://www.meetup.com/vue-sydney/",
 			"name": "Vue Sydney Meetup #6",
-			"eventLink": "https://www.meetup.com/vue-sydney/events/249412287/"
+			"eventLink": "https://www.meetup.com/vue-sydney/events/249412287/",
+			"type": "meetup"
 		},
 		{
 			"date": "20th",
@@ -166,7 +182,8 @@
 			"organiser": "VueDC",
 			"organiserLink": "https://www.vuedc.io",
 			"name": "Testing in Vue.js",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/250794404/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/250794404/",
+			"type": "meetup"
 		},
 		{
 			"date": "20th",
@@ -176,7 +193,8 @@
 			"organiser": "Vue.js Vienna",
 			"organiserLink": "https://www.meetup.com/Vue-js-Vienna/",
 			"name": "Vue.js Vienna June Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Vienna/events/249255348/"
+			"eventLink": "https://www.meetup.com/Vue-js-Vienna/events/249255348/",
+			"type": "meetup"
 		},
 		{
 			"date": "20th",
@@ -186,7 +204,8 @@
 			"organiser": "GoCode in Sderot",
 			"organiserLink": "https://www.meetup.com/GoCode-in-Sderot/",
 			"name": "Vue.js Basics in Sderot",
-			"eventLink": "https://www.meetup.com/GoCode-in-Sderot/events/251750321/"
+			"eventLink": "https://www.meetup.com/GoCode-in-Sderot/events/251750321/",
+			"type": "meetup"
 		},
 		{
 			"date": "21st",
@@ -196,7 +215,8 @@
 			"organiser": "VueJS Amsterdam",
 			"organiserLink": "https://www.meetup.com/VueJS-Amsterdam/",
 			"name": "The unknown roads of Vue.js: Testing and WebAssembly",
-			"eventLink": "https://www.meetup.com/VueJS-Amsterdam/events/250577395/"
+			"eventLink": "https://www.meetup.com/VueJS-Amsterdam/events/250577395/",
+			"type": "meetup"
 		},
 		{
 			"date": "21st",
@@ -206,7 +226,8 @@
 			"organiser": "Vuenos Aires",
 			"organiserLink": "https://www.meetup.com/vuenos-aires/",
 			"name": "Meetup Vuenos Aires #6",
-			"eventLink": "https://www.meetup.com/vuenos-aires/events/251884191/"
+			"eventLink": "https://www.meetup.com/vuenos-aires/events/251884191/",
+			"type": "meetup"
 		},
 		{
 			"date": "25th",
@@ -216,7 +237,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
 			"name": "Component Architecture with Vue.js",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxjbhc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxjbhc/",
+			"type": "meetup"
 		},
 		{
 			"date": "26th",
@@ -226,7 +248,8 @@
 			"organiser": "VueNYC",
 			"organiserLink": "https://www.meetup.com/vueJsNYC/",
 			"name": "VueNYC #11: Every Day's Great at Your Vuenes",
-			"eventLink": "https://www.meetup.com/vueJsNYC/events/251266026/"
+			"eventLink": "https://www.meetup.com/vueJsNYC/events/251266026/",
+			"type": "meetup"
 		},
 		{
 			"date": "27th",
@@ -236,7 +259,8 @@
 			"organiser": "Vue.js Prague",
 			"organiserLink": "https://www.meetup.com/vuejsprague/",
 			"name": "Prague Vue.js Meetup #2",
-			"eventLink": "https://www.meetup.com/vuejsprague/events/xdfrtpyxjbkc/"
+			"eventLink": "https://www.meetup.com/vuejsprague/events/xdfrtpyxjbkc/",
+			"type": "meetup"
 		},
 		{
 			"date": "28th",
@@ -246,7 +270,8 @@
 			"organiser": "VueDC",
 			"organiserLink": "https://www.vuedc.io",
 			"name": "VueDC CodeLabs: Round 2",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/250293099/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/250293099/",
+			"type": "meetup"
 		},
 		{
 			"date": "28th",
@@ -256,7 +281,8 @@
 			"organiser": "Suncoast.js",
 			"organiserLink": "https://www.meetup.com/suncoast-js/",
 			"name": "Composing D3 Visuals with Vue.js Workshop",
-			"eventLink": "https://www.meetup.com/suncoast-js/events/251644205/"
+			"eventLink": "https://www.meetup.com/suncoast-js/events/251644205/",
+			"type": "meetup"
 		}
 	],
 	"July": [
@@ -268,7 +294,8 @@
 			"organiser": "<vue-zurich/>",
 			"organiserLink": "https://www.meetup.com/vue_zurich/",
 			"name": "№ 2",
-			"eventLink": "https://www.meetup.com/vue_zurich/events/249627326/"
+			"eventLink": "https://www.meetup.com/vue_zurich/events/249627326/",
+			"type": "meetup"
 		},
 		{
 			"date": "4th",
@@ -278,7 +305,8 @@
 			"organiser": "Vue.js Paris",
 			"organiserLink": "https://www.meetup.com/Vuejs-Paris",
 			"name": "Vue.js Paris #16 - Migration d'une application vers Vue.js / Nuxt.js",
-			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/252227698/"
+			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/252227698/",
+			"type": "meetup"
 		},
 		{
 			"date": "5th",
@@ -288,7 +316,8 @@
 			"organiser": "VueJS Manchester",
 			"organiserLink": "https://www.meetup.com/VueJS-Manchester",
 			"name": "Skype call with Chris Fritz & Animations and Transitions with Jason Yu",
-			"eventLink": "https://www.meetup.com/VueJS-Manchester/events/251882780/"
+			"eventLink": "https://www.meetup.com/VueJS-Manchester/events/251882780/",
+			"type": "meetup"
 		},
 		{
 			"date": "10th",
@@ -298,7 +327,8 @@
 			"organiser": "Myrtle Beach Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/",
 			"name": "Vue JavaScript Workshop",
-			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/251602475/"
+			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/251602475/",
+			"type": "meetup"
 		},
 		{
 			"date": "10th",
@@ -308,7 +338,8 @@
 			"organiser": "Vue.js Nantes",
 			"organiserLink": "https://www.meetup.com/Vuejs-Nantes/",
 			"name": "Vue.js Nantes - 1ère édition!",
-			"eventLink": "https://www.meetup.com/Vuejs-Nantes/events/cmtqspyxkbnb/"
+			"eventLink": "https://www.meetup.com/Vuejs-Nantes/events/cmtqspyxkbnb/",
+			"type": "meetup"
 		},
 		{
 			"date": "10th",
@@ -318,7 +349,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxkbnb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/rzzqlpyxkbnb/",
+			"type": "meetup"
 		},
 		{
 			"date": "11th",
@@ -328,7 +360,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Monthly Meetup",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/bvhfspyxkbnb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/bvhfspyxkbnb/",
+			"type": "meetup"
 		},
 		{
 			"date": "11th",
@@ -338,7 +371,8 @@
 			"organiser": "VueDC",
 			"organiserLink": "https://www.meetup.com/Vue-DC",
 			"name": "Vuex in Action",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/252159814/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/252159814/",
+			"type": "meetup"
 		},
 		{
 			"date": "11th",
@@ -348,7 +382,8 @@
 			"organiser": "Vue.js São Paulo Meetup",
 			"organiserLink": "https://www.meetup.com/VueJS-SP/",
 			"name": "Vue.js SP - FrontendWeek",
-			"eventLink": "https://www.meetup.com/VueJS-SP/events/251006838/"
+			"eventLink": "https://www.meetup.com/VueJS-SP/events/251006838/",
+			"type": "meetup"
 		},
 		{
 			"date": "11th",
@@ -358,7 +393,8 @@
 			"organiser": "Vue Charlotte",
 			"organiserLink": "https://www.meetup.com/Meetup-Vue-Charlotte/",
 			"name": "New to Vue? This One's For You",
-			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/251534326/"
+			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/251534326/",
+			"type": "meetup"
 		},
 		{
 			"date": "16th",
@@ -368,7 +404,8 @@
 			"organiser": "Vue.js Indy",
 			"organiserLink": "https://www.meetup.com/vuejsindy/",
 			"name": "Monthly Meeting",
-			"eventLink": "https://www.meetup.com/vuejsindy/events/249029578/"
+			"eventLink": "https://www.meetup.com/vuejsindy/events/249029578/",
+			"type": "meetup"
 		},
 		{
 			"date": "17th",
@@ -378,7 +415,8 @@
 			"organiser": "VueJS Amsterdam",
 			"organiserLink": "https://www.meetup.com/VueJS-Amsterdam/",
 			"name": "Learn and Share, Vue Together",
-			"eventLink": "https://www.meetup.com/VueJS-Amsterdam/events/251430162/"
+			"eventLink": "https://www.meetup.com/VueJS-Amsterdam/events/251430162/",
+			"type": "meetup"
 		},
 		{
 			"date": "18th",
@@ -388,7 +426,8 @@
 			"organiser": "Wellington.vue",
 			"organiserLink": "https://www.meetup.com/Wellington-vue/",
 			"name": "Welcome to Wellington.vue",
-			"eventLink": "https://www.meetup.com/Wellington-vue/events/251419876/"
+			"eventLink": "https://www.meetup.com/Wellington-vue/events/251419876/",
+			"type": "meetup"
 		},
 		{
 			"date": "18th",
@@ -398,7 +437,8 @@
 			"organiser": "Chicago Vue.js",
 			"organiserLink": "https://www.meetup.com/Chicago-Vue-js/",
 			"name": "A React Point of Vue",
-			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/249950921/"
+			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/249950921/",
+			"type": "meetup"
 		},
 		{
 			"date": "19th",
@@ -408,7 +448,8 @@
 			"organiser": "VueJs Dublin",
 			"organiserLink": "https://www.meetup.com/DublinVueJS/",
 			"name": "Why VueJS? Introduction & its place in the frontend universe",
-			"eventLink": "https://www.meetup.com/DublinVueJS/events/252273937/"
+			"eventLink": "https://www.meetup.com/DublinVueJS/events/252273937/",
+			"type": "meetup"
 		},
 		{
 			"date": "23rd",
@@ -418,7 +459,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
 			"name": "Component-based App Architecture!",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxkbfc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxkbfc/",
+			"type": "meetup"
 		},
 		{
 			"date": "23th",
@@ -428,7 +470,8 @@
 			"organiser": "Atlanta Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/",
 			"name": "Zero -Configuration Data Layers & Vuex",
-			"eventLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/events/252092578/"
+			"eventLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/events/252092578/",
+			"type": "meetup"
 		},
 		{
 			"date": "24th",
@@ -438,7 +481,8 @@
 			"organiser": "Chicago Vue.js",
 			"organiserLink": "https://www.meetup.com/Chicago-Vue-js/",
 			"name": "Panel session with Evan You and Chris Fritz",
-			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/251305790/"
+			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/251305790/",
+			"type": "meetup"
 		},
 		{
 			"date": "24th",
@@ -448,7 +492,8 @@
 			"organiser": "Dallas Vue Meetup",
 			"organiserLink": "https://www.meetup.com/Dallas-Vue-Meetup/",
 			"name": "First Meetup",
-			"eventLink": "https://www.meetup.com/Dallas-Vue-Meetup/events/252160586/"
+			"eventLink": "https://www.meetup.com/Dallas-Vue-Meetup/events/252160586/",
+			"type": "meetup"
 		},
 		{
 			"date": "24th",
@@ -458,7 +503,8 @@
 			"organiser": "Vue.sf",
 			"organiserLink": "https://www.meetup.com/vue-sf/",
 			"name": "Vue and Typescript plus Lightning Talks",
-			"eventLink": "https://www.meetup.com/vue-sf/events/252671641/"
+			"eventLink": "https://www.meetup.com/vue-sf/events/252671641/",
+			"type": "meetup"
 		},
 		{
 			"date": "25th",
@@ -468,7 +514,8 @@
 			"organiser": "VueDC",
 			"organiserLink": "https://www.vuedc.io",
 			"name": "VueDC CodeLabs: Round 3",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/252160032/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/252160032/",
+			"type": "meetup"
 		},
 		{
 			"date": "26th",
@@ -478,7 +525,8 @@
 			"organiser": "Kyiv Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/",
 			"name": "Kyiv Vue.js Meetup #6",
-			"eventLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/events/252668120/"
+			"eventLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/events/252668120/",
+			"type": "meetup"
 		},
 		{
 			"date": "27th",
@@ -488,7 +536,8 @@
 			"organiser": "Karlsruhe Vue.js User Group",
 			"organiserLink": "https://www.meetup.com/Karlsruhe-Vue-js-User-Group/",
 			"name": "Karlsruhe Vue.js User Group Meetup #1",
-			"eventLink": "https://www.meetup.com/Karlsruhe-Vue-js-User-Group/events/252286789/"
+			"eventLink": "https://www.meetup.com/Karlsruhe-Vue-js-User-Group/events/252286789/",
+			"type": "meetup"
 		},
 		{
 			"date": "31st",
@@ -498,7 +547,8 @@
 			"organiser": "Myrtle Beach Vue JavaScript Meetup",
 			"organiserLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/",
 			"name": "Vue JavaScript Workshop",
-			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/252748391/"
+			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/252748391/",
+			"type": "meetup"
 		},
 		{
 			"date": "31st",
@@ -508,7 +558,8 @@
 			"organiser": "VueNYC",
 			"organiserLink": "https://www.meetup.com/vueJsNYC/",
 			"name": "VueNYC #12: Vue PicNYC",
-			"eventLink": "https://www.meetup.com/vueJsNYC/events/251602717/"
+			"eventLink": "https://www.meetup.com/vueJsNYC/events/251602717/",
+			"type": "meetup"
 		},
 		{
 			"date": "31th",
@@ -518,7 +569,8 @@
 			"organiser": "Vue.js Lyon",
 			"organiserLink": "https://www.meetup.com/Vue-js-Lyon/",
 			"name": "Atelier Summer 2018",
-			"eventLink": "https://www.meetup.com/Vue-js-Lyon/events/253089389/"
+			"eventLink": "https://www.meetup.com/Vue-js-Lyon/events/253089389/",
+			"type": "meetup"
 		}
 	],
 	"August": [
@@ -530,7 +582,8 @@
 			"organiser": "San Diego VueJS Meetup",
 			"organiserLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/",
 			"name": "Vue.js Monthly Meetup",
-			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tcttwpyxlbcb/"
+			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tcttwpyxlbcb/",
+			"type": "meetup"
 		},
 		{
 			"date": "1st",
@@ -540,7 +593,8 @@
 			"organiser": "Vue.js Prague",
 			"organiserLink": "https://www.meetup.com/vuejsprague/",
 			"name": "Prague Vue.js Meetup #3",
-			"eventLink": "https://www.meetup.com/vuejsprague/events/252191081/"
+			"eventLink": "https://www.meetup.com/vuejsprague/events/252191081/",
+			"type": "meetup"
 		},
 		{
 			"date": "2nd",
@@ -550,7 +604,8 @@
 			"organiser": "Vue.js Poland (Wrocław)",
 			"organiserLink": "https://www.meetup.com/Vue-js-Poland/",
 			"name": "Vue.js Core Team Summit #1",
-			"eventLink": "https://www.meetup.com/Vue-js-Poland/events/253095286/"
+			"eventLink": "https://www.meetup.com/Vue-js-Poland/events/253095286/",
+			"type": "meetup"
 		},
 		{
 			"date": "7th",
@@ -560,7 +615,8 @@
 			"organiser": "Vue.js Belgium (Ghent)",
 			"organiserLink": "https://www.meetup.com/vuejs-belgium/",
 			"name": "Ghent #2",
-			"eventLink": "https://www.meetup.com/vuejs-belgium/events/252850217/"
+			"eventLink": "https://www.meetup.com/vuejs-belgium/events/252850217/",
+			"type": "meetup"
 		},
 		{
 			"date": "8th",
@@ -570,7 +626,8 @@
 			"organiser": "Vue.js Munich",
 			"organiserLink": "https://www.meetup.com/Vue-js-Munich/",
 			"name": "Vue.js Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Munich/events/253336909/"
+			"eventLink": "https://www.meetup.com/Vue-js-Munich/events/253336909/",
+			"type": "meetup"
 		},
 		{
 			"date": "8th",
@@ -580,7 +637,8 @@
 			"organiser": "Melbourne VueJS Meetup",
 			"organiserLink": "https://www.meetup.com/vuejs-melbourne/",
 			"name": "Vue.js Meetup",
-			"eventLink": "https://www.meetup.com/vuejs-melbourne/events/253501918/"
+			"eventLink": "https://www.meetup.com/vuejs-melbourne/events/253501918/",
+			"type": "meetup"
 		},
 		{
 			"date": "9th",
@@ -590,7 +648,8 @@
 			"organiser": "VueDC",
 			"organiserLink": "https://www.meetup.com/Vue-DC",
 			"name": "VueDC CodeLabs: Round 4",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/252160094/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/252160094/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th",
@@ -600,7 +659,8 @@
 			"organiser": "Vue Sydney",
 			"organiserLink": "https://www.meetup.com/vue-sydney/",
 			"name": "Vue Sydney Meetup #7",
-			"eventLink": "https://www.meetup.com/vue-sydney/events/252859469/"
+			"eventLink": "https://www.meetup.com/vue-sydney/events/252859469/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th",
@@ -610,7 +670,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Monthly Meetup",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxlbsb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxlbsb/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th",
@@ -620,7 +681,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxlbsb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxlbsb/",
+			"type": "meetup"
 		},
 		{
 			"date": "15th",
@@ -630,7 +692,8 @@
 			"organiser": "Vue Raleigh",
 			"organiserLink": "https://www.meetup.com/Vue-Raleigh/",
 			"name": "First Meetup!",
-			"eventLink": "https://www.meetup.com/Vue-Raleigh/events/253342316/"
+			"eventLink": "https://www.meetup.com/Vue-Raleigh/events/253342316/",
+			"type": "meetup"
 		},
 		{
 			"date": "16th",
@@ -640,7 +703,8 @@
 			"organiser": "Vue Charlotte",
 			"organiserLink": "https://www.meetup.com/Meetup-Vue-Charlotte/",
 			"name": "New to Vue? This One's For You",
-			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxlbtb/"
+			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxlbtb/",
+			"type": "meetup"
 		},
 		{
 			"date": "16th",
@@ -650,7 +714,8 @@
 			"organiser": "Vue Basel",
 			"organiserLink": "https://www.meetup.com/Vue-Basel/",
 			"name": "Intro and Get-together",
-			"eventLink": "https://www.meetup.com/Vue-Basel/events/252700661/"
+			"eventLink": "https://www.meetup.com/Vue-Basel/events/252700661/",
+			"type": "meetup"
 		},
 		{
 			"date": "20th",
@@ -660,7 +725,8 @@
 			"organiser": "Vue.js Indy",
 			"organiserLink": "https://www.meetup.com/vuejsindy/",
 			"name": "Monthly Meeting: General Discussion",
-			"eventLink": "https://www.meetup.com/vuejsindy/events/249029591/"
+			"eventLink": "https://www.meetup.com/vuejsindy/events/249029591/",
+			"type": "meetup"
 		},
 		{
 			"date": "21st",
@@ -670,7 +736,8 @@
 			"organiser": "Myrtle Beach Vue JavaScript Meetup",
 			"organiserLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/",
 			"name": "Vue JavaScript Workshop",
-			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/253591179/"
+			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/253591179/",
+			"type": "meetup"
 		},
 		{
 			"date": "21st",
@@ -680,7 +747,8 @@
 			"organiser": "Vue.sf",
 			"organiserLink": "https://www.meetup.com/vue-sf/",
 			"name": "GraphQL in Vue plus Lightning Talks",
-			"eventLink": "https://www.meetup.com/vue-sf/events/253133398/"
+			"eventLink": "https://www.meetup.com/vue-sf/events/253133398/",
+			"type": "meetup"
 		},
 		{
 			"date": "23rd",
@@ -690,7 +758,8 @@
 			"organiser": "VueJS Meetup Amsterdam",
 			"organiserLink": "https://www.meetup.com/VueJSMeetupAmsterdam/",
 			"name": "Guillaume Chau - Vue.js and Vue CLI 3",
-			"eventLink": "https://www.meetup.com/VueJSMeetupAmsterdam/events/253128656/"
+			"eventLink": "https://www.meetup.com/VueJSMeetupAmsterdam/events/253128656/",
+			"type": "meetup"
 		},
 		{
 			"date": "23rd",
@@ -700,7 +769,8 @@
 			"organiser": "VueJs Dublin",
 			"organiserLink": "https://www.meetup.com/DublinVueJS/",
 			"name": "Getting up and running with VueJS",
-			"eventLink": "https://www.meetup.com/DublinVueJS/events/253589298/"
+			"eventLink": "https://www.meetup.com/DublinVueJS/events/253589298/",
+			"type": "meetup"
 		},
 		{
 			"date": "27th",
@@ -710,7 +780,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
 			"name": "Lightning Talk and Work Night",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxlbkc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxlbkc/",
+			"type": "meetup"
 		},
 		{
 			"date": "28th",
@@ -720,7 +791,8 @@
 			"organiser": "VueNYC",
 			"organiserLink": "https://www.meetup.com/vueJsNYC/",
 			"name": "VueNYC #13: Vulpix or It Didn't Happen",
-			"eventLink": "https://www.meetup.com/vueJsNYC/events/251602765/"
+			"eventLink": "https://www.meetup.com/vueJsNYC/events/251602765/",
+			"type": "meetup"
 		},
 		{
 			"date": "29th",
@@ -730,7 +802,8 @@
 			"organiser": "Vue.js São Paulo Meetup",
 			"organiserLink": "https://www.meetup.com/VueJS-SP/",
 			"name": "Vue.js SP - Edição Vue.js Summit!",
-			"eventLink": "https://www.meetup.com/VueJS-SP/events/253668252/"
+			"eventLink": "https://www.meetup.com/VueJS-SP/events/253668252/",
+			"type": "meetup"
 		}
 	],
   "September": [
@@ -742,7 +815,8 @@
 			"organiser": "VueJS Manchester",
 			"organiserLink": "https://www.meetup.com/VueJS-Manchester",
 			"name": "Vue at the Royal Navy with Phil and the MSM Car Insurance reskin with Kirill",
-			"eventLink": "https://www.meetup.com/VueJS-Manchester/events/253814415/"
+			"eventLink": "https://www.meetup.com/VueJS-Manchester/events/253814415/",
+			"type": "meetup"
 		},
 		{
 			"date": "5th",
@@ -752,7 +826,8 @@
 			"organiser": "San Diego VueJS Meetup",
 			"organiserLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/",
 			"name": "Vue.js Monthly Meetup",
-			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tcttwpyxmbhb/"
+			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tcttwpyxmbhb/",
+			"type": "meetup"
 		},
 		{
 			"date": "5th",
@@ -762,7 +837,8 @@
 			"organiser": "<vue-zurich/>",
 			"organiserLink": "https://www.meetup.com/vue_zurich/",
 			"name": "№ 3",
-			"eventLink": "https://www.meetup.com/vue_zurich/events/250908326/"
+			"eventLink": "https://www.meetup.com/vue_zurich/events/250908326/",
+			"type": "meetup"
 		},
 		{
 			"date": "5th",
@@ -772,7 +848,8 @@
 			"organiser": "Vue.js Paris",
 			"organiserLink": "https://www.meetup.com/Vuejs-Paris",
 			"name": "Vue.js Paris #17 - SSR, Nuxt & Firebase",
-			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/253788597/"
+			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/253788597/",
+			"type": "meetup"
 		},
 		{
 			"date": "5th",
@@ -782,7 +859,8 @@
 			"organiser": "Vue.js Vienna",
 			"organiserLink": "https://www.meetup.com/Vue-js-Vienna/",
 			"name": "Vue.js Vienna September Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Vienna/events/253384418/"
+			"eventLink": "https://www.meetup.com/Vue-js-Vienna/events/253384418/",
+			"type": "meetup"
 		},
 		{
 			"date": "6th",
@@ -792,7 +870,8 @@
 			"organiser": "Vuenos Aires",
 			"organiserLink": "https://www.meetup.com/vuenos-aires/",
 			"name": "Meetup Vuenos Aires #7",
-			"eventLink": "https://www.meetup.com/vuenos-aires/events/254284036/"
+			"eventLink": "https://www.meetup.com/vuenos-aires/events/254284036/",
+			"type": "meetup"
 		},
 		{
 			"date": "6th",
@@ -802,7 +881,8 @@
 			"organiser": "Kyiv Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/",
 			"name": "Kyiv Vue.js Meetup #7",
-			"eventLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/events/253971277/"
+			"eventLink": "https://www.meetup.com/Kyiv-Vue-js-Meetup/events/253971277/",
+			"type": "meetup"
 		},
 		{
 			"date": "10th",
@@ -812,7 +892,8 @@
 			"organiser": "Vue.js Dresden",
 			"organiserLink": "https://www.meetup.com/Vue-js-Dresden/",
 			"name": "Here we go - Vue.js Dresden #1",
-			"eventLink": "https://www.meetup.com/Vue-js-Dresden/events/prvhcqyxlbkc/"
+			"eventLink": "https://www.meetup.com/Vue-js-Dresden/events/prvhcqyxlbkc/",
+			"type": "meetup"
 		},
 		{
 			"date": "11th",
@@ -822,7 +903,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Show & Tell Night",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxmbpb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxmbpb/",
+			"type": "meetup"
 		},
 		{
 			"date": "11th",
@@ -832,7 +914,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxmbpb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxmbpb/",
+			"type": "meetup"
 		},
 		{
 			"date": "12th",
@@ -842,7 +925,8 @@
 			"organiser": "Wellington.vue",
 			"organiserLink": "https://www.meetup.com/Wellington-vue/",
 			"name": "Using Vue.js with a Headless CMS",
-			"eventLink": "https://www.meetup.com/Wellington-vue/events/254024958/"
+			"eventLink": "https://www.meetup.com/Wellington-vue/events/254024958/",
+			"type": "meetup"
 		},
 		{
 			"date": "12th",
@@ -852,7 +936,8 @@
 			"organiser": "Cleveland VueJS",
 			"organiserLink": "https://www.meetup.com/Cleveland-VueJS/",
 			"name": "VueJS demonstration",
-			"eventLink": "https://www.meetup.com/Cleveland-VueJS/events/253812868/"
+			"eventLink": "https://www.meetup.com/Cleveland-VueJS/events/253812868/",
+			"type": "meetup"
 		},
 		{
 			"date": "12th",
@@ -862,7 +947,8 @@
 			"organiser": "Melbourne VueJS Meetup",
 			"organiserLink": "https://www.meetup.com/vuejs-melbourne/",
 			"name": "Vue.js Meetup - September 2018",
-			"eventLink": "https://www.meetup.com/vuejs-melbourne/events/254524098/"
+			"eventLink": "https://www.meetup.com/vuejs-melbourne/events/254524098/",
+			"type": "meetup"
 		},
 		{
 			"date": "13th",
@@ -872,7 +958,8 @@
 			"organiser": "Chicago Vue.js",
 			"organiserLink": "https://www.meetup.com/Chicago-Vue-js/",
 			"name": "Vue open source hack night",
-			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/254157605/"
+			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/254157605/",
+			"type": "meetup"
 		},
 		{
 			"date": "17th",
@@ -882,7 +969,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
 			"name": "D3: Data Driven Visualizations in Vue",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxmbgc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxmbgc/",
+			"type": "meetup"
 		},
 		{
 			"date": "17th",
@@ -892,7 +980,8 @@
 			"organiser": "Vue.js Indy",
 			"organiserLink": "https://www.meetup.com/vuejsindy/",
 			"name": "Learn about Vue.js",
-			"eventLink": "https://www.meetup.com/vuejsindy/events/249029606/"
+			"eventLink": "https://www.meetup.com/vuejsindy/events/249029606/",
+			"type": "meetup"
 		},
 		{
 			"date": "17th",
@@ -902,7 +991,8 @@
 			"organiser": "Vue Charlotte",
 			"organiserLink": "https://www.meetup.com/Meetup-Vue-Charlotte/",
 			"name": "New to Vue? This One's For You",
-			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxmbzb/"
+			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxmbzb/",
+			"type": "meetup"
 		},
 		{
 			"date": "18th",
@@ -912,7 +1002,8 @@
 			"organiser": "Dallas Vue Meetup",
 			"organiserLink": "https://www.meetup.com/Dallas-Vue-Meetup/",
 			"name": "Meetup 2: Intro to Vuex and Building Apps in Electron",
-			"eventLink": "https://www.meetup.com/Dallas-Vue-Meetup/events/254152490/"
+			"eventLink": "https://www.meetup.com/Dallas-Vue-Meetup/events/254152490/",
+			"type": "meetup"
 		},
 		{
 			"date": "18th",
@@ -922,7 +1013,8 @@
 			"organiser": "Vue.sf",
 			"organiserLink": "https://www.meetup.com/vue-sf/",
 			"name": "Abstract Components in Vue plus Lightning Talks",
-			"eventLink": "https://www.meetup.com/vue-sf/events/254419156/"
+			"eventLink": "https://www.meetup.com/vue-sf/events/254419156/",
+			"type": "meetup"
 		},
 		{
 			"date": "19th",
@@ -932,7 +1024,8 @@
 			"organiser": "VueDC",
 			"organiserLink": "https://www.meetup.com/Vue-DC",
 			"name": "Storybook and Storyshot Testing w/ Vue.js",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/253825074/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/253825074/",
+			"type": "meetup"
 		},
 		{
 			"date": "19th",
@@ -942,7 +1035,16 @@
 			"organiser": "Vue.js London Meetup",
 			"organiserLink": "https://www.meetup.com/vuejs-london/",
 			"name": "Conference Special",
-			"eventLink": "https://www.meetup.com/vuejs-london/events/254565800/"
+			"eventLink": "https://www.meetup.com/vuejs-london/events/254565800/",
+			"type": "meetup"
+		},
+		{
+			"date": "21th",
+			"startDate": "2018-09-21",
+			"endDate": "2018-09-21",
+			"name": "Vue.js London",
+			"eventLink": "https://vuejs.london/",
+			"type": "conference"
 		},
 		{
 			"date": "21st",
@@ -952,7 +1054,8 @@
 			"organiser": "Vue Bangalore",
 			"organiserLink": "https://www.meetup.com/vue-bangalore/",
 			"name": "VueBLR #8 - State of the Vuenion",
-			"eventLink": "https://www.meetup.com/vue-bangalore/events/253680811/"
+			"eventLink": "https://www.meetup.com/vue-bangalore/events/253680811/",
+			"type": "meetup"
 		},
 		{
 			"date": "24th",
@@ -962,7 +1065,8 @@
 			"organiser": "VueNYC",
 			"organiserLink": "https://www.meetup.com/vueJsNYC",
 			"name": "VueNYC #14: End-vue-End Testing",
-			"eventLink": "https://www.meetup.com/vueJsNYC/events/254789852/"
+			"eventLink": "https://www.meetup.com/vueJsNYC/events/254789852/",
+			"type": "meetup"
 		},
 		{
 			"date": "24th",
@@ -972,7 +1076,8 @@
 			"organiser": "Atlanta Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/",
 			"name": "Animations and Transitions in Vue.js",
-			"eventLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/events/253313302/"
+			"eventLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/events/253313302/",
+			"type": "meetup"
 		},
 		{
 			"date": "27th",
@@ -982,7 +1087,8 @@
 			"organiser": "VueDC",
 			"organiserLink": "https://www.meetup.com/Vue-DC",
 			"name": "VueDC CodeLabs: Round 5",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/252160174/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/252160174/",
+			"type": "meetup"
 		},
 		{
 			"date": "27th",
@@ -992,7 +1098,8 @@
 			"organiser": "Vue Basel",
 			"organiserLink": "https://www.meetup.com/Vue-Basel/",
 			"name": "Building a chat bot",
-			"eventLink": "https://www.meetup.com/Vue-Basel/events/254758397/"
+			"eventLink": "https://www.meetup.com/Vue-Basel/events/254758397/",
+			"type": "meetup"
 		}
 	],
 	"October": [
@@ -1003,7 +1110,8 @@
 			"organiser": "Stockholm Vue.js",
 			"organiserLink": "https://www.meetup.com/Stockholm-Vue-js-Meetup/",
 			"name": "Vue.js meetup #4",
-			"eventLink": "https://www.meetup.com/Stockholm-Vue-js-Meetup/events/254045676/"
+			"eventLink": "https://www.meetup.com/Stockholm-Vue-js-Meetup/events/254045676/",
+			"type": "meetup"
 		},
 		{ "date": "3rd",
 			"time": "at 7:00PM",
@@ -1012,7 +1120,8 @@
 			"organiser": "Vue.js Paris",
 			"organiserLink": "https://www.meetup.com/Vuejs-Paris",
 			"name": "Vue.js Paris #18 - Architecturer son application",
-			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/254884292/"
+			"eventLink": "https://www.meetup.com/Vuejs-Paris/events/254884292/",
+			"type": "meetup"
 		},
 		{ "date": "4th",
 			"time": "at 7:00PM",
@@ -1021,7 +1130,8 @@
 			"organiser": "Vue.js Barcelona",
 			"organiserLink": "https://www.meetup.com/VueJS-BCN/",
 			"name": "Vue Now: Vue Native exists & playing with Socket.io",
-			"eventLink": "https://www.meetup.com/VueJS-BCN/events/254879959/"
+			"eventLink": "https://www.meetup.com/VueJS-BCN/events/254879959/",
+			"type": "meetup"
 		},
 		{ "date": "4th",
 			"time": "at 7:30PM",
@@ -1030,7 +1140,8 @@
 			"organiser": "Vue.js Floripa ",
 			"organiserLink": "https://www.meetup.com/vuefloripa/",
 			"name": "5º Vue.js Floripa",
-			"eventLink": "https://www.meetup.com/vuefloripa/events/254307320/"
+			"eventLink": "https://www.meetup.com/vuefloripa/events/254307320/",
+			"type": "meetup"
 		},
 		{ "date": "9th",
 			"time": "at 6:30PM",
@@ -1039,7 +1150,8 @@
 			"organiser": "Vue.js LA",
 			"organiserLink": "https://www.meetup.com/VuejsLA/",
 			"name": "Vue.js LA Monthly Meetup",
-			"eventLink": "https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/"
+			"eventLink": "https://www.meetup.com/VuejsLA/events/xxsjgqyxnbmb/",
+			"type": "meetup"
 		},
 		{ "date": "9th",
 			"time": "at 6:30PM",
@@ -1048,7 +1160,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Show & Tell Night",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxnbmb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxnbmb/",
+			"type": "meetup"
 		},
 		{ "date": "9th",
 			"time": "at 7:00PM",
@@ -1057,7 +1170,8 @@
 			"organiser": "Montevideo Vue.JS Meetup",
 			"organiserLink": "https://www.meetup.com/Montevideo-Vue-JS-Meetup",
 			"name": "Montevideo VueJS Meetup #1",
-			"eventLink": "https://www.meetup.com/Montevideo-Vue-JS-Meetup/events/255210278/"
+			"eventLink": "https://www.meetup.com/Montevideo-Vue-JS-Meetup/events/255210278/",
+			"type": "meetup"
 		},
 		{ "date": "9th",
 			"time": "at 7:00PM",
@@ -1066,7 +1180,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxnbmb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxnbmb/",
+			"type": "meetup"
 		},
 		{
 			"name": "To-do list: make a simple to-do list app",
@@ -1077,7 +1192,7 @@
 			"endDate": "2018-10-10",
 			"organiserLink": "https://www.meetup.com/Meetup-Vue-Charlotte/",
 			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/254864409/",
-      "type": "meetup"
+			"type": "meetup"
 		},
 		{
 			"date": "15th",
@@ -1087,7 +1202,8 @@
 			"organiser": "Chicago Vue.js",
 			"organiserLink": "https://www.meetup.com/Chicago-Vue-js/",
 			"name": "Reusable Vue.js Components: Slots, Scoped Slots, and Render Function",
-			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/255105052/"
+			"eventLink": "https://www.meetup.com/Chicago-Vue-js/events/255105052/",
+			"type": "meetup"
 		},
 		{
 			"date": "15th",
@@ -1097,7 +1213,8 @@
 			"organiser": "Vue.js Indy",
 			"organiserLink":	"https://www.meetup.com/vuejsindy/",
 			"name": "Learn about Vue.js",
-			"eventLink": "https://www.meetup.com/vuejsindy/events/249029627/"
+			"eventLink": "https://www.meetup.com/vuejsindy/events/249029627/",
+			"type": "meetup"
 		},
 		{
 			"date": "16th",
@@ -1107,7 +1224,8 @@
 			"organiser": "Myrtle Beach Vue JavaScript Meetup",
 			"organiserLink":	"https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/ ",
 			"name": "Vue JavaScript Workshop",
-			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/255265369/"
+			"eventLink": "https://www.meetup.com/Myrtle-Beach-Vue-JavaScript-Meetup/events/255265369/",
+			"type": "meetup"
 		},
 		{
 			"date": "16th",
@@ -1117,7 +1235,8 @@
 			"organiser": "Atlanta Vue.js Meetup",
 			"organiserLink":	"https://www.meetup.com/Atlanta-Vue-js-Meetup/ ",
 			"name": "Connect.Tech Special Edition - Q&A with Vue Core Team Members Chris and Rahul",
-			"eventLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/events/254216938/"
+			"eventLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/events/254216938/",
+			"type": "meetup"
 		},
 		{
 			"date": "17th",
@@ -1127,7 +1246,8 @@
 			"organiser": "Vue Charlotte",
 			"organiserLink":	"https://www.meetup.com/Meetup-Vue-Charlotte/",
 			"name": "New to Vue? This One's For You",
-			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxnbwb/"
+			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxnbwb/",
+			"type": "meetup"
 		},
 		{
 			"date": "17th",
@@ -1137,7 +1257,8 @@
 			"organiser": "VueDC",
 			"organiserLink":	"https://www.meetup.com/Vue-DC ",
 			"name": "An Overview of Vue CLI 3",
-			"eventLink": "https://www.meetup.com/Vue-DC/events/255073376/"
+			"eventLink": "https://www.meetup.com/Vue-DC/events/255073376/",
+			"type": "meetup"
 		},
 		{
 			"date": "17th",
@@ -1147,7 +1268,8 @@
 			"organiser": "Karlsruhe Vue.js User Group",
 			"organiserLink":	"https://www.meetup.com/Karlsruhe-Vue-js-User-Group/ ",
 			"name": "Karlsruhe Vue.js User Group Meetup #2",
-			"eventLink": "https://www.meetup.com/Karlsruhe-Vue-js-User-Group/events/255347472/"
+			"eventLink": "https://www.meetup.com/Karlsruhe-Vue-js-User-Group/events/255347472/",
+			"type": "meetup"
 		},
 		{
 			"date": "18th",
@@ -1157,7 +1279,8 @@
 			"organiser": "San Diego VueJS Meetup",
 			"organiserLink":	"https://www.meetup.com/San-Diego-VueJS-Meetup/ ",
 			"name": "Vue.js Monthly Meetup",
-			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxnbfb/"
+			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxnbfb/",
+			"type": "meetup"
 		},
 		{
 			"date": "18th",
@@ -1167,7 +1290,8 @@
 			"organiser": "Vue.js Prague",
 			"organiserLink":	"https://www.meetup.com/vuejsprague/ ",
 			"name": "Prague Vue.js Meetup #4 - Vue Insights",
-			"eventLink": "https://www.meetup.com/vuejsprague/events/255166736/"
+			"eventLink": "https://www.meetup.com/vuejsprague/events/255166736/",
+			"type": "meetup"
 		},
 		{
 			"date": "20th",
@@ -1177,7 +1301,8 @@
 			"organiser": "VuePune",
 			"organiserLink":	"https://www.meetup.com/VuePune ",
 			"name": "VuePune #1: Introduction to Vue.js",
-			"eventLink": "https://www.meetup.com/VuePune/events/254917764/"
+			"eventLink": "https://www.meetup.com/VuePune/events/254917764/",
+			"type": "meetup"
 		},
 		{
 			"date": "22nd",
@@ -1187,7 +1312,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink":	"https://www.meetup.com/Denver-Vue-js-Meetup/ ",
 			"name": "Denver Vue meetup!",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxnbdc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxnbdc/",
+			"type": "meetup"
 		},
 		{
 			"date": "22nd",
@@ -1197,7 +1323,8 @@
 			"organiser": "Vue.js Dresden",
 			"organiserLink":	"https://www.meetup.com/Vue-js-Dresden/ ",
 			"name": "Meet Again - Vue.js Dresden #2",
-			"eventLink": "https://www.meetup.com/Vue-js-Dresden/events/254579835/"
+			"eventLink": "https://www.meetup.com/Vue-js-Dresden/events/254579835/",
+			"type": "meetup"
 		},
 		{
 			"date": "22nd",
@@ -1207,7 +1334,8 @@
 			"organiser": "Vue.js Hong Kong",
 			"organiserLink":	"https://www.facebook.com/groups/887185518120024/",
 			"name": "Vue.js Hong Kong Meetup #4 - Nuxt.js",
-			"eventLink": "https://www.facebook.com/events/744632985886870/"
+			"eventLink": "https://www.facebook.com/events/744632985886870/",
+			"type": "meetup"
 		},
 		{
 			"date": "24th",
@@ -1217,7 +1345,8 @@
 			"organiser": "VueJS Manchester",
 			"organiserLink":	"https://www.meetup.com/VueJS-Manchester",
 			"name": "Workshop - Let's build a TO},-DO list app",
-			"eventLink": "https://www.meetup.com/VueJS-Manchester/events/255247096/"
+			"eventLink": "https://www.meetup.com/VueJS-Manchester/events/255247096/",
+			"type": "meetup"
 		},
 		{
 			"date": "25th",
@@ -1227,7 +1356,8 @@
 			"organiser": "Montreal Vue.js",
 			"organiserLink":	"https://www.meetup.com/Vue-js-Montreal",
 			"name": "Vuejs Montréal - Première édition: Introduction à Vuejs 🎉",
-			"eventLink": "https://www.meetup.com/Vue-js-Montreal/events/255101915/"
+			"eventLink": "https://www.meetup.com/Vue-js-Montreal/events/255101915/",
+			"type": "meetup"
 		},
 		{
 			"date": "29th",
@@ -1237,7 +1367,8 @@
 			"organiser": "VueNYC",
 			"organiserLink":	"https://www.meetup.com/vueJsNYC ",
 			"name": "VueNYC #15: VyooOOOoOoOooOoo",
-			"eventLink": "https://www.meetup.com/vueJsNYC/events/254789916/"
+			"eventLink": "https://www.meetup.com/vueJsNYC/events/254789916/",
+			"type": "meetup"
 		},
 		{
 			"date": "30th",
@@ -1247,7 +1378,8 @@
 			"organiser": "Vue.js São Paulo Meetup",
 			"organiserLink":	"https://www.meetup.com/VueJS-SP/ ",
 			"name": "Open Breja + Vue.js = ❤",
-			"eventLink": "https://www.meetup.com/VueJS-SP/events/255327307/"
+			"eventLink": "https://www.meetup.com/VueJS-SP/events/255327307/",
+			"type": "meetup"
 		},
 		{
 			"date": "31st",
@@ -1257,7 +1389,8 @@
 			"organiser": "VueJs Dublin",
 			"organiserLink":	"https://www.meetup.com/DublinVueJS/ ",
 			"name": "Getting started with VueJS",
-			"eventLink": "https://www.meetup.com/DublinVueJS/events/255363364/"
+			"eventLink": "https://www.meetup.com/DublinVueJS/events/255363364/",
+			"type": "meetup"
 		}
 	],
   "November": [
@@ -1269,7 +1402,8 @@
 			"organiser": "Vue.js London Meetup",
 			"organiserLink": "https://www.meetup.com/vuejs-london/",
 			"name": "Vue.js London #10",
-			"eventLink": "https://www.meetup.com/vuejs-london/events/255394428/"
+			"eventLink": "https://www.meetup.com/vuejs-london/events/255394428/",
+			"type": "meetup"
 		},
 		{
 			"date": "7th ",
@@ -1279,7 +1413,8 @@
 			"organiser": "<vue-zurich/>",
 			"organiserLink": "https://www.meetup.com/vue_zurich/",
 			"name": "№ 4",
-			"eventLink": "https://www.meetup.com/vue_zurich/events/252460725/"
+			"eventLink": "https://www.meetup.com/vue_zurich/events/252460725/",
+			"type": "meetup"
 		},
 		{
 			"date": "8th ",
@@ -1289,7 +1424,8 @@
 			"organiser": "Vue.js Lyon",
 			"organiserLink": "https://www.meetup.com/Vue-js-Lyon/",
 			"name": "Vue Novembre",
-			"eventLink": "https://www.meetup.com/Vue-js-Lyon/events/255052432/"
+			"eventLink": "https://www.meetup.com/Vue-js-Lyon/events/255052432/",
+			"type": "meetup"
 		},
 		{
 			"date": "12th",
@@ -1299,7 +1435,8 @@
 			"organiser": "Vue.js Dresden",
 			"organiserLink": "https://www.meetup.com/Vue-js-Dresden/",
 			"name": "Enjoy the Vue - Vue.js Dresden #3",
-			"eventLink": "https://www.meetup.com/Vue-js-Dresden/events/254849177/"
+			"eventLink": "https://www.meetup.com/Vue-js-Dresden/events/254849177/",
+			"type": "meetup"
 		},
 		{
 			"date": "13th",
@@ -1309,7 +1446,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Monthly Meetup",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxpbrb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxpbrb/",
+			"type": "meetup"
 		},
 		{
 			"date": "13th",
@@ -1319,7 +1457,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxpbrb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxpbrb/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th",
@@ -1329,7 +1468,8 @@
 			"organiser": "Vue Toronto",
 			"organiserLink": "https://www.meetup.com/Vue-Toronto/",
 			"name": "VueConf TO",
-			"eventLink": "https://www.meetup.com/Vue-Toronto/events/252940880/"
+			"eventLink": "https://www.meetup.com/Vue-Toronto/events/252940880/",
+			"type": "conference"
 		},
 		{
 			"date": "15th",
@@ -1339,7 +1479,8 @@
 			"organiser": "San Diego VueJS Meetup",
 			"organiserLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/",
 			"name": "Vue.js Monthly Meetup",
-			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxpbtb/"
+			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxpbtb/",
+			"type": "meetup"
 		},
 		{
 			"date": "15th",
@@ -1349,7 +1490,8 @@
 			"organiser": "Vue Basel",
 			"organiserLink": "https://www.meetup.com/Vue-Basel/",
 			"name": "i18n",
-			"eventLink": "https://www.meetup.com/Vue-Basel/events/255358822/"
+			"eventLink": "https://www.meetup.com/Vue-Basel/events/255358822/",
+			"type": "meetup"
 		},
 		{
 			"date": "15th",
@@ -1359,7 +1501,8 @@
 			"organiser": "Vue.js Prague",
 			"organiserLink": "https://www.meetup.com/vuejsprague/",
 			"name": "Prague Vue.js Meetup #5 - Sharing is Caring",
-			"eventLink": "https://www.meetup.com/vuejsprague/events/255191539/"
+			"eventLink": "https://www.meetup.com/vuejsprague/events/255191539/",
+			"type": "meetup"
 		},
 		{
 			"date": "19th",
@@ -1369,7 +1512,8 @@
 			"organiser": "Vue.js Indy",
 			"organiserLink": "https://www.meetup.com/vuejsindy/",
 			"name": "Monthly Meeting",
-			"eventLink": "https://www.meetup.com/vuejsindy/events/249029640/"
+			"eventLink": "https://www.meetup.com/vuejsindy/events/249029640/",
+			"type": "meetup"
 		},
 		{
 			"date": "21st",
@@ -1379,14 +1523,16 @@
 			"organiser": "Vue Charlotte",
 			"organiserLink": "https://www.meetup.com/Meetup-Vue-Charlotte/",
 			"name": "New to Vue? This One's For You",
-			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxpbcc/"
+			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxpbcc/",
+			"type": "meetup"
 		},
 		{
 			"date": "23rd",
 			"startDate": "2018-11-23",
 			"endDate": "2018-11-23",
 			"name": "Vuejs Roadtrip Berlin",
-			"eventLink": "https://www.eventbrite.co.uk/e/vuejs-roadtrip-berlin-tickets-43925232553"
+			"eventLink": "https://www.eventbrite.co.uk/e/vuejs-roadtrip-berlin-tickets-43925232553",
+			"type": "conference"
 		},
 		{
 			"date": "26th",
@@ -1396,7 +1542,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
 			"name": "Denver Vue meetup!",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxpbjc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxpbjc/",
+			"type": "meetup"
 		},
 		{
 			"date": "30th",
@@ -1406,7 +1553,8 @@
 			"organiser": "Vue.js Vienna",
 			"organiserLink": "https://www.meetup.com/Vue-js-Vienna/",
 			"name": "Vue.js Vienna November Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Vienna/events/njtrhqyxpbnc/"
+			"eventLink": "https://www.meetup.com/Vue-js-Vienna/events/njtrhqyxpbnc/",
+			"type": "meetup"
 		}
 	],
 	"December": [
@@ -1418,7 +1566,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Monthly Meetup",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxqbpb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyxqbpb/",
+			"type": "meetup"
 		},
 		{
 			"date": "11th",
@@ -1428,7 +1577,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxqbpb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyxqbpb/",
+			"type": "meetup"
 		},
 		{
 			"date": "13th",
@@ -1438,7 +1588,8 @@
 			"organiser": "Vue.js Prague",
 			"organiserLink": "https://www.meetup.com/vuejsprague/",
 			"name": "Prague Vue.js Meetup #6 - with special guest Damian Dulisz",
-			"eventLink": "https://www.meetup.com/vuejsprague/events/255191797/"
+			"eventLink": "https://www.meetup.com/vuejsprague/events/255191797/",
+			"type": "meetup"
 		},
 		{
 			"date": "19th",
@@ -1448,7 +1599,8 @@
 			"organiser": "Vue Charlotte",
 			"organiserLink": "https://www.meetup.com/Meetup-Vue-Charlotte/",
 			"name": "New to Vue? This One's For You",
-			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxqbzb/"
+			"eventLink": "https://www.meetup.com/Meetup-Vue-Charlotte/events/frqzbqyxqbzb/",
+			"type": "meetup"
 		},
 		{
 			"date": "20th",
@@ -1458,7 +1610,8 @@
 			"organiser": "San Diego VueJS Meetup",
 			"organiserLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/",
 			"name": "Vue.js Monthly Meetup",
-			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxqbbc/"
+			"eventLink": "https://www.meetup.com/San-Diego-VueJS-Meetup/events/tsnlgqyxqbbc/",
+			"type": "meetup"
 		},
 		{
 			"date": "24th",
@@ -1468,7 +1621,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
 			"name": "Denver Vue meetup!",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxqbgc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyxqbgc/",
+			"type": "meetup"
 		}
 	]
 }
