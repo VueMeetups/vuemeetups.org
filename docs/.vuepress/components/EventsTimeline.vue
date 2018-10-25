@@ -7,7 +7,7 @@
 			<div
 				v-for="(events, month) in timeline"
 				v-if="events.length">
-				<h4>{{ month }}</h4>
+				<h4 class="events-timeline__month">{{ month }}</h4>
 				<div class="events-timeline__list">
 					<event-item
 						v-for="(event, index) in events"
@@ -42,6 +42,7 @@ export default {
 	computed: {
 		events() {
 			const events = {};
+
  			Object.keys(eventsTimeline).forEach((year) => {
 				Object.keys(eventsTimeline[year]).forEach((month) => {
 					eventsTimeline[year][month].forEach((event) => {
@@ -65,6 +66,10 @@ export default {
 </script>
 
 <style>
+.events-timeline__month {
+	font-size: 1.15rem;
+}
+
 .events-timeline__list {
 	display: flex;
 	flex-wrap: wrap;

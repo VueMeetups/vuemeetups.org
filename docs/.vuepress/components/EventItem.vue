@@ -32,14 +32,14 @@ export default {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	border: 1px solid #eee;
+	border: 1px solid #eaecef;
 	padding: 1rem 1.5rem;
-	margin: 0 0 10px;
+	margin: 0 0 2rem;
 	border-radius: 5px;
 }
 
 .event__type {
-	background: #eee;
+	background: #eaecef;
 	padding: 0.2rem;
 	border-radius: 5px;
 	font-size: 12px;
@@ -60,5 +60,6 @@ export default {
 .event__date {
 	font-size: 0.9rem;
 	margin-bottom: 0;
+	font-weight: 700;
 }
 </style>
