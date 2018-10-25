@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="events-timeline">
 		<slot/>
 		<div
 			v-for="(timeline, year) in events"
@@ -9,15 +9,16 @@
 				v-for="(events, month) in timeline"
 				v-if="events.length && isDatePast(`${year}/${month}/30`)">
 				<h4>{{ month }}</h4>
-				<ul>
+				<div class="events-timeline__list">
 					<event-item
 						v-for="(event, index) in events"
+						class="events-timeline__item"
 						:key="index"
 						:past="past"
 						:month="month"
 						:event="event"
 					/>
-				</ul>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -53,3 +54,24 @@ export default {
 	}
 }
 </script>
+
+<style>
+.events-timeline__list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.events-timeline__item {
+	flex-grow: 1;
+	flex-basis: 40%;
+	max-width: 40%;
+}
+
+@media (max-width: 900px) {
+	.events-timeline__item {
+		flex-basis: 100%;
+		max-width: 100%;
+	}
+}
+</style>
