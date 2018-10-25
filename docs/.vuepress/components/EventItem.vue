@@ -2,14 +2,14 @@
 	<div
 		v-if="isPast(event.endDate) === past"
 		class="event">
-		<span class="event__type">{{ event.type }}</span>
 		<div>
+			<span class="event__type">{{ event.type }}</span>
 			<h5 class="event__title"><a :href="event.eventLink" target="_blank" rel="noopener noreferrer">{{ event.name }}</a></h5>
 			<p
 				v-if="event.organiser"
 				class="event__organiser">by <a :href="event.organiserLink" target="_blank" rel="noopener noreferrer">{{ event.organiser }}</a></p>
-			<p class="event__date">{{ month }} {{event.date }} {{ event.time }}</p>
 		</div>
+		<p class="event__date">{{ month }} {{event.date }} {{ event.time }}</p>
 	</div>
 </template>
 
@@ -42,6 +42,9 @@ export default {
 
 <style>
 .event {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 	border: 1px solid #eee;
 	padding: 1rem 1.5rem;
 	margin: 0 0 10px;
