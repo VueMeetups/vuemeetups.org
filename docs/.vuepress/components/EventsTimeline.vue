@@ -3,7 +3,7 @@
 		<slot/>
 		<div
 			v-for="(timeline, year) in events"
-			v-if="isDatePast(`${year}/12/31`)">
+			v-if="isDatePast(`${year}/01/31`)">
 			<h3>{{ year }}</h3>
 			<div
 				v-for="(events, month) in timeline"
