@@ -8,7 +8,8 @@
 			"organiser": "<vue-zurich/>",
 			"organiserLink": "https://www.meetup.com/vue_zurich/",
 			"name": "№ 5",
-			"eventLink": "https://www.meetup.com/vue_zurich/events/255051721/"
+			"eventLink": "https://www.meetup.com/vue_zurich/events/255051721/",
+			"type": "meetup"
 		},
 		{
 			"date": "8th",
@@ -18,7 +19,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Monthly Meetup",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyzcblb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyzcblb/",
+			"type": "meetup"
 		},
 		{
 			"date": "8th",
@@ -28,7 +30,8 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzcblb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzcblb/",
+			"type": "meetup"
 		},
 		{
 			"date": "28th",
@@ -38,7 +41,8 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
 			"name": "Denver Vue meetup!",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzcblc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzcblc/",
+			"type": "meetup"
 		}
 	],
   "February": [
@@ -50,7 +54,8 @@
 			"organiser": "VueJS Ft Lauderdale",
 			"organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
 			"name": "Monthly Meetup",
-			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyzcblb/"
+			"eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyzcblb/",
+			"type": "meetup"
 		},
 		{
 			"date": "12th",
@@ -60,14 +65,16 @@
 			"organiser": "Vue.js // Berlin",
 			"organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
 			"name": "Vue.js // Berlin Meetup",
-			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzdbqb/"
+			"eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzdbqb/",
+			"type": "meetup"
 		},
 		{
 			"date": "14th-15th",
 			"startDate": "2019-01-14",
 			"endDate": "2019-01-15",
 			"name": "Vuejs Amsterdam",
-			"eventLink": "http://www.vuejs.amsterdam/"
+			"eventLink": "http://www.vuejs.amsterdam/",
+			"type": "conference"
 		},
 		{
 			"date": "25th",
@@ -77,7 +84,18 @@
 			"organiser": "Denver Vue.js Meetup",
 			"organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup",
 			"name": "Denver Vue meetup!",
-			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzdbhc/"
+			"eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzdbhc/",
+			"type": "meetup"
+		}
+	],
+	"March": [
+		{
+			"date": "26-27th",
+			"startDate": "2019-03-26",
+			"endDate": "2019-03-27",
+			"name": "VueConf US",
+			"eventLink": "http://www.vueconf.us/",
+			"type": "conference"
 		}
 	]
 }
