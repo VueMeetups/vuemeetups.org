@@ -2,19 +2,17 @@
 	<div class="events-timeline">
 		<slot/>
 		<div
-			v-for="(timeline, year) in events"
-			v-if="isDatePast(`${year}/01/31`)">
+			v-for="(timeline, year) in events">
 			<h3>{{ year }}</h3>
 			<div
 				v-for="(events, month) in timeline"
-				v-if="events.length && isDatePast(`${year}/${month}/30`)">
+				v-if="events.length">
 				<h4>{{ month }}</h4>
 				<div class="events-timeline__list">
 					<event-item
 						v-for="(event, index) in events"
 						class="events-timeline__item"
 						:key="index"
-						:past="past"
 						:month="month"
 						:event="event"
 					/>
@@ -41,17 +39,28 @@ export default {
 		}
 	},
 
-	data() {
-		return {
-			events: eventsTimeline,
-		};
-	},
+	computed: {
+		events() {
+			const events = {};
+ 			Object.keys(eventsTimeline).forEach((year) => {
+				Object.keys(eventsTimeline[year]).forEach((month) => {
+					eventsTimeline[year][month].forEach((event) => {
+						if (isPast(event.endDate) === this.past) {
+							if (!events[year]) {
+								events[year] = {};
+							}
+							if (!events[year][month]) {
+								events[year][month] = [];
+							}
+							events[year][month].push(event);
+						}
+					});
+				});
+			});
 
-	methods: {
-		isDatePast(date) {
-			return isPast(date) === this.past;
+			return events;
 		}
-	}
+	},
 }
 </script>
 

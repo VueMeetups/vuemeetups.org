@@ -1,6 +1,5 @@
 <template>
 	<div
-		v-if="isPast(event.endDate) === past"
 		class="event">
 		<div>
 			<span class="event__type">{{ event.type }}</span>
@@ -14,29 +13,17 @@
 </template>
 
 <script>
-import { isPast } from '../utils';
-
 export default {
 	props: {
 		event: {
 			type: Object,
 			required: true,
 		},
-		past: {
-			type: Boolean,
-			default: false,
-		},
 		month: {
 			type: String,
 			required: true,
 		}
 	},
-
-	methods: {
-		isPast(date) {
-			return isPast(date);
-		}
-	}
 }
 </script>
 
