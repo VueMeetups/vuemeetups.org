@@ -178,6 +178,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Raleigh - [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/)
 - Ohio
   - Cleveland - [Cleveland VueJS](https://www.meetup.com/Cleveland-VueJS/)
+  - Columbus - [Vue Columbus](https://www.meetup.com/Vue-Columbus/)
 - Oregon
   - Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
   - Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
