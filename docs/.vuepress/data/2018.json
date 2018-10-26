@@ -1513,6 +1513,17 @@
 			"type": "meetup"
 		},
 		{
+			"date": "15th",
+			"time": "at 7:00PM",
+			"startDate": "2018-11-15",
+			"endDate": "2018-11-05",
+			"organiser": "VueJS Barcelona",
+			"organiserLink": "https://www.meetup.com/VueJS-BCN/",
+			"name": "Vuinter is coming: WASM & Vue CLI 3.0",
+			"eventLink": "https://www.meetup.com/VueJS-BCN/events/255771518/",
+			"type": "meetup"
+		},
+		{
 			"date": "19th",
 			"time": "at 6:30PM",
 			"startDate": "2018-11-19",
