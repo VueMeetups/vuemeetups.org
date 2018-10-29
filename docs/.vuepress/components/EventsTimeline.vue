@@ -49,6 +49,7 @@ export default {
 
  			Object.keys(eventsTimeline).forEach((year) => {
 				Object.keys(eventsTimeline[year]).forEach((month) => {
+					eventsTimeline[year][month].sort((e1, e2) => new Date(e1.startDate) - new Date(e2.startDate));
 					eventsTimeline[year][month].forEach((event) => {
 						if (this.showEvent(event)) {
 							if (!events[year]) {
