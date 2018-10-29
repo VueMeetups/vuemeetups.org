@@ -12,17 +12,17 @@ Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sur
 
 To add yours to the list, please [open an issue](https://github.com/bencodezen/vue-meetups/issues/new) or submit a PR to the [repo](https://github.com/bencodezen/vue-meetups/edit/master/docs/events/README.md).
 
-<events-timeline>
+<events-list>
+<template slot="upcoming">
 
 ## Upcoming
 
 For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [https://vuevixens.org/upcoming](https://vuevixens.org/upcoming)!
 
-</events-timeline>
-
-
-<events-timeline :past="true">
+</template>
+<template slot="past">
 
 ## Past
 
-</events-timeline>
+</template>
+</events-list>
