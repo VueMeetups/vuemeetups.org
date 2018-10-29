@@ -8,13 +8,14 @@
 				:key="option.value"
 				class="events-list__filter"
 				:class="{ 'is-active': type === option.value }">
-				{{ option.label }}
 				<input
 					type="radio"
 					v-model="type"
 					:value="option.value"
-					class="events-list__input"
-				>
+					class="events-list__input">
+				<span class="events-list__label-text">
+					{{ option.label }}
+				</span>
 			</label>
 		</div>
 
@@ -63,6 +64,10 @@ export default {
 	position: absolute;
 	opacity: 0;
 	z-index: -1;
+}
+
+.events-list__input:focus + .events-list__label-text {
+	outline-style: auto;
 }
 
 .events-list__filter {
