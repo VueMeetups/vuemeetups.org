@@ -1469,10 +1469,9 @@
 			"type": "meetup"
 		},
 		{
-			"date": "14th",
-			"time": "at 16th",
+			"date": "14th-16th",
 			"startDate": "2018-11-14",
-			"endDate": "2018-11-14",
+			"endDate": "2018-11-16",
 			"organiser": "Vue Toronto",
 			"organiserLink": "https://www.meetup.com/Vue-Toronto/",
 			"name": "VueConf TO",

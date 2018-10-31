@@ -36,7 +36,11 @@ export default {
 		past: {
 			type: Boolean,
 			default: false
-		}
+		},
+		type: {
+			type: String,
+			default: '',
+		},
 	},
 
 	computed: {
@@ -45,8 +49,9 @@ export default {
 
  			Object.keys(eventsTimeline).forEach((year) => {
 				Object.keys(eventsTimeline[year]).forEach((month) => {
+					eventsTimeline[year][month].sort((e1, e2) => new Date(e1.startDate) - new Date(e2.startDate));
 					eventsTimeline[year][month].forEach((event) => {
-						if (isPast(event.endDate) === this.past) {
+						if (this.showEvent(event)) {
 							if (!events[year]) {
 								events[year] = {};
 							}
@@ -62,6 +67,15 @@ export default {
 			return events;
 		}
 	},
+
+	methods: {
+		showEvent(event) {
+			const checkDate = isPast(event.endDate) === this.past;
+			const checkType = (this.type) ? this.type === event.type : true;
+
+			return checkDate && checkType;
+		}
+	}
 }
 </script>
 
