@@ -1403,6 +1403,16 @@
 	],
 	"November": [
 		{
+			"date": "3rd",
+			"startDate": "2018-11-03",
+			"endDate": "2018-11-03",
+			"organiser": "Vue Fes Japan",
+			"organiserLink": "https://vuefes.jp/",
+			"name": "Vue Fes Japan",
+			"eventLink": "https://vuefes.jp/",
+			"type": "conference"
+		},
+		{
 			"date": "5th ",
 			"time": "at 6:30PM",
 			"startDate": "2018-11-05",
