@@ -47,7 +47,7 @@ You're more than welcome to be more creative, but keeping it as simple as possib
 
 ### 2. Grab All The Branding Things!
 
-Now that you've decided on a name, it's time to grab all the branding thingsWhen it comes to getting the word out about your group and the meetups, there's no substitute for having the proper social media tools. There are a few major ones you want to get to make your life easier:
+Now that you've decided on a name, it's time to grab all the branding things. When it comes to getting the word out about your group and the meetups, there's no substitute for having the proper social media tools. There are a few major ones you want to get to make your life easier:
 
 * Google (for email and potential YouTube possibilities)
 * Twitter
