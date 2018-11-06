@@ -1555,6 +1555,17 @@
 			"type": "meetup"
 		},
 		{
+			"date": "22nd",
+			"time": "at 6:00PM",
+			"startDate": "2018-11-22",
+			"endDate": "2018-11-22",
+			"organiser": "VueJS Amsterdam",
+			"organiserLink": "https://www.meetup.com/VueJS-Amsterdam/",
+			"name": "How to deal with high traffic in Vuejs and topic 2 TBD",
+			"eventLink": "https://www.meetup.com/VueJS-Amsterdam/events/255525172/",
+			"type": "meetup"
+		},
+		{
 			"date": "23rd",
 			"startDate": "2018-11-23",
 			"endDate": "2018-11-23",
