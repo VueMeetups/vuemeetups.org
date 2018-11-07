@@ -3,10 +3,16 @@
 		class="event">
 		<div>
 			<span class="event__type">{{ event.type }}</span>
+			<img
+				v-if="event.tag === 'vuevixens'"
+				src="/vue-vixens-logo-sm.png"
+				alt="Vue vixens logo"
+				class="event__logo"/>
 			<h5 class="event__title"><a :href="event.eventLink" target="_blank" rel="noopener noreferrer">{{ event.name }}</a></h5>
 			<p
 				v-if="event.organiser"
-				class="event__organiser">by <a :href="event.organiserLink" target="_blank" rel="noopener noreferrer">{{ event.organiser }}</a></p>
+				class="event__organiser">by <a :href="event.organiserLink" target="_blank" rel="noopener noreferrer">{{ event.organiser }}</a>
+			</p>
 		</div>
 		<p class="event__date">{{ month }} {{event.date }} {{ event.time }}</p>
 	</div>
@@ -36,6 +42,12 @@ export default {
 	padding: 1rem 1.5rem;
 	margin: 0 0 2rem;
 	border-radius: 5px;
+}
+
+.event__logo {
+	max-width: 60px !important;
+	vertical-align: middle;
+	float: right;
 }
 
 .event__type {

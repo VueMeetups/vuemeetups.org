@@ -19,13 +19,13 @@
 			</label>
 		</div>
 
-		<events-timeline :type="type">
+		<events-timeline :type="type" :all-events="allEvents">
 
 			<slot name="upcoming"></slot>
 
 		</events-timeline>
 
-		<events-timeline :past="true" :type="type">
+		<events-timeline :past="true" :type="type" :all-events="allEvents">
 
 			<slot name="past"></slot>
 
@@ -34,6 +34,10 @@
 </template>
 
 <script>
+import { getGetOrdinal } from '../utils';
+import eventsTimeline from '../data';
+import merge from 'lodash.merge';
+
 export default {
 	data() {
 		return {
@@ -47,9 +51,51 @@ export default {
 			}, {
 				value: 'conference',
 				label: 'Conference',
-			}]
-		}
+			}, {
+				value: 'workshop',
+				label: 'Workshop',
+			}],
+			allEvents: {},
+		};
 	},
+
+
+	async created() {
+		let response = await fetch(`https://api.storyblok.com/v1/cdn/stories/upcoming?version=published&cv=1541163074263&token=IjKA8M0XQusG4z3ceA37lwtt`);
+		let data = await response.json();
+		const fetchedEvents = {};
+
+		data.story.content.body.forEach((event) => {
+			const date = new Date(event.date);
+
+			const year = date.getFullYear();
+			const locale = 'en-us';
+	    const month = date.toLocaleString(locale, { month: 'long' });
+
+			if (!fetchedEvents[year]) {
+				fetchedEvents[year] = {};
+			}
+
+			if (!fetchedEvents[year][month]) {
+				fetchedEvents[year][month] = [];
+			}
+
+			fetchedEvents[year][month].push({
+				date: getGetOrdinal(date.getDate()),
+				startDate: event.date,
+				endDate: event.date,
+				organiser: 'Vue Vixens',
+				organiserLink: 'https://vuevixens.org',
+				name: event.name,
+				eventLink: `https://vuevixens.org/${event.link.cached_url}`,
+				type: 'workshop',
+				tag: 'vuevixens',
+				location: event.location,
+			});
+		});
+
+		this.allEvents = merge(eventsTimeline, fetchedEvents);
+	}
 }
 </script>
 

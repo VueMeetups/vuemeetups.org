@@ -2,7 +2,7 @@
 	<div class="events-timeline">
 		<slot/>
 		<div
-			v-for="(timeline, year) in events">
+			v-for="(timeline, year) in timeline">
 			<h3>{{ year }}</h3>
 			<div
 				v-for="(events, month) in timeline"
@@ -23,7 +23,6 @@
 </template>
 
 <script>
-import eventsTimeline from '../data';
 import EventItem from './EventItem';
 import { isPast } from '../utils';
 
@@ -41,16 +40,20 @@ export default {
 			type: String,
 			default: '',
 		},
+		allEvents: {
+			type: Object,
+			default: () => {},
+		},
 	},
 
 	computed: {
-		events() {
+		timeline() {
 			const events = {};
 
- 			Object.keys(eventsTimeline).forEach((year) => {
-				Object.keys(eventsTimeline[year]).forEach((month) => {
-					eventsTimeline[year][month].sort((e1, e2) => new Date(e1.startDate) - new Date(e2.startDate));
-					eventsTimeline[year][month].forEach((event) => {
+ 			Object.keys(this.allEvents).forEach((year) => {
+				Object.keys(this.allEvents[year]).forEach((month) => {
+					this.allEvents[year][month].sort((e1, e2) => new Date(e1.startDate) - new Date(e2.startDate));
+					this.allEvents[year][month].forEach((event) => {
 						if (this.showEvent(event)) {
 							if (!events[year]) {
 								events[year] = {};
@@ -75,7 +78,8 @@ export default {
 
 			return checkDate && checkType;
 		}
-	}
+	},
+
 }
 </script>
 
