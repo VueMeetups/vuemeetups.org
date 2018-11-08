@@ -1,10 +1,8 @@
 const fs = require('fs');
 const axios = require('axios');
 const merge = require('lodash.merge');
-const data = fs.readFileSync('./docs/.vuepress/data/2018.json');
-const eventsTimeline = JSON.parse(data);
 
-const fetchedEvents = {};
+const staticEventsData = fs.readdirSync('./docs/.vuepress/data/').filter((fileName) => /.+\.json$/.test(fileName));
 
 const getGetOrdinal = (n) => {
 	const s = ['th', 'st', 'nd', 'rd'],
@@ -14,6 +12,7 @@ const getGetOrdinal = (n) => {
 }
 
 async function getVueVixensEvents(params) {
+	const fetchedEvents = {};
 	let response = await axios.get(`https://api.storyblok.com/v1/cdn/stories/upcoming?version=published&cv=1541163074263&token=${process.env.VV_TOKEN}`);
 
 	const apiData = response.data;
@@ -21,19 +20,19 @@ async function getVueVixensEvents(params) {
 	apiData.story.content.body.forEach((event) => {
 		const date = new Date(event.date);
 
-		// const year = date.getFullYear();
+		const year = date.getFullYear();
 		const locale = 'en-us';
 		const month = date.toLocaleString(locale, { month: 'long' });
 
-		// if (!fetchedEvents[year]) {
-		// 	fetchedEvents[year] = {};
-		// }
-
-		if (!fetchedEvents[month]) {
-			fetchedEvents[month] = [];
+		if (!fetchedEvents[year]) {
+			fetchedEvents[year] = {};
 		}
 
-		fetchedEvents[month].push({
+		if (!fetchedEvents[year][month]) {
+			fetchedEvents[year][month] = [];
+		}
+
+		fetchedEvents[year][month].push({
 			date: getGetOrdinal(date.getDate()),
 			startDate: event.date,
 			endDate: event.date,
@@ -47,9 +46,24 @@ async function getVueVixensEvents(params) {
 		});
 	});
 
-	const allEvents = merge(eventsTimeline, fetchedEvents);
-
-	fs.writeFile('./docs/.vuepress/data/2018.json', JSON.stringify(allEvents, null, 2), () => {});
+	return fetchedEvents;
 }
 
-getVueVixensEvents();
+function mergeEvents(asyncEvents) {
+	for (const fileName of staticEventsData) {
+		const year = fileName.replace('.json', '');
+		const fileNamePath = `./docs/.vuepress/data/${fileName}`;
+		const data = fs.readFileSync(fileNamePath);
+		const eventsTimeline = JSON.parse(data);
+		const mergedEvents = merge(eventsTimeline, asyncEvents[year]);
+
+		fs.writeFile(fileNamePath, JSON.stringify(mergedEvents, null, 2), () => {});
+	}
+}
+
+async function main() {
+	let fetchedEvents = await getVueVixensEvents();
+	mergeEvents(fetchedEvents);
+}
+
+main();
