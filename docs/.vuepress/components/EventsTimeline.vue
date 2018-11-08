@@ -23,6 +23,7 @@
 </template>
 
 <script>
+import eventsTimeline from '../data';
 import EventItem from './EventItem';
 import { isPast } from '../utils';
 
@@ -40,20 +41,16 @@ export default {
 			type: String,
 			default: '',
 		},
-		allEvents: {
-			type: Object,
-			default: () => {},
-		},
 	},
 
 	computed: {
 		timeline() {
 			const events = {};
 
- 			Object.keys(this.allEvents).forEach((year) => {
-				Object.keys(this.allEvents[year]).forEach((month) => {
-					this.allEvents[year][month].sort((e1, e2) => new Date(e1.startDate) - new Date(e2.startDate));
-					this.allEvents[year][month].forEach((event) => {
+ 			Object.keys(eventsTimeline).forEach((year) => {
+				Object.keys(eventsTimeline[year]).forEach((month) => {
+					eventsTimeline[year][month].sort((e1, e2) => new Date(e1.startDate) - new Date(e2.startDate));
+					eventsTimeline[year][month].forEach((event) => {
 						if (this.showEvent(event)) {
 							if (!events[year]) {
 								events[year] = {};

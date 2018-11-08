@@ -14,7 +14,10 @@
 				class="event__organiser">by <a :href="event.organiserLink" target="_blank" rel="noopener noreferrer">{{ event.organiser }}</a>
 			</p>
 		</div>
-		<p class="event__date">{{ month }} {{event.date }} {{ event.time }}</p>
+		<footer>
+			<p class="event__info">📅 {{ month }} {{event.date }} {{ event.time }}</p>
+			<p class="event__info" v-if="event.location">🏙️ {{ event.location }}</p>
+		</footer>
 	</div>
 </template>
 
@@ -69,9 +72,9 @@ export default {
 	margin-top: 5px;
 }
 
-.event__date {
+.event__info {
 	font-size: 0.9rem;
-	margin-bottom: 0;
+	margin: 0;
 	font-weight: 700;
 }
 </style>
