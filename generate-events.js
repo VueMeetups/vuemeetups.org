@@ -1,69 +1,73 @@
 const fs = require('fs');
 const axios = require('axios');
-const merge = require('lodash.merge');
 
+console.log('Generating events...')
 const staticEventsData = fs.readdirSync('./docs/.vuepress/data/').filter((fileName) => /.+\.json$/.test(fileName));
+const eventsTimeline = {};
 
-const getGetOrdinal = (n) => {
+for (const fileName of staticEventsData) {
+	const year = fileName.replace('.json', '');
+	const fileNamePath = `./docs/.vuepress/data/${fileName}`;
+	const data = fs.readFileSync(fileNamePath);
+	eventsTimeline[year] = JSON.parse(data);
+}
+
+function getGetOrdinal(n) {
 	const s = ['th', 'st', 'nd', 'rd'],
 	v = n % 100;
 
 	return `${n}${(s[(v-20)%10]||s[v]||s[0])}`;
 }
 
-async function getVueVixensEvents(params) {
-	const fetchedEvents = {};
-	let response = await axios.get(`https://api.storyblok.com/v1/cdn/stories/upcoming?version=published&cv=1541163074263&token=${process.env.VV_TOKEN}`);
+function addEvent(event) {
+	const date = new Date(event.startDate);
 
-	const apiData = response.data;
+	const year = date.getFullYear();
+	const locale = 'en-us';
+	const month = date.toLocaleString(locale, { month: 'long' });
 
-	apiData.story.content.body.forEach((event) => {
-		const date = new Date(event.date);
+	if (!eventsTimeline[year][month]) {
+		eventsTimeline[year][month] = [];
+	}
 
-		const year = date.getFullYear();
-		const locale = 'en-us';
-		const month = date.toLocaleString(locale, { month: 'long' });
-
-		if (!fetchedEvents[year]) {
-			fetchedEvents[year] = {};
-		}
-
-		if (!fetchedEvents[year][month]) {
-			fetchedEvents[year][month] = [];
-		}
-
-		fetchedEvents[year][month].push({
-			date: getGetOrdinal(date.getDate()),
-			startDate: event.date,
-			endDate: event.date,
-			organiser: 'Vue Vixens',
-			organiserLink: 'https://vuevixens.org',
-			name: event.name,
-			eventLink: `https://vuevixens.org/${event.link.cached_url}`,
-			type: 'workshop',
-			tag: 'vuevixens',
-			location: event.location,
-		});
-	});
-
-	return fetchedEvents;
+	eventsTimeline[year][month].push(event);
 }
 
-function mergeEvents(asyncEvents) {
-	for (const fileName of staticEventsData) {
-		const year = fileName.replace('.json', '');
-		const fileNamePath = `./docs/.vuepress/data/${fileName}`;
-		const data = fs.readFileSync(fileNamePath);
-		const eventsTimeline = JSON.parse(data);
-		const mergedEvents = merge(eventsTimeline, asyncEvents[year]);
+async function getVueVixensEvents() {
+	let response = await axios.get(`https://api.storyblok.com/v1/cdn/stories/upcoming?version=published&cv=1541163074263&token=${process.env.VV_TOKEN}`);
 
-		fs.writeFile(fileNamePath, JSON.stringify(mergedEvents, null, 2), () => {});
-	}
+	return response.data.story.content.body.map((event) => ({
+		date: getGetOrdinal(new Date(event.date).getDate()),
+		startDate: event.date,
+		endDate: event.date,
+		organiser: 'Vue Vixens',
+		organiserLink: 'https://vuevixens.org',
+		name: event.name,
+		eventLink: `https://vuevixens.org/${event.link.cached_url}`,
+		type: 'workshop',
+		tag: 'vuevixens',
+		location: event.location,
+	}));
+}
+
+function getEvents(asyncEvents) {
+	asyncEvents.forEach((event) => {
+		addEvent(event)
+	});
 }
 
 async function main() {
-	let fetchedEvents = await getVueVixensEvents();
-	mergeEvents(fetchedEvents);
+	let asyncEvents = await getVueVixensEvents();
+	getEvents(asyncEvents);
+
+	for (const fileName of staticEventsData) {
+		const year = fileName.replace('.json', '');
+		const fileNamePath = `./docs/.vuepress/data/${fileName}`;
+
+		fs.writeFile(fileNamePath, JSON.stringify(eventsTimeline[year], null, 2), () => {});
+	}
+
+	console.log('All events saved to JSON');
 }
 
 main();
