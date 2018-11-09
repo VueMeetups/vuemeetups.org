@@ -16,11 +16,11 @@
 		</div>
 		<footer>
 			<p class="event__info">
-				<img class="event__icon" src="/calendar.svg" alt=""/>
+				<img class="event__icon" src="/calendar.svg" aria-hidden="true"/>
 				{{ month }} {{event.date }} {{ event.time }}
 			</p>
 			<p class="event__info" v-if="event.location">
-				<img class="event__icon" src="/pin.svg" alt=""/>
+				<img class="event__icon" src="/pin.svg" aria-hidden="true"/>
 				{{ event.location }}
 			</p>
 		</footer>
