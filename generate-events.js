@@ -30,12 +30,24 @@ function addEvent(event) {
 		eventsTimeline[year][month] = [];
 	}
 
-	const existingEventIndex = eventsTimeline[year][month].findIndex((item) => event.id === item.id);
-
-	if (existingEventIndex !== -1) {
-		eventsTimeline[year][month].splice(existingEventIndex, 1);
-	}
 	eventsTimeline[year][month].push(event);
+}
+
+function removeVueVixensEvents() {
+	for (const fileName of staticEventsData) {
+		const year = fileName.replace('.json', '');
+
+		Object.keys(eventsTimeline[year]).forEach((month) => {
+			const vvEvents = eventsTimeline[year][month]
+				.filter((event) => event.tag && event.tag === 'vuevixens');
+				if (vvEvents) {
+					vvEvents.forEach((event) => {
+						const existingIndex = eventsTimeline[year][month].findIndex((item) => item.id === event.id);
+						eventsTimeline[year][month].splice(existingIndex, 1);
+					});
+				}
+		});
+	}
 }
 
 async function getVueVixensEvents() {
@@ -63,6 +75,7 @@ function getEvents(asyncEvents) {
 }
 
 async function main() {
+	removeVueVixensEvents();
 	let asyncEvents = await getVueVixensEvents();
 	getEvents(asyncEvents);
 
