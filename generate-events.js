@@ -30,6 +30,11 @@ function addEvent(event) {
 		eventsTimeline[year][month] = [];
 	}
 
+	const existingEventIndex = eventsTimeline[year][month].findIndex((item) => event.id === item.id);
+
+	if (existingEventIndex !== -1) {
+		eventsTimeline[year][month].splice(existingEventIndex, 1);
+	}
 	eventsTimeline[year][month].push(event);
 }
 
@@ -37,6 +42,7 @@ async function getVueVixensEvents() {
 	let response = await axios.get(`https://api.storyblok.com/v1/cdn/stories/upcoming?version=published&cv=1541163074263&token=${process.env.VV_TOKEN}`);
 
 	return response.data.story.content.body.map((event) => ({
+		id: `vm-${event._uid}`,
 		date: getGetOrdinal(new Date(event.date).getDate()),
 		startDate: event.date,
 		endDate: event.date,
