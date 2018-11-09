@@ -15,8 +15,14 @@
 			</p>
 		</div>
 		<footer>
-			<p class="event__info">📅 {{ month }} {{event.date }} {{ event.time }}</p>
-			<p class="event__info" v-if="event.location">🏙️ {{ event.location }}</p>
+			<p class="event__info">
+				<img class="event__icon" src="/calendar.svg" alt=""/>
+				{{ month }} {{event.date }} {{ event.time }}
+			</p>
+			<p class="event__info" v-if="event.location">
+				<img class="event__icon" src="/pin.svg" alt=""/>
+				{{ event.location }}
+			</p>
 		</footer>
 	</div>
 </template>
@@ -65,16 +71,21 @@ export default {
 
 .event__title {
 	font-size: 1.1rem;
-	margin: 10px 0 0;
+	margin: 10px 0 5px;
 }
 
 .event__organiser {
-	margin-top: 5px;
+	margin-top: 0;
 }
 
 .event__info {
 	font-size: 0.9rem;
 	margin: 0;
 	font-weight: 700;
+}
+
+.event__icon {
+	max-width: 20px !important;
+	vertical-align: middle;
 }
 </style>
