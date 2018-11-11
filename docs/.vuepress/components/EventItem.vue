@@ -6,6 +6,7 @@
 			<img
 				v-if="event.tag === 'vuevixens'"
 				src="/vue-vixens-logo-sm.png"
+				title="Vue Vixens"
 				alt="Vue vixens logo"
 				class="event__logo"/>
 			<h5 class="event__title"><a :href="event.eventLink" target="_blank" rel="noopener noreferrer">{{ event.name }}</a></h5>
