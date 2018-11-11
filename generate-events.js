@@ -1,15 +1,10 @@
 const fs = require('fs');
 const axios = require('axios');
 
-console.log('Generating events...')
-const staticEventsData = fs.readdirSync('./docs/.vuepress/data/').filter((fileName) => /.+\.json$/.test(fileName));
 const eventsTimeline = {};
 
-for (const fileName of staticEventsData) {
-	const year = fileName.replace('.json', '');
-	const fileNamePath = `./docs/.vuepress/data/${fileName}`;
-	const data = fs.readFileSync(fileNamePath);
-	eventsTimeline[year] = JSON.parse(data);
+function getYearFromFile(fileName) {
+	return fileName.replace('.json', '');
 }
 
 function getGetOrdinal(n) {
@@ -33,9 +28,9 @@ function addEvent(event) {
 	eventsTimeline[year][month].push(event);
 }
 
-function removeVueVixensEvents() {
+function removeVueVixensEvents(staticEventsData) {
 	for (const fileName of staticEventsData) {
-		const year = fileName.replace('.json', '');
+		const year = getYearFromFile(fileName);
 
 		Object.keys(eventsTimeline[year]).forEach((month) => {
 			const vvEvents = eventsTimeline[year][month]
@@ -74,18 +69,34 @@ function getEvents(asyncEvents) {
 	});
 }
 
-async function main() {
-	removeVueVixensEvents();
-	let asyncEvents = await getVueVixensEvents();
-	getEvents(asyncEvents);
-
+function readEventsFromFile(staticEventsData) {
 	for (const fileName of staticEventsData) {
-		const year = fileName.replace('.json', '');
+		const year = getYearFromFile(fileName);
+		const fileNamePath = `./docs/.vuepress/data/${fileName}`;
+		const data = fs.readFileSync(fileNamePath);
+		eventsTimeline[year] = JSON.parse(data);
+	}
+}
+
+function writeEventsToFile(staticEventsData) {
+	for (const fileName of staticEventsData) {
+		const year = getYearFromFile(fileName);
 		const fileNamePath = `./docs/.vuepress/data/${fileName}`;
 
 		fs.writeFile(fileNamePath, JSON.stringify(eventsTimeline[year], null, 2), () => {});
 	}
+}
 
+async function main() {
+	const staticEventsData = fs.readdirSync('./docs/.vuepress/data/').filter((fileName) => /.+\.json$/.test(fileName));
+
+	console.log('Generating events...')
+	let asyncEvents = await getVueVixensEvents();
+
+	readEventsFromFile(staticEventsData);
+	removeVueVixensEvents(staticEventsData);
+	getEvents(asyncEvents);
+	writeEventsToFile(staticEventsData);
 	console.log('All events saved to JSON');
 }
 
