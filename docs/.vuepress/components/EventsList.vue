@@ -1,22 +1,24 @@
 <template>
 	<div>
 		<div class="events-list__filters">
-			<span>Show:</span>
+			<div>Show:</div>
 
-			<label
-				v-for="option in typesOptions"
-				:key="option.value"
-				class="events-list__filter"
-				:class="{ 'is-active': type === option.value }">
-				<input
-					type="radio"
-					v-model="type"
-					:value="option.value"
-					class="events-list__input">
-				<span class="events-list__label-text">
-					{{ option.label }}
-				</span>
-			</label>
+			<div class="events-list__labels">
+				<label
+					v-for="option in typesOptions"
+					:key="option.value"
+					class="events-list__filter"
+					:class="{ 'is-active': type === option.value }">
+					<input
+						type="radio"
+						v-model="type"
+						:value="option.value"
+						class="events-list__input">
+					<span class="events-list__label-text">
+						{{ option.label }}
+					</span>
+				</label>
+			</div>
 		</div>
 
 		<events-timeline :type="type">
@@ -47,10 +49,13 @@ export default {
 			}, {
 				value: 'conference',
 				label: 'Conference',
-			}]
-		}
+			}, {
+				value: 'workshop',
+				label: 'Workshop',
+			}],
+		};
 	},
-}
+};
 </script>
 
 <style>
@@ -66,6 +71,12 @@ export default {
 	z-index: -1;
 }
 
+.events-list__labels {
+	margin-top: 1rem;
+	display: flex;
+	justify-content: space-between;
+}
+
 .events-list__input:focus + .events-list__label-text {
 	outline-style: auto;
 }
@@ -73,7 +84,6 @@ export default {
 .events-list__filter {
 	font-weight: 500;
 	cursor: pointer;
-	margin: 0 1.5rem;
 }
 
 .events-list__filter:hover,

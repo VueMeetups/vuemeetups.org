@@ -1,14 +1,49 @@
 <template>
-	<div
-		class="event">
+	<div class="event">
 		<div>
 			<span class="event__type">{{ event.type }}</span>
-			<h5 class="event__title"><a :href="event.eventLink" target="_blank" rel="noopener noreferrer">{{ event.name }}</a></h5>
+			<img
+				v-if="event.tag === 'vuevixens'"
+				src="/vue-vixens-logo-sm.png"
+				title="Vue Vixens"
+				alt="Vue vixens logo"
+				class="event__logo"/>
+			<h5 class="event__title">
+				<a
+					:href="event.eventLink"
+					target="_blank"
+					rel="noopener noreferrer">
+					{{ event.name }}
+				</a>
+			</h5>
 			<p
 				v-if="event.organiser"
-				class="event__organiser">by <a :href="event.organiserLink" target="_blank" rel="noopener noreferrer">{{ event.organiser }}</a></p>
+				class="event__organiser">
+				by
+				<a
+					:href="event.organiserLink"
+					target="_blank"
+					rel="noopener noreferrer">
+					{{ event.organiser }}
+				</a>
+			</p>
 		</div>
-		<p class="event__date">{{ month }} {{event.date }} {{ event.time }}</p>
+		<footer>
+			<p class="event__info">
+				<img
+					class="event__icon"
+					src="/calendar.svg"
+					aria-hidden="true"/>
+				{{ month }} {{event.date }} {{ event.time }}
+			</p>
+			<p class="event__info" v-if="event.location">
+				<img
+					class="event__icon"
+					src="/pin.svg"
+					aria-hidden="true"/>
+				{{ event.location }}
+			</p>
+		</footer>
 	</div>
 </template>
 
@@ -50,16 +85,27 @@ export default {
 
 .event__title {
 	font-size: 1.1rem;
-	margin: 10px 0 0;
+	margin: 10px 0 5px;
 }
 
 .event__organiser {
-	margin-top: 5px;
+	margin-top: 0;
 }
 
-.event__date {
+.event__info {
 	font-size: 0.9rem;
-	margin-bottom: 0;
+	margin: 0;
 	font-weight: 700;
+}
+
+.content:not(.custom) .event__logo {
+	max-width: 60px;
+	vertical-align: middle;
+	float: right;
+}
+
+.content:not(.custom) .event__icon {
+	max-width: 20px;
+	vertical-align: middle;
 }
 </style>
