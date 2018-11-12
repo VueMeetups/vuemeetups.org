@@ -1574,10 +1574,10 @@
       "type": "conference"
     },
     {
-      "date": "23rd",
+      "date": "30th",
       "time": "at 7:30PM",
-      "startDate": "2018-11-23",
-      "endDate": "2018-11-23",
+      "startDate": "2018-11-30",
+      "endDate": "2018-11-30",
       "organiser": "Vue.js Hong Kong",
       "organiserLink": "https://www.facebook.com/profile.php?id=887185518120024/",
       "name": "Meetup #5 - Reusable Vue Components",
