@@ -2,7 +2,7 @@
 	<div class="events-timeline">
 		<slot/>
 		<div
-			v-for="(timeline, year) in events">
+			v-for="(timeline, year) in timeline">
 			<h3>{{ year }}</h3>
 			<div
 				v-for="(events, month) in timeline"
@@ -44,7 +44,7 @@ export default {
 	},
 
 	computed: {
-		events() {
+		timeline() {
 			const events = {};
 
  			Object.keys(eventsTimeline).forEach((year) => {
@@ -75,7 +75,8 @@ export default {
 
 			return checkDate && checkType;
 		}
-	}
+	},
+
 }
 </script>
 

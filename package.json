@@ -5,11 +5,15 @@
 	"main": ".prettierrc.js",
 	"scripts": {
 		"dev": "vuepress dev docs",
-		"build": "vuepress build docs"
+		"build": "vuepress build docs",
+		"generate": "node generate-events.js"
 	},
 	"author": "Ben Hong <bencodezen@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
 		"vuepress": "^0.10.0"
+	},
+	"dependencies": {
+		"axios": "^0.18.0"
 	}
 }
