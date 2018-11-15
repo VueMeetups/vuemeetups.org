@@ -200,6 +200,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ## South America
 
+### Argentina 
+
+- Buenos Aires - [Vuenos Aires](https://meetup.com/vuenos-aires)
+
 ### Brazil
 
 - São Paulo - [Vue.js @ São Paulo](https://www.meetup.com/VueJS-SP/)
