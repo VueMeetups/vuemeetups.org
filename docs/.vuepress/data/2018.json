@@ -449,7 +449,8 @@
       "organiserLink": "https://www.meetup.com/DublinVueJS/",
       "name": "Why VueJS? Introduction & its place in the frontend universe",
       "eventLink": "https://www.meetup.com/DublinVueJS/events/252273937/",
-      "type": "meetup"
+      "type": "meetup",
+      "location": "Dogpatch Labs - Dublin, Ireland"
     },
     {
       "date": "23rd",
