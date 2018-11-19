@@ -1574,6 +1574,16 @@
       "type": "conference"
     },
     {
+      "date": "29th",
+      "startDate": "2018-11-29",
+      "endDate": "2018-11-29",
+      "organiser": "VueJS Dublin",
+      "organizerLink": "https://www.meetup.com/DublinVueJS/",
+      "name": "Nuxt Introduction & Live Demo",
+      "eventLink": "https://www.meetup.com/DublinVueJS/events/256376470/",
+      "type": "meetup"
+    },
+    {
       "date": "30th",
       "time": "at 7:30PM",
       "startDate": "2018-11-30",
