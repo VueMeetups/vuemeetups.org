@@ -84,7 +84,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Ireland
 
-- Dublin - [Vue.js Ireland](https://meetup.com/vuejs-ireland)
+- Dublin - [VueJS Dublin](https://www.meetup.com/DublinVueJS/)
 
 ### Israel
 
