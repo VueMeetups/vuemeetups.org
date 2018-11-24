@@ -16,6 +16,12 @@ In order to help preserve the integrity of the Vue.js community, this page will 
 
 And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to get connected with individuals around the world.
 
+## Africa
+
+### Senegal
+
+- Darak - [Vuejs Dakar](https://www.facebook.com/Vuejs-Dakar-179873696299957)
+
 ## Asia
 
 ### Hong Kong
@@ -201,7 +207,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ## South America
 
-### Argentina 
+### Argentina
 
 - Buenos Aires - [Vuenos Aires](https://meetup.com/vuenos-aires)
 
