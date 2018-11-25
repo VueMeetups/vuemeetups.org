@@ -65,7 +65,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Sofia - [Vue.js Sofia](https://www.meetup.com/Sofia-Vue-js-Meetup/)
 
-### Czechia
+### Czech Republic
 
 - Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
 
@@ -173,6 +173,8 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
 - Indiana
   - Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
+- Massachusetts
+	- Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
 - Michigan
   - Detroit - [Vuetroit](https://www.meetup.com/Vuetroit/)
 - Minnesota
