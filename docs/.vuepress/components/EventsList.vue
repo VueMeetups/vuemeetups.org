@@ -12,6 +12,7 @@
 					<input
 						type="radio"
 						v-model="type"
+						name="event-type"
 						:value="option.value"
 						class="events-list__input">
 					<span class="events-list__label-text">
