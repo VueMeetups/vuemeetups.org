@@ -32,6 +32,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
 
+### Japan
+
+- Tokyo - [Vue.js Tokyo v-meetup](https://vuejs-meetup.connpass.com/)
+
 ### Singapore
 
 - Singapore - [Vue JS Singapore](https://meetup.com/Vue-JS-Singapore)
