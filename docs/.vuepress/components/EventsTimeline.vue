@@ -2,7 +2,7 @@
 	<div class="events-timeline">
 		<slot/>
 		<div
-			v-for="(timeline, year) in timeline">
+			v-for="(timeline, year) in allEvents">
 			<h3>{{ year }}</h3>
 			<div
 				v-for="(events, month) in timeline"
@@ -44,12 +44,30 @@ export default {
 	},
 
 	computed: {
-		timeline() {
+		allEvents() {
 			const events = {};
 
- 			Object.keys(eventsTimeline).forEach((year) => {
-				Object.keys(eventsTimeline[year]).forEach((month) => {
-					eventsTimeline[year][month].sort((e1, e2) => new Date(e1.startDate) - new Date(e2.startDate));
+			const years = Object.keys(eventsTimeline);
+
+			if (this.past) {
+				years.reverse();
+			}
+
+ 			years.forEach((year) => {
+
+				const months = Object.keys(eventsTimeline[year]);
+
+				if (this.past) {
+					months.reverse();
+				}
+
+				months.forEach((month) => {
+					eventsTimeline[year][month].sort((e1, e2) => {
+						const e1StartDate = new Date(e1.startDate);
+						const e2StartDate = new Date(e2.startDate);
+
+						return (this.past) ? e2StartDate - e1StartDate : e1StartDate - e2StartDate;
+					});
 					eventsTimeline[year][month].forEach((event) => {
 						if (this.showEvent(event)) {
 							if (!events[year]) {
