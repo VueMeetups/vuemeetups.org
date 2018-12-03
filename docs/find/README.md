@@ -224,6 +224,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
 - Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
 - Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
+- Espírito Santo - [Vue.js Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
 
 ### Colombia
 
