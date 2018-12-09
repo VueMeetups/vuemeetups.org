@@ -449,7 +449,8 @@
       "organiserLink": "https://www.meetup.com/DublinVueJS/",
       "name": "Why VueJS? Introduction & its place in the frontend universe",
       "eventLink": "https://www.meetup.com/DublinVueJS/events/252273937/",
-      "type": "meetup"
+      "type": "meetup",
+      "location": "Dogpatch Labs - Dublin, Ireland"
     },
     {
       "date": "23rd",
@@ -1574,10 +1575,20 @@
       "type": "conference"
     },
     {
-      "date": "23rd",
+      "date": "29th",
+      "startDate": "2018-11-29",
+      "endDate": "2018-11-29",
+      "organiser": "VueJS Dublin",
+      "organizerLink": "https://www.meetup.com/DublinVueJS/",
+      "name": "Nuxt Introduction & Live Demo",
+      "eventLink": "https://www.meetup.com/DublinVueJS/events/256376470/",
+      "type": "meetup"
+    },
+    {
+      "date": "30th",
       "time": "at 7:30PM",
-      "startDate": "2018-11-23",
-      "endDate": "2018-11-23",
+      "startDate": "2018-11-30",
+      "endDate": "2018-11-30",
       "organiser": "Vue.js Hong Kong",
       "organiserLink": "https://www.facebook.com/profile.php?id=887185518120024/",
       "name": "Meetup #5 - Reusable Vue Components",
@@ -1598,8 +1609,8 @@
     {
       "date": "30th",
       "time": "at 7:00PM",
-      "startDate": "2018-11-26",
-      "endDate": "2018-11-26",
+      "startDate": "2018-11-30",
+      "endDate": "2018-11-30",
       "organiser": "Vue.js Vienna",
       "organiserLink": "https://www.meetup.com/Vue-js-Vienna/",
       "name": "Vue.js Vienna November Meetup",

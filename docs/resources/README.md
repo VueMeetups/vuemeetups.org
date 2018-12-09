@@ -14,7 +14,7 @@ That's exciting news! We are glad to see so many people who are enthusiastic abo
 
 For those who want a quick pep talk before diving into the guide, check out the following [lightning talk for VueConf 2018](https://www.vuemastery.com/conferences/vueconf-2018/start-your-own-vuejs-meetup-ben-hong).
 
-<iframe src="https://player.vimeo.com/video/267649014" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/267649014" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
 
 ::: tip
 Before diving headfirst into how you start your own meetup, be sure to check and make sure there isn't already one in your area! And if there is, we can help put you in contact with the organizers if you'd like to get more involved!
