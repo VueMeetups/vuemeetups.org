@@ -34,6 +34,17 @@
       "type": "meetup"
     },
     {
+      "date": "24th",
+      "time": "at 7:30PM",
+      "startDate": "2019-01-24",
+      "endDate": "2019-01-24",
+      "organiser": "Vue.js Hong Kong",
+      "organiserLink": "https://www.facebook.com/groups/887185518120024/",
+      "name": "Hong Kong Vue.js Meetup 6",
+      "eventLink": "https://www.facebook.com/events/264299674245444/",
+      "type": "meetup"
+    },
+    {
       "date": "28th",
       "time": "at 6:00PM",
       "startDate": "2019-01-18",
