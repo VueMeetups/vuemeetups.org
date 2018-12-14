@@ -1749,6 +1749,17 @@
       "type": "workshop",
       "tag": "vuevixens",
       "location": "Warsaw, Poland"
+    },
+    {
+      "date": "17th",
+      "time": "at 6:00PM",
+      "startDate": "2018-06-17",
+      "endDate": "2018-06-17",
+      "organiser": "Vue.js Budapest",
+      "organiserLink": "https://www.meetups.com/Vue-js-Budapest/",
+      "name": "Vue.js X-TRA X-PERT X-MAS edition",
+      "eventLink": "https://www.meetup.com/Vue-js-Budapest/events/257027925/",
+      "type": "meetup"
     }
   ]
 }
