@@ -35,6 +35,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### Japan
 
 - Tokyo - [Vue.js Tokyo v-meetup](https://vuejs-meetup.connpass.com/)
+- Kansai - [v-kansai Vue.js/Nuxt.js meetup](https://vuekansai.connpass.com/)
 
 ### Singapore
 
