@@ -31,6 +31,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### India
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
+- Hyderabad - [Vue Hyderabad](https://www.meetup.com/Hyderabad-Vue-JS)
 
 ### Japan
 
