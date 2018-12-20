@@ -38,6 +38,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Tokyo - [Vue.js Tokyo v-meetup](https://vuejs-meetup.connpass.com/)
 - Kansai - [v-kansai Vue.js/Nuxt.js meetup](https://vuekansai.connpass.com/)
 
+### Philippines
+
+- Cebu - [Vue.js Cebu](https://facebook.com/vuejscebu/)
+
 ### Singapore
 
 - Singapore - [Vue JS Singapore](https://meetup.com/Vue-JS-Singapore)
