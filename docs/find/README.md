@@ -73,6 +73,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Bulgaria
 
+- Bulgaria - [Vue.js Bulgaria](https://vuebulgaria.com)
 - Sofia - [Vue.js Sofia](https://www.meetup.com/Sofia-Vue-js-Meetup/)
 
 ### Czech Republic
