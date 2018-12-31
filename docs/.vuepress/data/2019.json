@@ -108,5 +108,17 @@
       "eventLink": "http://www.vueconf.us/",
       "type": "conference"
     }
+  ],
+  "April": [
+    {
+      "date": "12th",
+      "startDate": "2019-04-12",
+      "endDate": "2019-04-12",
+      "organiser": "GrUSP",
+      "organiserLink": "http://www.grusp.org/",
+      "name": "VueDay",
+      "eventLink": "https://2019.vueday.it/",
+      "type": "conference"
+    }
   ]
 }
