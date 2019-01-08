@@ -82,6 +82,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### France
 
+- Lyon - [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/)
 - Nantes - [Vue.js Nantes](https://www.meetup.com/Vuejs-Nantes/)
 - Paris - [Vue.js Paris](https://meetup.com/Vuejs-Paris)
 
@@ -184,8 +185,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
 - Indiana
   - Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
-- Massachusetts
-	- Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
+- Massachusetts - Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
 - Michigan
   - Detroit - [Vuetroit](https://www.meetup.com/Vuetroit/)
 - Minnesota
