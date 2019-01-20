@@ -24,6 +24,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ## Asia
 
+### China
+
+- Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
+
 ### Hong Kong
 
 - Hong Kong - [Vue.js Hong Kong](https://www.facebook.com/groups/887185518120024/)
