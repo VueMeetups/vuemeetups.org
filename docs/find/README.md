@@ -209,6 +209,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Charleston - [Charleston Vue.js](https://www.meetup.com/Charleston-Vue-js/)
   - Myrtle Beach - [Myrtle Beach Vue.js Meetup](https://www.meetup.com/myrtle-beach-vue-javascript-meetup/)
 - Texas
+  - Austin - [Austin Vue.js](https://www.meetup.com/The-Austin-Vue-js-Meetup/)
   - Dallas - [Dallas Vue Meetup](https://www.meetup.com/Dallas-Vue-Meetup/)
   - San Antonio - [VueSA](https://meetup.com/meetup-group-mltMsxBD)
 - Utah
