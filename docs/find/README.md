@@ -129,6 +129,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Poland - [Vue.js Poland Meetup](https://meetup.com/Vue-js-Poland)
 
+### Portugal
+
+- Lisbon - [Vue.js Lisbon](https://meetup.com/vue-js-lisbon)
+
 ### Russia
 
 - Moscow - [Moscow Vue.js Meetup](https://meetup.com/vue-js-moscow)
