@@ -124,6 +124,17 @@
       "type": "meetup"
     },
     {
+      "date": "7th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-07",
+      "endDate": "2019-02-07",
+      "organiser": "Tokyo Vue Meetup",
+      "organiserLink": "https://www.meetup.com/Tokyo-Vue-Meetup/",
+      "name": "Meetup Tokyo Vue.js #1 - Let's get started!",
+      "eventLink": "https://www.meetup.com/Tokyo-Vue-Meetup/events/258151785/",
+      "type": "meetup"
+    },
+    {
       "date": "12th",
       "time": "at 6:30PM",
       "startDate": "2019-02-12",
