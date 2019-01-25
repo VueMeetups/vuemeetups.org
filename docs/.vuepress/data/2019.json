@@ -89,6 +89,17 @@
       "type": "meetup"
     },
     {
+      "date": "29th",
+      "time": "at 6:30PM",
+      "startDate": "2019-01-29",
+      "endDate": "2019-01-29",
+      "organiser": "Hamburg Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/Hamburg-Vue-js-Meetup/",
+      "name": "Vue.js Meetup #4",
+      "eventLink": "https://www.meetup.com/Hamburg-Vue-js-Meetup/events/257995734/",
+      "type": "meetup"
+    },
+    {
       "date": "30th",
       "time": "at 7:00PM",
       "startDate": "2019-01-30",
