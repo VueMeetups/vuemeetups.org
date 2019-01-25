@@ -45,6 +45,17 @@
       "type": "meetup"
     },
     {
+      "date": "26th",
+      "time": "at 10:00AM",
+      "startDate": "2019-01-26",
+      "endDate": "2019-01-26",
+      "organiser": "Vue Bangalore",
+      "organiserLink": "https://www.meetup.com/vue-bangalore/",
+      "name": "VueBLR #10 - Kick-start your Vuetiful Journey (Free Workshop)",
+      "eventLink": "https://www.meetup.com/vue-bangalore/events/256686922/",
+      "type": "meetup"
+    },
+    {
       "date": "28th",
       "time": "at 6:00PM",
       "startDate": "2019-01-18",
