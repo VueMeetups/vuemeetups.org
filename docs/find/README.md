@@ -247,6 +247,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Bogotá - [Bogotá Vue.js Meetup](https://meetup.com/Bogota-Vue-js-Meetup)
 
+### Peru
+
+- Lima - [Vuejs @ Lima[(https://www.meetup.com/Vuejs-Lima/)
+
 ### Uruguay
 
 - Montevideo - [Montevideo VueJS](https://www.meetup.com/Montevideo-Vue-JS-Meetup)
