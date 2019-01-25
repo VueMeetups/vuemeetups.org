@@ -54,6 +54,17 @@
       "name": "Denver Vue meetup!",
       "eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzcblc/",
       "type": "meetup"
+    },
+    {
+      "date": "29th",
+      "time": "at 7:00PM",
+      "startDate": "2019-01-29",
+      "endDate": "2019-01-29",
+      "organiser": "VueJS Madrid",
+      "organiserLink": "https://www.meetup.com/VueJS-Madrid/",
+      "name": "VENoM y Dock(er). El stack de desarrollo simbionte.",
+      "eventLink": "https://www.meetup.com/VueJS-Madrid/events/257939275/",
+      "type": "meetup"
     }
   ],
   "February": [
