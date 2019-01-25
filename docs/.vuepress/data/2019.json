@@ -69,6 +69,17 @@
   ],
   "February": [
     {
+      "date": "5th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-05",
+      "endDate": "2019-02-05",
+      "organiser": "Vue.js Lisbon",
+      "organiserLink": "https://www.meetup.com/vue-js-lisbon/",
+      "name": "Meetup #2 Vue.js Lisbon | Let's talk Performance",
+      "eventLink": "https://www.meetup.com/vue-js-lisbon/events/258096043/",
+      "type": "meetup"
+    },
+    {
       "date": "12th",
       "time": "at 6:30PM",
       "startDate": "2019-02-12",
