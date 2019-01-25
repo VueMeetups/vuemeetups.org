@@ -40,6 +40,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### Japan
 
 - Tokyo - [Vue.js Tokyo v-meetup](https://vuejs-meetup.connpass.com/)
+- Tokyo - [Meetup Tokyo Vue.js - MTV](https://www.meetup.com/Tokyo-Vue-Meetup/)
 - Kansai - [v-kansai Vue.js/Nuxt.js meetup](https://vuekansai.connpass.com/)
 
 ### Philippines
