@@ -198,6 +198,17 @@
       "type": "conference"
     },
     {
+      "date": "21st",
+      "time": "at 7:00PM",
+      "startDate": "2019-01-21",
+      "endDate": "2019-01-21",
+      "organiser": "Stuttgart Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/Stuttgart-Vue-js-Meetup/",
+      "name": "2. Stuttgart Vue.js Meetup",
+      "eventLink": "https://www.meetup.com/Stuttgart-Vue-js-Meetup/events/257167830/",
+      "type": "meetup"
+    },
+    {
       "date": "25th",
       "time": "at 6:00PM",
       "startDate": "2019-01-25",
