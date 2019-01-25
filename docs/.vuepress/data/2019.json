@@ -200,6 +200,17 @@
   ],
   "March": [
     {
+      "date": "4th",
+      "time": "at 7:00M",
+      "startDate": "2019-03-04",
+      "endDate": "2019-03-04",
+      "organiser": "<vue-zurich/>",
+      "organiserLink": "https://www.meetup.com/vue_zurich/",
+      "name": "№ 6",
+      "eventLink": "https://www.meetup.com/vue_zurich/events/257781608/",
+      "type": "meetup"
+    },
+    {
       "date": "26-27th",
       "startDate": "2019-03-26",
       "endDate": "2019-03-27",
