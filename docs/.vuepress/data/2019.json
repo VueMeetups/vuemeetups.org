@@ -135,6 +135,17 @@
       "type": "meetup"
     },
     {
+      "date": "5th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-05",
+      "endDate": "2019-02-05",
+      "organiser": "Sevilla JS",
+      "organiserLink": "https://www.meetup.com/sevilla-js/",
+      "name": "SevillaJS Talks. Especial Vue.js",
+      "eventLink": "https://www.meetup.com/sevilla-js/events/258435991/",
+      "type": "meetup"
+    },
+    {
       "date": "6th",
       "time": "at 6:00PM",
       "startDate": "2019-02-06",
