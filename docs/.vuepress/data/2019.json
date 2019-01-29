@@ -277,6 +277,17 @@
       "type": "meetup"
     },
     {
+      "date": "4th",
+      "time": "at 6:00PM",
+      "startDate": "2019-03-04",
+      "endDate": "2019-03-04",
+      "organiser": "VueJS Frankfurt",
+      "organiserLink": "https://www.meetup.com/vuejsfrankfurt/",
+      "name": "Vue.js Frankfurt Event March 2019",
+      "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/255460169/",
+      "type": "meetup"
+    },
+    {
       "date": "12th",
       "time": "at 7:00PM",
       "startDate": "2019-03-12",
