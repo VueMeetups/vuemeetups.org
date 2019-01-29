@@ -202,6 +202,17 @@
     },
     {
       "date": "12th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-12",
+      "endDate": "2019-02-12",
+      "organiser": "VueJS LA",
+      "organiserLink": "https://www.meetup.com/VuejsLA/",
+      "name": "Monthly Meetup",
+      "eventLink": "https://www.meetup.com/VuejsLA/events/258405362/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
       "time": "at 7:00PM",
       "startDate": "2019-02-12",
       "endDate": "2019-02-12",
