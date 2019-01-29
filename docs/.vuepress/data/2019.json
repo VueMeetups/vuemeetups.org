@@ -169,6 +169,17 @@
     },
     {
       "date": "7th",
+      "time": "at 5:30PM",
+      "startDate": "2019-02-07",
+      "endDate": "2019-02-07",
+      "organiser": "VueCLE",
+      "organiserLink": "https://www.meetup.com/vuecle/",
+      "name": "Getting Started with Vue CLI 3",
+      "eventLink": "https://www.meetup.com/vuecle/events/257002211/",
+      "type": "meetup"
+    },
+    {
+      "date": "7th",
       "time": "at 7:00PM",
       "startDate": "2019-02-07",
       "endDate": "2019-02-07",
