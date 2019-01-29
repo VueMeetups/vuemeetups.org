@@ -277,6 +277,17 @@
       "type": "meetup"
     },
     {
+      "date": "12th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-12",
+      "endDate": "2019-02-12",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
+      "name": "Vue.js // Berlin Meetup",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzfbqb/",
+      "type": "meetup"
+    },
+    {
       "date": "26-27th",
       "startDate": "2019-03-26",
       "endDate": "2019-03-27",
