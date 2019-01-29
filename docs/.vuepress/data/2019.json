@@ -191,6 +191,17 @@
     },
     {
       "date": "12th",
+      "time": "at 6:00PM",
+      "startDate": "2019-02-12",
+      "endDate": "2019-02-12",
+      "organiser": "Vue Sydney",
+      "organiserLink": "https://www.meetup.com/vue-sydney/",
+      "name": "Vue Sydney Meetup #9",
+      "eventLink": "https://www.meetup.com/vue-sydney/events/258145181/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
       "time": "at 6:30PM",
       "startDate": "2019-02-12",
       "endDate": "2019-02-12",
