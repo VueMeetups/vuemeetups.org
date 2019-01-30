@@ -252,7 +252,17 @@
       "eventLink": "http://www.vuejs.amsterdam/",
       "type": "conference"
     },
-
+    {
+      "date": "21st",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-21",
+      "organiser": "Vue.js Vienna",
+      "organiserLink": "https://www.meetup.com/Vue-js-Vienna/",
+      "name": "Vue.js Vienna February Meetup",
+      "eventLink": "https://www.meetup.com/Vue-js-Vienna/events/258219153/",
+      "type": "meetup"
+    },
     {
       "date": "21st",
       "time": "at 6:30PM",
