@@ -58,7 +58,7 @@
     {
       "date": "28th",
       "time": "at 6:00PM",
-      "startDate": "2019-01-18",
+      "startDate": "2019-01-28",
       "endDate": "2019-01-28",
       "organiser": "Denver Vue.js Meetup",
       "organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
@@ -246,8 +246,8 @@
     },
     {
       "date": "14th-15th",
-      "startDate": "2019-01-14",
-      "endDate": "2019-01-15",
+      "startDate": "2019-02-14",
+      "endDate": "2019-02-15",
       "name": "Vuejs Amsterdam",
       "eventLink": "http://www.vuejs.amsterdam/",
       "type": "conference"
@@ -255,8 +255,8 @@
     {
       "date": "21st",
       "time": "at 7:00PM",
-      "startDate": "2019-01-21",
-      "endDate": "2019-01-21",
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-21",
       "organiser": "Stuttgart Vue.js Meetup",
       "organiserLink": "https://www.meetup.com/Stuttgart-Vue-js-Meetup/",
       "name": "2. Stuttgart Vue.js Meetup",
@@ -266,8 +266,8 @@
     {
       "date": "25th",
       "time": "at 6:00PM",
-      "startDate": "2019-01-25",
-      "endDate": "2019-01-25",
+      "startDate": "2019-02-25",
+      "endDate": "2019-02-25",
       "organiser": "Denver Vue.js Meetup",
       "organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup",
       "name": "Denver Vue meetup!",
@@ -344,8 +344,8 @@
     {
       "date": "9th",
       "time": "at 7:00PM",
-      "startDate": "2019-04-12",
-      "endDate": "2019-04-12",
+      "startDate": "2019-04-09",
+      "endDate": "2019-04-09",
       "organiser": "Vue.js // Berlin",
       "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
       "name": "Vue.js // Berlin Meetup",
