@@ -339,6 +339,17 @@
       "name": "Developing for the WebAssembly target",
       "eventLink": "https://www.meetup.com/Vue-Basel/events/258287307/",
       "type": "meetup"
+    },
+    {
+      "date": "28th",
+      "time": "at 7:30PM",
+      "startDate": "2019-02-28",
+      "endDate": "2019-02-28",
+      "organiser": "Vue.js Hong Kong",
+      "organiserLink": "https://www.facebook.com/groups/887185518120024/",
+      "name": "Hong Kong Vue.js Meetup 6",
+      "eventLink": "https://www.facebook.com/events/145466683019787/",
+      "type": "meetup"
     }
   ],
   "March": [
@@ -384,6 +395,17 @@
       "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
       "name": "Vue.js // Berlin Meetup",
       "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzfbqb/",
+      "type": "meetup"
+    },
+    {
+      "date": "21th",
+      "time": "at 7:30PM",
+      "startDate": "2019-03-21",
+      "endDate": "2019-03-21",
+      "organiser": "Vue.js Hong Kong",
+      "organiserLink": "https://www.facebook.com/groups/887185518120024/",
+      "name": "Hong Kong Vue.js Meetup 7",
+      "eventLink": "https://www.facebook.com/events/316720068975039/",
       "type": "meetup"
     },
     {
