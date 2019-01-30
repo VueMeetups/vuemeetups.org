@@ -299,6 +299,17 @@
       "type": "meetup"
     },
     {
+      "date": "6th",
+      "time": "at 5:30PM",
+      "startDate": "2019-03-06",
+      "endDate": "2019-03-06",
+      "organiser": "Utah Vue.js Meetup,
+      "organiserLink": "https://www.meetup.com/utah-vue/",
+      "name": "Monthly Meetup",
+      "eventLink": "https://www.meetup.com/utah-vue/events/phgjnqyzfbjb/",
+      "type": "meetup"
+    },
+    {
       "date": "12th",
       "time": "at 7:00PM",
       "startDate": "2019-03-12",
