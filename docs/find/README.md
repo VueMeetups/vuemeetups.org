@@ -144,6 +144,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Spain
 
+- Alicante - [Alicante Frontend](https://www.meetup.com/Alicante-Frontend/)
 - Barcelona - [VueJS Barcelona](https://www.meetup.com/VueJS-BCN/)
 - Madrid - [VueJS Madrid](https://www.meetup.com/VueJS-Madrid/)
 
