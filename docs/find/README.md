@@ -24,6 +24,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ## Asia
 
+### China
+
+- Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
+
 ### Hong Kong
 
 - Hong Kong - [Vue.js Hong Kong](https://www.facebook.com/groups/887185518120024/)
@@ -31,10 +35,17 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### India
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
+- Hyderabad - [Vue Hyderabad](https://www.meetup.com/Hyderabad-Vue-JS)
 
 ### Japan
 
 - Tokyo - [Vue.js Tokyo v-meetup](https://vuejs-meetup.connpass.com/)
+- Tokyo - [Meetup Tokyo Vue.js - MTV](https://www.meetup.com/Tokyo-Vue-Meetup/)
+- Kansai - [v-kansai Vue.js/Nuxt.js meetup](https://vuekansai.connpass.com/)
+
+### Philippines
+
+- Cebu - [Vue.js Cebu](https://facebook.com/vuejscebu/)
 
 ### Singapore
 
@@ -67,6 +78,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Bulgaria
 
+- Bulgaria - [Vue.js Bulgaria](https://vuebulgaria.com)
 - Sofia - [Vue.js Sofia](https://www.meetup.com/Sofia-Vue-js-Meetup/)
 
 ### Czech Republic
@@ -75,6 +87,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### France
 
+- Lyon - [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/)
 - Nantes - [Vue.js Nantes](https://www.meetup.com/Vuejs-Nantes/)
 - Paris - [Vue.js Paris](https://meetup.com/Vuejs-Paris)
 
@@ -117,6 +130,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Poland - [Vue.js Poland Meetup](https://meetup.com/Vue-js-Poland)
 
+### Portugal
+
+- Lisbon - [Vue.js Lisbon](https://meetup.com/vue-js-lisbon)
+
 ### Russia
 
 - Moscow - [Moscow Vue.js Meetup](https://meetup.com/vue-js-moscow)
@@ -127,6 +144,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Spain
 
+- Alicante - [Alicante Frontend](https://www.meetup.com/Alicante-Frontend/)
 - Barcelona - [VueJS Barcelona](https://www.meetup.com/VueJS-BCN/)
 - Madrid - [VueJS Madrid](https://www.meetup.com/VueJS-Madrid/)
 
@@ -177,8 +195,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
 - Indiana
   - Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
-- Massachusetts
-	- Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
+- Massachusetts - Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
 - Michigan
   - Detroit - [Vuetroit](https://www.meetup.com/Vuetroit/)
 - Minnesota
@@ -198,6 +215,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Charleston - [Charleston Vue.js](https://www.meetup.com/Charleston-Vue-js/)
   - Myrtle Beach - [Myrtle Beach Vue.js Meetup](https://www.meetup.com/myrtle-beach-vue-javascript-meetup/)
 - Texas
+  - Austin - [Austin Vue.js](https://www.meetup.com/The-Austin-Vue-js-Meetup/)
   - Dallas - [Dallas Vue Meetup](https://www.meetup.com/Dallas-Vue-Meetup/)
   - San Antonio - [VueSA](https://meetup.com/meetup-group-mltMsxBD)
 - Utah
@@ -229,6 +247,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### Colombia
 
 - Bogotá - [Bogotá Vue.js Meetup](https://meetup.com/Bogota-Vue-js-Meetup)
+
+### Peru
+
+- Lima - [Vuejs @ Lima[(https://www.meetup.com/Vuejs-Lima/)
 
 ### Uruguay
 
