@@ -252,6 +252,18 @@
       "eventLink": "http://www.vuejs.amsterdam/",
       "type": "conference"
     },
+
+    {
+      "date": "21st",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-21",
+      "organiser": "VueJs Dublin",
+      "organiserLink": "https://www.meetup.com/DublinVueJS/",
+      "name": "February Meetup",
+      "eventLink": "https://www.meetup.com/DublinVueJS/events/258492845/",
+      "type": "meetup"
+    },
     {
       "date": "21st",
       "time": "at 7:00PM",
