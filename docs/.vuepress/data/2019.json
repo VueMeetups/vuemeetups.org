@@ -253,6 +253,17 @@
       "type": "conference"
     },
     {
+      "date": "19th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-19",
+      "endDate": "2019-02-19",
+      "organiser": "Dallas Vue Meetup",
+      "organiserLink": "https://www.meetup.com/Dallas-Vue-Meetup/",
+      "name": "Vue.js Meetup 4",
+      "eventLink": "https://www.meetup.com/Dallas-Vue-Meetup/events/257968050/",
+      "type": "meetup"
+    },
+    {
       "date": "21st",
       "time": "at 6:30PM",
       "startDate": "2019-02-21",
