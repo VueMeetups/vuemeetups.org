@@ -253,6 +253,17 @@
       "type": "conference"
     },
     {
+      "date": "18th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-18",
+      "endDate": "2019-02-18",
+      "organiser": "Vue.js Dresden",
+      "organiserLink": "https://www.meetup.com/vue-js-dresden/",
+      "name": "Go static with Vue - Vue.js Dresden #4",
+      "eventLink": "https://www.meetup.com/vue-js-dresden/events/258288967/",
+      "type": "meetup"
+    },
+    {
       "date": "19th",
       "time": "at 6:30PM",
       "startDate": "2019-02-19",
