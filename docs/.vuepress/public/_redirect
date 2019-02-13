@@ -1,5 +1,5 @@
 # Redirect domains
-https://vuemeetups.org/         https://events.vuejs.org            301
-https://vuemeetups.org/find/    https://events.vuejs.org/meetups/   301
-https://vuemeetups.org/events/  https://events.vuejs.org/events/    301
-https://vuemeetups.org/resources/#getting-started  https://events.vuejs.org/resources/#getting-started  301
+/         https://events.vuejs.org            301
+/find/    https://events.vuejs.org/meetups/   301
+/events/  https://events.vuejs.org/events/    301
+/resources/#getting-started  https://events.vuejs.org/resources/#getting-started  301
