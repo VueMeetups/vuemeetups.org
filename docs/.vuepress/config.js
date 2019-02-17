@@ -14,17 +14,13 @@ module.exports = {
 	ga: 'UA-119995356-1',
 	description: 'Centralizing all Vue.js meetup efforts.',
 	themeConfig: {
-		repo: 'bencodezen/vue-meetups',
+		repo: 'vuejs/events',
 		algolia: {
 			apiKey: '1ef12fa318b025799124106df7b80f20',
 			indexName: 'vuemeetups'
 		},
 		lastUpdated: 'Last Updated',
 		nav: [
-			{
-				text: 'Home',
-				link: '/'
-			},
 			{
 				text: 'Find a Meetup',
 				link: 'https://events.vuejs.org/meetups/'
