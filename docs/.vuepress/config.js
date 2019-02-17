@@ -27,30 +27,30 @@ module.exports = {
 			},
 			{
 				text: 'Find a Meetup',
-				link: '/find/'
+				link: 'https://events.vuejs.org/meetups/'
 			},
 			{
 				text: 'Events',
-				link: '/events/'
+				link: 'https://events.vuejs.org/events/#meetups'
 			},
 			{
 				text: 'Resources',
 				items: [
 					{
 						text: 'Getting Started',
-						link: '/resources/#getting-started'
+						link: 'https://events.vuejs.org/resources/#getting-started'
 					},
 					{
 						text: "Organizers' Handbook",
-						link: '/resources/#organizers-handbook'
+						link: 'https://events.vuejs.org/resources/#organizers-handbook'
 					},
 					{
 						text: "Speakers' Handbook",
-						link: '/resources/#speakers-handbook'
+						link: 'https://events.vuejs.org/resources/#speakers-handbook'
 					},
 					{
 						text: 'Code of Conduct',
-						link: '/code-of-conduct/'
+						link: 'https://events.vuejs.org/code-of-conduct/'
 					}
 				]
 			},
@@ -64,10 +64,6 @@ module.exports = {
 					{
 						text: 'Discord',
 						link: 'https://vue-land.js.org/'
-					},
-					{
-						text: 'Email',
-						link: 'mailto:hello@vuemeetups.org'
 					}
 				]
 			}
