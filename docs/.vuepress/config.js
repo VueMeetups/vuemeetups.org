@@ -15,10 +15,7 @@ module.exports = {
 	description: 'Centralizing all Vue.js meetup efforts.',
 	themeConfig: {
 		repo: 'vuejs/events',
-		algolia: {
-			apiKey: '1ef12fa318b025799124106df7b80f20',
-			indexName: 'vuemeetups'
-		},
+		search: false,
 		lastUpdated: 'Last Updated',
 		nav: [
 			{
