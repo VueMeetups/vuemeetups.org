@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 actionText: Find a Meetup →
-actionLink: /find/
+actionLink: https://events.vuejs.org/events/#meetups
 features:
 - title: Find Local Events Here
   details: No more digging for group info and events, we will centralize everything here to make your life easier
