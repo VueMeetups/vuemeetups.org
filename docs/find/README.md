@@ -191,6 +191,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Florida
   - Ft. Lauderdale - [VueJS Ft Lauderdale](https://www.meetup.com/meetup-group-wemNbYEa/)
   - Orlando - [Vue Orlando](https://www.meetup.com/VueOrlando/)
+  - Tampa - [Vue Tampa](https://www.meetup.com/vuetampa/)
 - Georgia
   - Atlanta - [Atlanta Vue.js Meetup](https://meetup.com/Atlanta-Vue-js-Meetup)
 - Illinois
