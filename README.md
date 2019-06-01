@@ -1,4 +1,4 @@
-# VueMeetups.org
+# VueMeetups.org (Archive)
 
 VueMeetups.org has been officially moved to an official vuejs.org subdomain and now lives at [Vue.js Events](https://github.com/vuejs/events/)!
 
